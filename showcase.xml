@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>2023-07 Echo de Spy - Best Of</title>
+    <link>https://drive.google.com/drive/folders/1-fJsCUT9W_WppFBpXamviBD6g7-htKrc</link>
+    <description>=== AUDIO PLAYLIST ===
+ALBUM: 2023-07 Echo de Spy - Best Of
+
+TRACKS:
+01 - L'Echo de Spy - Ne quelque part.mp3
+05 - L'Echo de Spy - L'homme au bouquet de fleurs.mp3
+10 - L'Echo de Spy - Je suis un homme.mp3
+20 - L'Echo de Spy - Heal the world.mp3
+25 - L'Echo de Spy - Healing light.mp3
+27 - L'Echo de Spy - Tunggare.mp3
+30 - L'Echode Spy - An Irish Blessing.mp3</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://drive.google.com/uc?export=download&amp;id=1csmFxpZDWGQIVdIR2pHkVOfW_pCeg988</url>
+      <title>2023-07 Echo de Spy - Best Of</title>
+      <link>https://drive.google.com/drive/folders/1-fJsCUT9W_WppFBpXamviBD6g7-htKrc</link>
+    </image>
+    <lastBuildDate>Tue, 09 Jan 2024 21:14:46 +0000</lastBuildDate>
+    <item>
+      <title>01 - L'Echo de Spy - Ne quelque part.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1Z_7VckfanIMiyATDtGXIzYSxp02Lptdz</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Z_7VckfanIMiyATDtGXIzYSxp02Lptdz" length="10199795" type="audio/mpeg"/>
+      <pubDate>Mon, 08 Jan 2024 00:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>05 - L'Echo de Spy - L'homme au bouquet de fleurs.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1Y30EtK-EIBqSYEOFsAAODWxZnRFU2KdD</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Y30EtK-EIBqSYEOFsAAODWxZnRFU2KdD" length="8778245" type="audio/mpeg"/>
+      <pubDate>Mon, 08 Jan 2024 00:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>10 - L'Echo de Spy - Je suis un homme.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1qO_4Zghh7LIIyroNyTTjeEWXvs42NBWt</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1qO_4Zghh7LIIyroNyTTjeEWXvs42NBWt" length="7939545" type="audio/mpeg"/>
+      <pubDate>Mon, 08 Jan 2024 00:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>20 - L'Echo de Spy - Heal the world.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1EBSTOqBYmoSsrgExGALRwtVNauL0g2cb</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1EBSTOqBYmoSsrgExGALRwtVNauL0g2cb" length="10626656" type="audio/mpeg"/>
+      <pubDate>Mon, 08 Jan 2024 00:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>25 - L'Echo de Spy - Healing light.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1RHNpYVuWTIoa5axokfkAIT3y7ZkAEIlo</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1RHNpYVuWTIoa5axokfkAIT3y7ZkAEIlo" length="6472604" type="audio/mpeg"/>
+      <pubDate>Mon, 08 Jan 2024 00:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>27 - L'Echo de Spy - Tunggare.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1wzXb4FBy53aJZhA031uuFdDEn5vJXxYx</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1wzXb4FBy53aJZhA031uuFdDEn5vJXxYx" length="3773083" type="audio/mpeg"/>
+      <pubDate>Mon, 08 Jan 2024 00:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>30 - L'Echode Spy - An Irish Blessing.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1KCY2YCIG7Br50ID_hJ23OwULtjJmIgsa</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1KCY2YCIG7Br50ID_hJ23OwULtjJmIgsa" length="2963674" type="audio/mpeg"/>
+      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
