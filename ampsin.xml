@@ -2,7 +2,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>2023-04-16 Ampsin - Echo de Spy &amp; Clac'Sons</title>
-    <link>https://drive.google.com/drive/folders/1TQ3oErlsD17fSXKjUmrVONUif1PxrYJj</link>
+    <link>https://podcast.echodespy.net</link>
     <description>=== AUDIO PLAYLIST ===
 ALBUM: 2023-04-16 Ampsin - Echo de Spy &amp; Clac'Sons
 
@@ -18,44 +18,44 @@ TRACKS:
     <image>
       <url>https://drive.google.com/uc?export=download&amp;id=1KvThrcqhBK0SVSsfT5Ri9gM8lmkcn4HC</url>
       <title>2023-04-16 Ampsin - Echo de Spy &amp; Clac'Sons</title>
-      <link>https://drive.google.com/drive/folders/1TQ3oErlsD17fSXKjUmrVONUif1PxrYJj</link>
+      <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Tue, 09 Jan 2024 21:17:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jan 2024 20:50:32 +0000</lastBuildDate>
     <item>
       <title>03 - Les Clac'Sons - Ella, elle l'a.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1vTanFM0Z-mdT8FyGU42T0w16zLFmcpyb</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1vTanFM0Z-mdT8FyGU42T0w16zLFmcpyb" length="11482821" type="audio/mpeg"/>
-      <pubDate>Mon, 08 Jan 2024 00:05:00 +0000</pubDate>
+      <pubDate>Thu, 11 Jan 2024 00:05:00 +0000</pubDate>
     </item>
     <item>
       <title>04 - Les Clac'Sons - Suis moi.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1E6RruUUYavkmlwWtUCWITk0Ew7njqfnz</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1E6RruUUYavkmlwWtUCWITk0Ew7njqfnz" length="8382975" type="audio/mpeg"/>
-      <pubDate>Mon, 08 Jan 2024 00:04:00 +0000</pubDate>
+      <pubDate>Thu, 11 Jan 2024 00:04:00 +0000</pubDate>
     </item>
     <item>
       <title>23 - L'Echo de Spy - Vuelie.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=178is0qjpxYui8YbX30h83fYW-rcueaLm</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=178is0qjpxYui8YbX30h83fYW-rcueaLm" length="9002177" type="audio/mpeg"/>
-      <pubDate>Mon, 08 Jan 2024 00:03:00 +0000</pubDate>
+      <pubDate>Thu, 11 Jan 2024 00:03:00 +0000</pubDate>
     </item>
     <item>
       <title>26 - L'Echo de Spy - Viva la Vida.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1UaHzRsR2Eoosr_KD2Z-L-mqNz1ZEQRXD</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1UaHzRsR2Eoosr_KD2Z-L-mqNz1ZEQRXD" length="9702983" type="audio/mpeg"/>
-      <pubDate>Mon, 08 Jan 2024 00:02:00 +0000</pubDate>
+      <pubDate>Thu, 11 Jan 2024 00:02:00 +0000</pubDate>
     </item>
     <item>
       <title>30 - L'Echo de Spy - Healing light.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1AbAP5A8c7BOTE7-b1mzGqh-dyA9_zFn0</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1AbAP5A8c7BOTE7-b1mzGqh-dyA9_zFn0" length="7142664" type="audio/mpeg"/>
-      <pubDate>Mon, 08 Jan 2024 00:01:00 +0000</pubDate>
+      <pubDate>Thu, 11 Jan 2024 00:01:00 +0000</pubDate>
     </item>
     <item>
       <title>33 - Echo de Spy et Clac'Sons - La dernière séance.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1nHEl1A7odfMzss4nZ4ovUDc0EQqF0g2w</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1nHEl1A7odfMzss4nZ4ovUDc0EQqF0g2w" length="8462705" type="audio/mpeg"/>
-      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
