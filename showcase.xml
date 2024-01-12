@@ -2,7 +2,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>2023-06-25 SPY - Showcase</title>
-    <link>https://drive.google.com/drive/folders/1Bx04sY2DVZ8-91DjZQEclRX7DWAyn-Yk</link>
+    <link>https://podcast.echodespy.net</link>
     <description>=== AUDIO PLAYLIST ===
 ALBUM: 2023-06-25 SPY - Showcase
 
@@ -17,38 +17,38 @@ TRACKS:
     <image>
       <url>https://drive.google.com/uc?export=download&amp;id=1g62q-o-U2Uzz8HVhS8lSZQzQQW8cutC0</url>
       <title>2023-06-25 SPY - Showcase</title>
-      <link>https://drive.google.com/drive/folders/1Bx04sY2DVZ8-91DjZQEclRX7DWAyn-Yk</link>
+      <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Tue, 09 Jan 2024 21:25:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jan 2024 20:50:24 +0000</lastBuildDate>
     <item>
       <title>02 - L'Echo de Spy - Vuelie.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1FWav68l1_ijRYuXjR7m9TNjcJyZD1vUY</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1FWav68l1_ijRYuXjR7m9TNjcJyZD1vUY" length="8562517" type="audio/mpeg"/>
-      <pubDate>Mon, 08 Jan 2024 00:04:00 +0000</pubDate>
+      <pubDate>Thu, 11 Jan 2024 00:04:00 +0000</pubDate>
     </item>
     <item>
       <title>03 - L'Echo de Spy - Je suis un homme.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1UFX2emBC3NjqDroJvXHzpWX4wUaXD-t-</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1UFX2emBC3NjqDroJvXHzpWX4wUaXD-t-" length="9287327" type="audio/mpeg"/>
-      <pubDate>Mon, 08 Jan 2024 00:03:00 +0000</pubDate>
+      <pubDate>Thu, 11 Jan 2024 00:03:00 +0000</pubDate>
     </item>
     <item>
       <title>07 - L'Echo de Spy - Tunggare.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1S42RBphFrZQPeDbUYMuDkVqReiW1K4fn</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1S42RBphFrZQPeDbUYMuDkVqReiW1K4fn" length="5152599" type="audio/mpeg"/>
-      <pubDate>Mon, 08 Jan 2024 00:02:00 +0000</pubDate>
+      <pubDate>Thu, 11 Jan 2024 00:02:00 +0000</pubDate>
     </item>
     <item>
       <title>10 - L'Echo de Spy - Runaway.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1OAZr0uuxXKrFwRNcP9MVVp7GGT_uGdRD</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1OAZr0uuxXKrFwRNcP9MVVp7GGT_uGdRD" length="8762198" type="audio/mpeg"/>
-      <pubDate>Mon, 08 Jan 2024 00:01:00 +0000</pubDate>
+      <pubDate>Thu, 11 Jan 2024 00:01:00 +0000</pubDate>
     </item>
     <item>
       <title>13 - L'Echo de Spy - Healing light.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1y3sI4YWxm7G6N5OPHLIW320hs8nrHGVU</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1y3sI4YWxm7G6N5OPHLIW320hs8nrHGVU" length="6472604" type="audio/mpeg"/>
-      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
