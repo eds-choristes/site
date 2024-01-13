@@ -9,6 +9,7 @@ ALBUM: 2023-07 Echo de Spy - Best Of
 TRACKS:
 01 - Marlagne 2017 - Ne quelque part.mp3
 02 - Marlagne 2017 - L'homme au bouquet de fleurs.mp3
+03 - Marlagne 2017 - Les pas.mp3
 04 - Bois du Cazier 2022 - Je suis un homme.mp3
 05 - Marlagne 2017 - Heal the world.mp3
 06 - Spy 2023 - Healing light.mp3
@@ -21,17 +22,23 @@ TRACKS:
       <title>2023-07 Echo de Spy - Best Of</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Sat, 13 Jan 2024 11:18:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jan 2024 11:31:25 +0000</lastBuildDate>
     <item>
       <title>01 - Marlagne 2017 - Ne quelque part.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1Z_7VckfanIMiyATDtGXIzYSxp02Lptdz</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Z_7VckfanIMiyATDtGXIzYSxp02Lptdz" length="10199795" type="audio/mpeg"/>
-      <pubDate>Fri, 12 Jan 2024 00:06:00 +0000</pubDate>
+      <pubDate>Fri, 12 Jan 2024 00:07:00 +0000</pubDate>
     </item>
     <item>
       <title>02 - Marlagne 2017 - L'homme au bouquet de fleurs.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1Y30EtK-EIBqSYEOFsAAODWxZnRFU2KdD</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Y30EtK-EIBqSYEOFsAAODWxZnRFU2KdD" length="8778245" type="audio/mpeg"/>
+      <pubDate>Fri, 12 Jan 2024 00:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>03 - Marlagne 2017 - Les pas.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1iHqR6eNMk8jRemfzKT2W_1-nHPR1dDoh</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1iHqR6eNMk8jRemfzKT2W_1-nHPR1dDoh" length="9580705" type="audio/mpeg"/>
       <pubDate>Fri, 12 Jan 2024 00:05:00 +0000</pubDate>
     </item>
     <item>
