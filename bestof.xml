@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>2023-07 Echo de Spy - Best Of</title>
+    <title>2024-01 Echo de Spy - Best Of</title>
     <link>https://podcast.echodespy.net</link>
     <description>=== AUDIO PLAYLIST ===
-ALBUM: 2023-07 Echo de Spy - Best Of
+ALBUM: 2024-01 Echo de Spy - Best Of
 
 TRACKS:
 01 - Marlagne 2017 - Ne quelque part.mp3
 02 - Marlagne 2017 - L'homme au bouquet de fleurs.mp3
 03 - Marlagne 2017 - Les pas.mp3
-04 - Bois du Cazier 2022 - Je suis un homme.mp3
+04 - Marlagne 2023 - Je suis un homme.mp3
 05 - Marlagne 2017 - Heal the world.mp3
 06 - Spy 2023 - Healing light.mp3
 07 - Spy 2023 - Tunggare (short).mp3
@@ -22,75 +22,75 @@ TRACKS:
     <generator>python-feedgen</generator>
     <image>
       <url>https://drive.google.com/uc?export=download&amp;id=1csmFxpZDWGQIVdIR2pHkVOfW_pCeg988</url>
-      <title>2023-07 Echo de Spy - Best Of</title>
+      <title>2024-01 Echo de Spy - Best Of</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Sat, 13 Jan 2024 17:28:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jan 2024 17:55:51 +0000</lastBuildDate>
     <item>
       <title>01 - Marlagne 2017 - Ne quelque part.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1Z_7VckfanIMiyATDtGXIzYSxp02Lptdz</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Z_7VckfanIMiyATDtGXIzYSxp02Lptdz" length="10199795" type="audio/mpeg"/>
-      <pubDate>Fri, 12 Jan 2024 00:10:00 +0000</pubDate>
+      <pubDate>Sun, 14 Jan 2024 00:10:00 +0000</pubDate>
     </item>
     <item>
       <title>02 - Marlagne 2017 - L'homme au bouquet de fleurs.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1Y30EtK-EIBqSYEOFsAAODWxZnRFU2KdD</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Y30EtK-EIBqSYEOFsAAODWxZnRFU2KdD" length="8778245" type="audio/mpeg"/>
-      <pubDate>Fri, 12 Jan 2024 00:09:00 +0000</pubDate>
+      <pubDate>Sun, 14 Jan 2024 00:09:00 +0000</pubDate>
     </item>
     <item>
       <title>03 - Marlagne 2017 - Les pas.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1iHqR6eNMk8jRemfzKT2W_1-nHPR1dDoh</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1iHqR6eNMk8jRemfzKT2W_1-nHPR1dDoh" length="9580705" type="audio/mpeg"/>
-      <pubDate>Fri, 12 Jan 2024 00:08:00 +0000</pubDate>
+      <pubDate>Sun, 14 Jan 2024 00:08:00 +0000</pubDate>
     </item>
     <item>
-      <title>04 - Bois du Cazier 2022 - Je suis un homme.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1qO_4Zghh7LIIyroNyTTjeEWXvs42NBWt</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1qO_4Zghh7LIIyroNyTTjeEWXvs42NBWt" length="7939545" type="audio/mpeg"/>
-      <pubDate>Fri, 12 Jan 2024 00:07:00 +0000</pubDate>
+      <title>04 - Marlagne 2023 - Je suis un homme.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1U0Y10DHRHSrxMmeLhLzjpQM2tBLjiRTA</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1U0Y10DHRHSrxMmeLhLzjpQM2tBLjiRTA" length="10382335" type="audio/mpeg"/>
+      <pubDate>Sun, 14 Jan 2024 00:07:00 +0000</pubDate>
     </item>
     <item>
       <title>05 - Marlagne 2017 - Heal the world.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1EBSTOqBYmoSsrgExGALRwtVNauL0g2cb</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1EBSTOqBYmoSsrgExGALRwtVNauL0g2cb" length="10626656" type="audio/mpeg"/>
-      <pubDate>Fri, 12 Jan 2024 00:06:00 +0000</pubDate>
+      <pubDate>Sun, 14 Jan 2024 00:06:00 +0000</pubDate>
     </item>
     <item>
       <title>06 - Spy 2023 - Healing light.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1RHNpYVuWTIoa5axokfkAIT3y7ZkAEIlo</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1RHNpYVuWTIoa5axokfkAIT3y7ZkAEIlo" length="6472604" type="audio/mpeg"/>
-      <pubDate>Fri, 12 Jan 2024 00:05:00 +0000</pubDate>
+      <pubDate>Sun, 14 Jan 2024 00:05:00 +0000</pubDate>
     </item>
     <item>
       <title>07 - Spy 2023 - Tunggare (short).mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1wzXb4FBy53aJZhA031uuFdDEn5vJXxYx</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1wzXb4FBy53aJZhA031uuFdDEn5vJXxYx" length="3773083" type="audio/mpeg"/>
-      <pubDate>Fri, 12 Jan 2024 00:04:00 +0000</pubDate>
+      <pubDate>Sun, 14 Jan 2024 00:04:00 +0000</pubDate>
     </item>
     <item>
       <title>08 - Bois du Cazier 2022 - An Irish Blessing.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1KCY2YCIG7Br50ID_hJ23OwULtjJmIgsa</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1KCY2YCIG7Br50ID_hJ23OwULtjJmIgsa" length="2963674" type="audio/mpeg"/>
-      <pubDate>Fri, 12 Jan 2024 00:03:00 +0000</pubDate>
+      <pubDate>Sun, 14 Jan 2024 00:03:00 +0000</pubDate>
     </item>
     <item>
       <title>09 - Marlagne 2023 - Bruremarsj.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1F7Hs5FvrHHAsDpvmthpHIs2ah2UBI7AG</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1F7Hs5FvrHHAsDpvmthpHIs2ah2UBI7AG" length="10112745" type="audio/mpeg"/>
-      <pubDate>Fri, 12 Jan 2024 00:02:00 +0000</pubDate>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1vSem8hmBV5uiRVUQtgTUqEJiXWP9VxgT</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1vSem8hmBV5uiRVUQtgTUqEJiXWP9VxgT" length="10112745" type="audio/mpeg"/>
+      <pubDate>Sun, 14 Jan 2024 00:02:00 +0000</pubDate>
     </item>
     <item>
       <title>10 - Marlagne 2023 - Remerciements.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1MDH3fsemUYiBrwOJ8GVPiVTE5-zBw3Os</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1MDH3fsemUYiBrwOJ8GVPiVTE5-zBw3Os" length="12398991" type="audio/mpeg"/>
-      <pubDate>Fri, 12 Jan 2024 00:01:00 +0000</pubDate>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=14doFzVNvxzCVL61um3yvi_kFn7IqLzeL</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=14doFzVNvxzCVL61um3yvi_kFn7IqLzeL" length="12398985" type="audio/mpeg"/>
+      <pubDate>Sun, 14 Jan 2024 00:01:00 +0000</pubDate>
     </item>
     <item>
       <title>11 - Ampsin 2023 - La dernière séance (avec les Clac'Sons).mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1wekSYbqqBAfnhQ4HHP132nXwnfa9OL0V</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1wekSYbqqBAfnhQ4HHP132nXwnfa9OL0V" length="8462705" type="audio/mpeg"/>
-      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
