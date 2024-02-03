@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>01 Jeanne</title>
+    <title>Fichiers de travail 2024</title>
     <link>https://podcast.echodespy.net</link>
-    <description>PLAYLIST: 01 Jeanne
+    <description>PLAYLIST: Fichiers de travail 2024
 TRACKS:
 01Jeanne - jeanne-a1.mp3
 01Jeanne - jeanne-a2.mp3
@@ -12,7 +12,7 @@ TRACKS:
     <generator>python-feedgen</generator>
     <image>
       <url></url>
-      <title>01 Jeanne</title>
+      <title>Fichiers de travail 2024</title>
       <link>https://podcast.echodespy.net</link>
     </image>
     <lastBuildDate>Sat, 03 Feb 2024 15:01:09 +0000</lastBuildDate>
