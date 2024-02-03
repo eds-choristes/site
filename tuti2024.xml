@@ -1,30 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Fichiers de travail 2024</title>
+    <title>02 Ukhutula</title>
     <link>https://podcast.echodespy.net</link>
-    <description>PLAYLIST: Fichiers de travail 2024
+    <description>PLAYLIST: 02 Ukhutula
 TRACKS:
-02Ukuthula - ukuthula-tuti.mp3
-01Jeannejeanne-tuti.mp3</description>
+02Ukuthulaukuthula-tuti.mp3</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
       <url></url>
-      <title>Fichiers de travail 2024</title>
+      <title>02 Ukhutula</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Sat, 03 Feb 2024 14:51:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Feb 2024 14:54:41 +0000</lastBuildDate>
     <item>
       <title>ukuthula-tuti.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=15JNRbUGvvFeGm-7YRpOiT3z4CODPSA56</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=15JNRbUGvvFeGm-7YRpOiT3z4CODPSA56" length="830254" type="audio/mpeg"/>
-      <pubDate>Fri, 02 Feb 2024 00:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>jeanne-tuti.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1XWoSkRbq-AZ5TxxneOtJAAgUMOLi1PCc</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1XWoSkRbq-AZ5TxxneOtJAAgUMOLi1PCc" length="6064356" type="audio/mpeg"/>
       <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
