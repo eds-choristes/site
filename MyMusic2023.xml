@@ -5,16 +5,14 @@
     <link>https://podcast.echodespy.net</link>
     <description>PLAYLIST: MyMusic2023
 TRACKS:
-Candy Dulfer - Lily Was Here (Baloise Session 2015 with Intro).mp3
+Candy Dulfer - Lily Was Here - Baloise 2015.mp3
+Candy Dulfer - Lily was Here - Leverkusen 2009.mp3
 Candy Dulfer - Live In Leverkusen (2009).mp3
 Ghillie's - Cooney's Reel.mp3
 Ghillie's - Musical Priest.mp3
-Lily Was Here - Baloise 2015.mp3
-Lily was Here - Leverkusen 2009.mp3
 Nastya Maslova - Katyusha Deep Impression.mp3
 Natashia Kelly - The Ocean (remastered 48K16b).flac
 Neon Vines - Lay Low Instrumental (remix).mp3
-Neon Vines - Lay Low Instrumental.mp3
 The Corrs - I Do What I Like (Cadena 100).mp3
 The Corrs - I Do What I Like (Live Acoustic).mp3</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
@@ -24,65 +22,53 @@ The Corrs - I Do What I Like (Live Acoustic).mp3</description>
       <title>MyMusic2023</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Mon, 05 Feb 2024 22:09:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Feb 2024 22:25:30 +0000</lastBuildDate>
     <item>
-      <title>Candy Dulfer - Lily Was Here (Baloise Session 2015 with Intro).mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1TMhzYiKZ7oF33C8YC1gSLXYrHKLrd_FO</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1TMhzYiKZ7oF33C8YC1gSLXYrHKLrd_FO" length="15956479" type="audio/mpeg"/>
-      <pubDate>Sun, 04 Feb 2024 00:11:00 +0000</pubDate>
+      <title>Candy Dulfer - Lily Was Here - Baloise 2015.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1L3NxsGTOVBqZndJLh-qZQEMSkMlC6DcW</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1L3NxsGTOVBqZndJLh-qZQEMSkMlC6DcW" length="26758547" type="audio/mpeg"/>
+      <pubDate>Sun, 04 Feb 2024 00:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Candy Dulfer - Lily was Here - Leverkusen 2009.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1KUZO2RlauwXyGHfw-DtRFd5pMjSOU8vb</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1KUZO2RlauwXyGHfw-DtRFd5pMjSOU8vb" length="12806236" type="audio/mpeg"/>
+      <pubDate>Sun, 04 Feb 2024 00:08:00 +0000</pubDate>
     </item>
     <item>
       <title>Candy Dulfer - Live In Leverkusen (2009).mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1CFCu6DWChjk20C0CYP-f3MAJ_ZINGbBB</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1CFCu6DWChjk20C0CYP-f3MAJ_ZINGbBB" length="94448989" type="audio/mpeg"/>
-      <pubDate>Sun, 04 Feb 2024 00:10:00 +0000</pubDate>
+      <pubDate>Sun, 04 Feb 2024 00:07:00 +0000</pubDate>
     </item>
     <item>
       <title>Ghillie's - Cooney's Reel.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1OCKLxWSwAK1xz1ifY5ggr5GxSkb881or</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1OCKLxWSwAK1xz1ifY5ggr5GxSkb881or" length="6014725" type="audio/mpeg"/>
-      <pubDate>Sun, 04 Feb 2024 00:09:00 +0000</pubDate>
+      <pubDate>Sun, 04 Feb 2024 00:06:00 +0000</pubDate>
     </item>
     <item>
       <title>Ghillie's - Musical Priest.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1BTzCqIdmx4NkPNFFs9H3AfxNORsIDdrQ</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1BTzCqIdmx4NkPNFFs9H3AfxNORsIDdrQ" length="5616953" type="audio/mpeg"/>
-      <pubDate>Sun, 04 Feb 2024 00:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lily Was Here - Baloise 2015.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1L3NxsGTOVBqZndJLh-qZQEMSkMlC6DcW</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1L3NxsGTOVBqZndJLh-qZQEMSkMlC6DcW" length="26758547" type="audio/mpeg"/>
-      <pubDate>Sun, 04 Feb 2024 00:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lily was Here - Leverkusen 2009.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1KUZO2RlauwXyGHfw-DtRFd5pMjSOU8vb</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1KUZO2RlauwXyGHfw-DtRFd5pMjSOU8vb" length="12806236" type="audio/mpeg"/>
-      <pubDate>Sun, 04 Feb 2024 00:06:00 +0000</pubDate>
+      <pubDate>Sun, 04 Feb 2024 00:05:00 +0000</pubDate>
     </item>
     <item>
       <title>Nastya Maslova - Katyusha Deep Impression.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1z6wi8I2cTpMSpk-ViUZfsTckkxxSEJCI</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1z6wi8I2cTpMSpk-ViUZfsTckkxxSEJCI" length="8857331" type="audio/mpeg"/>
-      <pubDate>Sun, 04 Feb 2024 00:05:00 +0000</pubDate>
+      <pubDate>Sun, 04 Feb 2024 00:04:00 +0000</pubDate>
     </item>
     <item>
       <title>Natashia Kelly - The Ocean (remastered 48K16b).flac</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1sV-cMtUpMmg1xLnE9YuaxWIdU36JVJJz</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1sV-cMtUpMmg1xLnE9YuaxWIdU36JVJJz" length="22474148" type="audio/mpeg"/>
-      <pubDate>Sun, 04 Feb 2024 00:04:00 +0000</pubDate>
+      <pubDate>Sun, 04 Feb 2024 00:03:00 +0000</pubDate>
     </item>
     <item>
       <title>Neon Vines - Lay Low Instrumental (remix).mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1hXjW-W547FtAjmiTws0pvR6bDLwI9Aa0</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1hXjW-W547FtAjmiTws0pvR6bDLwI9Aa0" length="9983026" type="audio/mpeg"/>
-      <pubDate>Sun, 04 Feb 2024 00:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Neon Vines - Lay Low Instrumental.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1IKhvVn1ZPH9-5GsN_syuWv6qR6hfqQsv</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1IKhvVn1ZPH9-5GsN_syuWv6qR6hfqQsv" length="10637041" type="audio/mpeg"/>
       <pubDate>Sun, 04 Feb 2024 00:02:00 +0000</pubDate>
     </item>
     <item>
