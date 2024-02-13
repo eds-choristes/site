@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Jeanne</title>
+    <title>Fichiers de travail 2024</title>
     <link>https://podcast.echodespy.net</link>
-    <description>PLAYLIST: Jeanne
+    <description>PLAYLIST: Fichiers de travail 2024
 TRACKS:
 Jeanne - jeanne-tutti.mp3
 PourLaVie - pour la vie-tutti.wav
@@ -12,7 +12,7 @@ Ukuthulaukuthula-tutti.mp3</description>
     <generator>python-feedgen</generator>
     <image>
       <url></url>
-      <title>Jeanne</title>
+      <title>Fichiers de travail 2024</title>
       <link>https://podcast.echodespy.net</link>
     </image>
     <lastBuildDate>Tue, 13 Feb 2024 10:06:22 +0000</lastBuildDate>
