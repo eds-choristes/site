@@ -1,10 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Pour la vie</title>
+    <title>Jeanne</title>
     <link>https://podcast.echodespy.net</link>
-    <description>PLAYLIST: Pour la vie
+    <description>PLAYLIST: Jeanne
 TRACKS:
+Jeanne - jeanne-b.mp3
 PourLaVie - pour la vie-b.wav
 Ukuthulaukuthula-b1.mp3
 Ukuthulaukuthula-b2.mp3</description>
@@ -12,10 +13,16 @@ Ukuthulaukuthula-b2.mp3</description>
     <generator>python-feedgen</generator>
     <image>
       <url></url>
-      <title>Pour la vie</title>
+      <title>Jeanne</title>
       <link>https://podcast.echodespy.net</link>
     </image>
     <lastBuildDate>Thu, 22 Feb 2024 22:04:01 +0000</lastBuildDate>
+    <item>
+      <title>jeanne-b.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ghe2KUvRAL54wCzLduvAvp9VNIHPWCln</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ghe2KUvRAL54wCzLduvAvp9VNIHPWCln" length="6087860" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Feb 2024 00:03:00 +0000</pubDate>
+    </item>
     <item>
       <title>pour la vie-b.wav</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1FZmgPuXvkGjKme0bKMVBnue7XCSGd5cs</guid>
