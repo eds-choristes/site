@@ -1,45 +1,45 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Fichiers de travail 2024</title>
+    <title>ALTI 2024</title>
     <link>https://podcast.echodespy.net</link>
-    <description>PLAYLIST: Fichiers de travail 2024
+    <description>PLAYLIST: ALTI 2024
 TRACKS:
-Jeanne - jeanne-a1.mp3
-Jeanne - jeanne-a2.mp3
-PourLaVie - pour la vie-a.wav
-Ukuthulaukuthula-a.mp3</description>
+jeanne-a1.mp3
+jeanne-a2.mp3
+pour la vie-a.wav
+ukuthula-a.mp3</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
       <url></url>
-      <title>Fichiers de travail 2024</title>
+      <title>ALTI 2024</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Thu, 22 Feb 2024 22:03:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Feb 2024 16:35:20 +0000</lastBuildDate>
     <item>
       <title>jeanne-a1.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1NwI9LwK15Mbefcad22g0iokjrak7SbIU</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1NwI9LwK15Mbefcad22g0iokjrak7SbIU" length="6031575" type="audio/mpeg"/>
-      <pubDate>Wed, 21 Feb 2024 00:03:00 +0000</pubDate>
+      <pubDate>Fri, 23 Feb 2024 00:03:00 +0000</pubDate>
     </item>
     <item>
       <title>jeanne-a2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=17k3SoCgt55THNSg65pbKR2gc1czMdMI-</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=17k3SoCgt55THNSg65pbKR2gc1czMdMI-" length="6026484" type="audio/mpeg"/>
-      <pubDate>Wed, 21 Feb 2024 00:02:00 +0000</pubDate>
+      <pubDate>Fri, 23 Feb 2024 00:02:00 +0000</pubDate>
     </item>
     <item>
       <title>pour la vie-a.wav</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1eDyKpO0J60uh5N2xErV79-y4plndvc-x</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1eDyKpO0J60uh5N2xErV79-y4plndvc-x" length="34692104" type="audio/mpeg"/>
-      <pubDate>Wed, 21 Feb 2024 00:01:00 +0000</pubDate>
+      <pubDate>Fri, 23 Feb 2024 00:01:00 +0000</pubDate>
     </item>
     <item>
       <title>ukuthula-a.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1FeUjC11JWhAgT4jHLCN8XxJfghLaD669</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1FeUjC11JWhAgT4jHLCN8XxJfghLaD669" length="793266" type="audio/mpeg"/>
-      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
