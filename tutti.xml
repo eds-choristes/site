@@ -5,23 +5,8 @@
     <link>https://podcast.echodespy.net</link>
     <description>PLAYLIST: Fichiers de travail 2024
 TRACKS:
-jeanne-a1.mp3
-jeanne-a2.mp3
-jeanne-b.mp3
-jeanne-s1.mp3
-jeanne-s2.mp3
-jeanne-ten.mp3
 jeanne-tutti.mp3
-pour la vie-a.wav
-pour la vie-b.wav
-pour la vie-s.wav
-pour la vie-ten.wav
 pour la vie-tutti.wav
-ukuthula-a.mp3
-ukuthula-b1.mp3
-ukuthula-b2.mp3
-ukuthula-s.mp3
-ukuthula-ten.mp3
 ukuthula-tutti.mp3</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
@@ -30,107 +15,17 @@ ukuthula-tutti.mp3</description>
       <title>Fichiers de travail 2024</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Sat, 24 Feb 2024 13:37:53 +0000</lastBuildDate>
-    <item>
-      <title>jeanne-a1.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1NwI9LwK15Mbefcad22g0iokjrak7SbIU</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1NwI9LwK15Mbefcad22g0iokjrak7SbIU" length="6031575" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Feb 2024 00:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>jeanne-a2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=17k3SoCgt55THNSg65pbKR2gc1czMdMI-</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=17k3SoCgt55THNSg65pbKR2gc1czMdMI-" length="6026484" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Feb 2024 00:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>jeanne-b.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ghe2KUvRAL54wCzLduvAvp9VNIHPWCln</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ghe2KUvRAL54wCzLduvAvp9VNIHPWCln" length="6087860" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Feb 2024 00:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>jeanne-s1.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1YW7NBWhw9nc3RLAGG57FJj09GWBvg7jn</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1YW7NBWhw9nc3RLAGG57FJj09GWBvg7jn" length="5979887" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Feb 2024 00:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>jeanne-s2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ZM9iQYJLuydwMS9u1xF_F5VPPbLLQ5ac</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZM9iQYJLuydwMS9u1xF_F5VPPbLLQ5ac" length="5980786" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Feb 2024 00:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>jeanne-ten.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1vtAE-cMMKmg7uWLzOfdZIsXImw-N6hYB</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1vtAE-cMMKmg7uWLzOfdZIsXImw-N6hYB" length="5896527" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Feb 2024 00:12:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 24 Feb 2024 13:38:32 +0000</lastBuildDate>
     <item>
       <title>jeanne-tutti.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1XWoSkRbq-AZ5TxxneOtJAAgUMOLi1PCc</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1XWoSkRbq-AZ5TxxneOtJAAgUMOLi1PCc" length="6064356" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Feb 2024 00:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>pour la vie-a.wav</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1eDyKpO0J60uh5N2xErV79-y4plndvc-x</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1eDyKpO0J60uh5N2xErV79-y4plndvc-x" length="34692104" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Feb 2024 00:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>pour la vie-b.wav</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1FZmgPuXvkGjKme0bKMVBnue7XCSGd5cs</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1FZmgPuXvkGjKme0bKMVBnue7XCSGd5cs" length="34692104" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Feb 2024 00:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>pour la vie-s.wav</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1fyd-jACX7u6pOi2zhkJG7Pry81oTIOte</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1fyd-jACX7u6pOi2zhkJG7Pry81oTIOte" length="34692104" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Feb 2024 00:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>pour la vie-ten.wav</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1AXK8V2nckdDLYseWz5yyMqgBemWsRxAV</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1AXK8V2nckdDLYseWz5yyMqgBemWsRxAV" length="34692104" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Feb 2024 00:07:00 +0000</pubDate>
+      <pubDate>Fri, 23 Feb 2024 00:02:00 +0000</pubDate>
     </item>
     <item>
       <title>pour la vie-tutti.wav</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ptjv_kZceRnkqpyIjuQtTyL6ZztQppK5</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ptjv_kZceRnkqpyIjuQtTyL6ZztQppK5" length="34692104" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Feb 2024 00:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ukuthula-a.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1FeUjC11JWhAgT4jHLCN8XxJfghLaD669</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1FeUjC11JWhAgT4jHLCN8XxJfghLaD669" length="793266" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Feb 2024 00:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ukuthula-b1.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1wka2YSitMVQDhJ6K2TC7l8B6Ke-ZEyoT</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1wka2YSitMVQDhJ6K2TC7l8B6Ke-ZEyoT" length="827485" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Feb 2024 00:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ukuthula-b2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1BSOj20H-HPCZqIX-xZ8wXfBvgZFXV4Ht</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1BSOj20H-HPCZqIX-xZ8wXfBvgZFXV4Ht" length="824382" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Feb 2024 00:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ukuthula-s.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1yCIOiH-Xx8kssUWfFh0VhMg6K9NFx-wC</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1yCIOiH-Xx8kssUWfFh0VhMg6K9NFx-wC" length="801374" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Feb 2024 00:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ukuthula-ten.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1a25ZO1Ftzn_7bOnS-IXp2_GVra97tDs2</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1a25ZO1Ftzn_7bOnS-IXp2_GVra97tDs2" length="790016" type="audio/mpeg"/>
       <pubDate>Fri, 23 Feb 2024 00:01:00 +0000</pubDate>
     </item>
     <item>
