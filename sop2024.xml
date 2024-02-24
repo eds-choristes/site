@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>POUR LA VIE</title>
+    <link>https://podcast.echodespy.net</link>
+    <description>PLAYLIST: POUR LA VIE
+TRACKS:
+pour la vie-a.wav
+pour la vie-b.wav
+pour la vie-s.wav
+pour la vie-t.wav
+pour la vie-tutti.wav</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url></url>
+      <title>POUR LA VIE</title>
+      <link>https://podcast.echodespy.net</link>
+    </image>
+    <lastBuildDate>Sat, 24 Feb 2024 21:49:48 +0000</lastBuildDate>
+    <item>
+      <title>pour la vie-a.wav</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1eDyKpO0J60uh5N2xErV79-y4plndvc-x</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1eDyKpO0J60uh5N2xErV79-y4plndvc-x" length="34692104" type="audio/mpeg"/>
+      <pubDate>Fri, 23 Feb 2024 00:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>pour la vie-b.wav</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1FZmgPuXvkGjKme0bKMVBnue7XCSGd5cs</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1FZmgPuXvkGjKme0bKMVBnue7XCSGd5cs" length="34692104" type="audio/mpeg"/>
+      <pubDate>Fri, 23 Feb 2024 00:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>pour la vie-s.wav</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1fyd-jACX7u6pOi2zhkJG7Pry81oTIOte</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1fyd-jACX7u6pOi2zhkJG7Pry81oTIOte" length="34692104" type="audio/mpeg"/>
+      <pubDate>Fri, 23 Feb 2024 00:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>pour la vie-t.wav</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1AXK8V2nckdDLYseWz5yyMqgBemWsRxAV</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1AXK8V2nckdDLYseWz5yyMqgBemWsRxAV" length="34692104" type="audio/mpeg"/>
+      <pubDate>Fri, 23 Feb 2024 00:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>pour la vie-tutti.wav</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ptjv_kZceRnkqpyIjuQtTyL6ZztQppK5</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ptjv_kZceRnkqpyIjuQtTyL6ZztQppK5" length="34692104" type="audio/mpeg"/>
+      <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
