@@ -1,38 +1,38 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Fichiers de travail 2024</title>
+    <title>TENOR 2024</title>
     <link>https://podcast.echodespy.net</link>
-    <description>PLAYLIST: Fichiers de travail 2024
+    <description>PLAYLIST: TENOR 2024
 TRACKS:
-Jeanne - jeanne-ten.mp3
-PourLaVie - pour la vie-ten.wav
-Ukuthulaukuthula-ten.mp3</description>
+jeanne-t.mp3
+pour la vie-t.wav
+ukuthula-t.mp3</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
       <url></url>
-      <title>Fichiers de travail 2024</title>
+      <title>TENOR 2024</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Thu, 22 Feb 2024 22:04:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Feb 2024 16:37:41 +0000</lastBuildDate>
     <item>
-      <title>jeanne-ten.mp3</title>
+      <title>jeanne-t.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1vtAE-cMMKmg7uWLzOfdZIsXImw-N6hYB</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1vtAE-cMMKmg7uWLzOfdZIsXImw-N6hYB" length="5896527" type="audio/mpeg"/>
-      <pubDate>Wed, 21 Feb 2024 00:02:00 +0000</pubDate>
+      <pubDate>Fri, 23 Feb 2024 00:02:00 +0000</pubDate>
     </item>
     <item>
-      <title>pour la vie-ten.wav</title>
+      <title>pour la vie-t.wav</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1AXK8V2nckdDLYseWz5yyMqgBemWsRxAV</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1AXK8V2nckdDLYseWz5yyMqgBemWsRxAV" length="34692104" type="audio/mpeg"/>
-      <pubDate>Wed, 21 Feb 2024 00:01:00 +0000</pubDate>
+      <pubDate>Fri, 23 Feb 2024 00:01:00 +0000</pubDate>
     </item>
     <item>
-      <title>ukuthula-ten.mp3</title>
+      <title>ukuthula-t.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1a25ZO1Ftzn_7bOnS-IXp2_GVra97tDs2</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1a25ZO1Ftzn_7bOnS-IXp2_GVra97tDs2" length="790016" type="audio/mpeg"/>
-      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
