@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>POUR_LA_VIE</title>
+    <title>POUR  LA VIE</title>
     <link>https://podcast.echodespy.net</link>
-    <description>PLAYLIST: POUR_LA_VIE
+    <description>PLAYLIST: POUR  LA VIE
 TRACKS:
 pour la vie-a.wav
 pour la vie-b.wav
@@ -14,10 +14,10 @@ pour la vie-tutti.wav</description>
     <generator>python-feedgen</generator>
     <image>
       <url></url>
-      <title>POUR_LA_VIE</title>
+      <title>POUR  LA VIE</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Wed, 28 Feb 2024 10:59:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2024 11:00:31 +0000</lastBuildDate>
     <item>
       <title>pour la vie-a.wav</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1eDyKpO0J60uh5N2xErV79-y4plndvc-x</guid>
