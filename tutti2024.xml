@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>TUTTI 2024</title>
     <link>https://podcast.echodespy.net</link>
@@ -15,24 +15,24 @@ ukuthula-tutti.mp3</description>
       <title>TUTTI 2024</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Tue, 27 Feb 2024 21:31:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Mar 2024 21:59:05 +0000</lastBuildDate>
     <item>
       <title>jeanne-tutti.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1XWoSkRbq-AZ5TxxneOtJAAgUMOLi1PCc</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1XWoSkRbq-AZ5TxxneOtJAAgUMOLi1PCc" length="6064356" type="audio/mpeg"/>
-      <pubDate>Mon, 26 Feb 2024 00:02:00 +0000</pubDate>
+      <pubDate>Sat, 02 Mar 2024 00:02:00 +0000</pubDate>
     </item>
     <item>
       <title>pour la vie-tutti.wav</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ptjv_kZceRnkqpyIjuQtTyL6ZztQppK5</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ptjv_kZceRnkqpyIjuQtTyL6ZztQppK5" length="34692104" type="audio/mpeg"/>
-      <pubDate>Mon, 26 Feb 2024 00:01:00 +0000</pubDate>
+      <pubDate>Sat, 02 Mar 2024 00:01:00 +0000</pubDate>
     </item>
     <item>
       <title>ukuthula-tutti.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=15JNRbUGvvFeGm-7YRpOiT3z4CODPSA56</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=15JNRbUGvvFeGm-7YRpOiT3z4CODPSA56" length="830254" type="audio/mpeg"/>
-      <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
