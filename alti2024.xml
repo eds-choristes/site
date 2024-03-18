@@ -5,7 +5,12 @@
     <link>https://podcast.echodespy.net</link>
     <description>PLAYLIST: ALTI 2024
 TRACKS:
-ukuthula-alti.mp3</description>
+Derrière les mots-alto.mp3
+jeanne-alto1.mp3
+jeanne-alto2.mp3
+pour la vie-alto.wav
+the parting glass-alto.mp3
+ukuthula-alto.mp3</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
@@ -13,9 +18,49 @@ ukuthula-alti.mp3</description>
       <title>ALTI 2024</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Mon, 18 Mar 2024 20:33:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 20:50:22 +0000</lastBuildDate>
     <item>
-      <title>ukuthula-alti.mp3</title>
+      <title>Derrière les mots-alto.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=18XaTw067_zGMBwYwWvn95HU47uhe2FEP</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=18XaTw067_zGMBwYwWvn95HU47uhe2FEP" length="4495568" type="audio/mpeg"/>
+      <pubDate>Sun, 17 Mar 2024 00:05:00 +0000</pubDate>
+      <itunes:duration>281</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+    </item>
+    <item>
+      <title>jeanne-alto1.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1NwI9LwK15Mbefcad22g0iokjrak7SbIU</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1NwI9LwK15Mbefcad22g0iokjrak7SbIU" length="6031575" type="audio/mpeg"/>
+      <pubDate>Sun, 17 Mar 2024 00:04:00 +0000</pubDate>
+      <itunes:duration>260</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+    </item>
+    <item>
+      <title>jeanne-alto2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=17k3SoCgt55THNSg65pbKR2gc1czMdMI-</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=17k3SoCgt55THNSg65pbKR2gc1czMdMI-" length="6026484" type="audio/mpeg"/>
+      <pubDate>Sun, 17 Mar 2024 00:03:00 +0000</pubDate>
+      <itunes:duration>260</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+    </item>
+    <item>
+      <title>pour la vie-alto.wav</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1eDyKpO0J60uh5N2xErV79-y4plndvc-x</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1eDyKpO0J60uh5N2xErV79-y4plndvc-x" length="34692104" type="audio/mpeg"/>
+      <pubDate>Sun, 17 Mar 2024 00:02:00 +0000</pubDate>
+      <itunes:duration>197</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+    </item>
+    <item>
+      <title>the parting glass-alto.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1t4CB_LacG3mQqRXRioF_ADewEdwHvZCZ</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1t4CB_LacG3mQqRXRioF_ADewEdwHvZCZ" length="1980947" type="audio/mpeg"/>
+      <pubDate>Sun, 17 Mar 2024 00:01:00 +0000</pubDate>
+      <itunes:duration>162</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+    </item>
+    <item>
+      <title>ukuthula-alto.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1FeUjC11JWhAgT4jHLCN8XxJfghLaD669</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1FeUjC11JWhAgT4jHLCN8XxJfghLaD669" length="793266" type="audio/mpeg"/>
       <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
