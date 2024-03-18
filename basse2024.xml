@@ -8,6 +8,7 @@ TRACKS:
 Derrière les mots-basse.mp3
 jeanne-basse.mp3
 pour la vie-basse.wav
+the parting glass-baryton-basse.mp3
 the parting glass-basse.mp3
 ukuthula-basse1.mp3
 ukuthula-basse2.mp3</description>
@@ -18,29 +19,37 @@ ukuthula-basse2.mp3</description>
       <title>BASSE 2024</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Mon, 18 Mar 2024 20:34:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 20:50:53 +0000</lastBuildDate>
     <item>
       <title>Derrière les mots-basse.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1S3aXhnXFDKjM5fsZHw__L61LyjMJfVQI</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1S3aXhnXFDKjM5fsZHw__L61LyjMJfVQI" length="4495568" type="audio/mpeg"/>
-      <pubDate>Sun, 17 Mar 2024 00:05:00 +0000</pubDate>
+      <pubDate>Sun, 17 Mar 2024 00:06:00 +0000</pubDate>
       <itunes:duration>281</itunes:duration>
-      <itunes:episode>6</itunes:episode>
+      <itunes:episode>7</itunes:episode>
     </item>
     <item>
       <title>jeanne-basse.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ghe2KUvRAL54wCzLduvAvp9VNIHPWCln</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ghe2KUvRAL54wCzLduvAvp9VNIHPWCln" length="6087860" type="audio/mpeg"/>
-      <pubDate>Sun, 17 Mar 2024 00:04:00 +0000</pubDate>
+      <pubDate>Sun, 17 Mar 2024 00:05:00 +0000</pubDate>
       <itunes:duration>260</itunes:duration>
-      <itunes:episode>5</itunes:episode>
+      <itunes:episode>6</itunes:episode>
     </item>
     <item>
       <title>pour la vie-basse.wav</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1FZmgPuXvkGjKme0bKMVBnue7XCSGd5cs</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1FZmgPuXvkGjKme0bKMVBnue7XCSGd5cs" length="34692104" type="audio/mpeg"/>
-      <pubDate>Sun, 17 Mar 2024 00:03:00 +0000</pubDate>
+      <pubDate>Sun, 17 Mar 2024 00:04:00 +0000</pubDate>
       <itunes:duration>197</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+    </item>
+    <item>
+      <title>the parting glass-baryton-basse.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1-i5XKRjDaeArIGa6Ka1dnivsEwqpFj2t</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1-i5XKRjDaeArIGa6Ka1dnivsEwqpFj2t" length="2001543" type="audio/mpeg"/>
+      <pubDate>Sun, 17 Mar 2024 00:03:00 +0000</pubDate>
+      <itunes:duration>162</itunes:duration>
       <itunes:episode>4</itunes:episode>
     </item>
     <item>
