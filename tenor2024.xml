@@ -1,38 +1,80 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>TENOR 2024</title>
     <link>https://podcast.echodespy.net</link>
     <description>PLAYLIST: TENOR 2024
 TRACKS:
-jeanne-t.mp3
-pour la vie-t.wav
+the parting glass-alto.mp3
+the parting glass-baryton.mp3
+the parting glass-basse.mp3
+the parting glass-soprane.mp3
+the parting glass-tutti.mp3
+thepartingglass-ténor.mp3
 ukuthula-t.mp3</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
-      <url>https://drive.google.com/uc?export=download&amp;id=1nGw6nmyb3z_UystDOBWTbB-kiMjfIZ9Y</url>
+      <url></url>
       <title>TENOR 2024</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Sat, 24 Feb 2024 20:50:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 20:20:27 +0000</lastBuildDate>
     <item>
-      <title>jeanne-t.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1vtAE-cMMKmg7uWLzOfdZIsXImw-N6hYB</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1vtAE-cMMKmg7uWLzOfdZIsXImw-N6hYB" length="5896527" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Feb 2024 00:02:00 +0000</pubDate>
+      <title>the parting glass-alto.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1t4CB_LacG3mQqRXRioF_ADewEdwHvZCZ</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1t4CB_LacG3mQqRXRioF_ADewEdwHvZCZ" length="1980947" type="audio/mpeg"/>
+      <pubDate>Sun, 17 Mar 2024 00:06:00 +0000</pubDate>
+      <itunes:duration>162</itunes:duration>
+      <itunes:episode>7</itunes:episode>
     </item>
     <item>
-      <title>pour la vie-t.wav</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1AXK8V2nckdDLYseWz5yyMqgBemWsRxAV</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1AXK8V2nckdDLYseWz5yyMqgBemWsRxAV" length="34692104" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Feb 2024 00:01:00 +0000</pubDate>
+      <title>the parting glass-baryton.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1-i5XKRjDaeArIGa6Ka1dnivsEwqpFj2t</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1-i5XKRjDaeArIGa6Ka1dnivsEwqpFj2t" length="2001543" type="audio/mpeg"/>
+      <pubDate>Sun, 17 Mar 2024 00:05:00 +0000</pubDate>
+      <itunes:duration>162</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+    </item>
+    <item>
+      <title>the parting glass-basse.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1mFND9bAaNnZQZBw3DID3Y8XRW9jUENEg</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1mFND9bAaNnZQZBw3DID3Y8XRW9jUENEg" length="2099706" type="audio/mpeg"/>
+      <pubDate>Sun, 17 Mar 2024 00:04:00 +0000</pubDate>
+      <itunes:duration>162</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+    </item>
+    <item>
+      <title>the parting glass-soprane.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1o6Iks4D--3OBqW_zBrlpMBIl4dhrz3e3</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1o6Iks4D--3OBqW_zBrlpMBIl4dhrz3e3" length="1999786" type="audio/mpeg"/>
+      <pubDate>Sun, 17 Mar 2024 00:03:00 +0000</pubDate>
+      <itunes:duration>162</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+    </item>
+    <item>
+      <title>the parting glass-tutti.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=11hpeDXf9Ri61u2FYiiFOyZMavs5mY0xi</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=11hpeDXf9Ri61u2FYiiFOyZMavs5mY0xi" length="2115231" type="audio/mpeg"/>
+      <pubDate>Sun, 17 Mar 2024 00:02:00 +0000</pubDate>
+      <itunes:duration>162</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+    </item>
+    <item>
+      <title>thepartingglass-ténor.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1fEMo2GLBdYuq5_XWrbTIfT-DnLdCD-nR</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1fEMo2GLBdYuq5_XWrbTIfT-DnLdCD-nR" length="1981356" type="audio/mpeg"/>
+      <pubDate>Sun, 17 Mar 2024 00:01:00 +0000</pubDate>
+      <itunes:duration>162</itunes:duration>
+      <itunes:episode>2</itunes:episode>
     </item>
     <item>
       <title>ukuthula-t.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1a25ZO1Ftzn_7bOnS-IXp2_GVra97tDs2</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1a25ZO1Ftzn_7bOnS-IXp2_GVra97tDs2" length="790016" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
+      <itunes:duration>59</itunes:duration>
+      <itunes:episode>1</itunes:episode>
     </item>
   </channel>
 </rss>
