@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>BASSE-1-Namur2024</title>
+    <link>https://podcast.echodespy.net</link>
+    <description>PLAYLIST: BASSE-1-Namur2024
+TRACKS:
+anirishblessing-b.mp3
+beidhaonach-120-b0.mp3
+BotanyBayIF-b.mp3
+BruremarsjIF-b.mp3
+Greensleeves-B.mp3
+HealingLight-b.mp3
+MollyMaloneIF-b1.mp3
+runaway-b.mp3
+SallyGardens-b.mp3
+ScarboroughFair-b.mp3
+shulearoon-b0.mp3
+theseallullaby-mib-b.mp3
+vuelie-b0.mp3</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url></url>
+      <title>BASSE-1-Namur2024</title>
+      <link>https://podcast.echodespy.net</link>
+    </image>
+    <lastBuildDate>Wed, 24 Apr 2024 21:29:12 +0000</lastBuildDate>
+    <item>
+      <title>anirishblessing-b.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=13b_DC5xqQ2Ktla5HDZzrdtEKyKIwSXfJ</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=13b_DC5xqQ2Ktla5HDZzrdtEKyKIwSXfJ" length="1063482" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Apr 2024 00:12:00 +0000</pubDate>
+      <itunes:duration>74</itunes:duration>
+      <itunes:episode>13</itunes:episode>
+    </item>
+    <item>
+      <title>beidhaonach-120-b0.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=11iNr0kZmNj4zhzGeTsunEU7iLecyim1-</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=11iNr0kZmNj4zhzGeTsunEU7iLecyim1-" length="3788353" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Apr 2024 00:11:00 +0000</pubDate>
+      <itunes:duration>276</itunes:duration>
+      <itunes:episode>12</itunes:episode>
+    </item>
+    <item>
+      <title>BotanyBayIF-b.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ApRFQtDzMFkb0czVbuCwf8csV1eAm9gb</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ApRFQtDzMFkb0czVbuCwf8csV1eAm9gb" length="5455559" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Apr 2024 00:10:00 +0000</pubDate>
+      <itunes:duration>211</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+    </item>
+    <item>
+      <title>BruremarsjIF-b.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1-Bo4mbmnjt84fXidH9O9B4pk3MGNFx_e</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1-Bo4mbmnjt84fXidH9O9B4pk3MGNFx_e" length="3211990" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Apr 2024 00:09:00 +0000</pubDate>
+      <itunes:duration>131</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+    </item>
+    <item>
+      <title>Greensleeves-B.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1XysZjKZpCHHYqFyFVw3TG_Di7bAJMedd</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1XysZjKZpCHHYqFyFVw3TG_Di7bAJMedd" length="6258939" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Apr 2024 00:08:00 +0000</pubDate>
+      <itunes:duration>270</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+    </item>
+    <item>
+      <title>HealingLight-b.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1Kof08KsO-EnZ5xCZdvjGWMhYjlG30Jjf</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Kof08KsO-EnZ5xCZdvjGWMhYjlG30Jjf" length="4407793" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Apr 2024 00:07:00 +0000</pubDate>
+      <itunes:duration>184</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+    </item>
+    <item>
+      <title>MollyMaloneIF-b1.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1F6ntNb7lGsb885HHVEXJKujcwfOueS69</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1F6ntNb7lGsb885HHVEXJKujcwfOueS69" length="1972477" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Apr 2024 00:06:00 +0000</pubDate>
+      <itunes:duration>140</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+    </item>
+    <item>
+      <title>runaway-b.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1RBkNCQh4zMtH0xu1m85vMtnBW158Rsim</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1RBkNCQh4zMtH0xu1m85vMtnBW158Rsim" length="2734270" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Apr 2024 00:05:00 +0000</pubDate>
+      <itunes:duration>233</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+    </item>
+    <item>
+      <title>SallyGardens-b.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1bbtVRMK0fy-hyTB_RvJVEognn10sVShk</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1bbtVRMK0fy-hyTB_RvJVEognn10sVShk" length="4338718" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Apr 2024 00:04:00 +0000</pubDate>
+      <itunes:duration>198</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+    </item>
+    <item>
+      <title>ScarboroughFair-b.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1K-iKjVHbN8IQirArUnMlU0ISxFgxc2QN</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1K-iKjVHbN8IQirArUnMlU0ISxFgxc2QN" length="4607675" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Apr 2024 00:03:00 +0000</pubDate>
+      <itunes:duration>193</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+    </item>
+    <item>
+      <title>shulearoon-b0.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1j4ZVDci7pi3SelYyk49BkVmbGUh6xggu</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1j4ZVDci7pi3SelYyk49BkVmbGUh6xggu" length="2197395" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Apr 2024 00:02:00 +0000</pubDate>
+      <itunes:duration>208</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+    </item>
+    <item>
+      <title>theseallullaby-mib-b.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1B3IrxC9lc5vDM4pdQdGGGNs0BwSjL2v1</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1B3IrxC9lc5vDM4pdQdGGGNs0BwSjL2v1" length="3150737" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Apr 2024 00:01:00 +0000</pubDate>
+      <itunes:duration>223</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+    </item>
+    <item>
+      <title>vuelie-b0.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1AWkdh-plVCQOi0RThvEAnOdJlhDpWWNH</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1AWkdh-plVCQOi0RThvEAnOdJlhDpWWNH" length="2605808" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      <itunes:duration>196</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+    </item>
+  </channel>
+</rss>
