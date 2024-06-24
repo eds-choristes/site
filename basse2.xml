@@ -1,133 +1,79 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>BASSE-2-Namur2024</title>
+    <title>BASSE-2-2024</title>
     <link>https://podcast.echodespy.net</link>
-    <description>PLAYLIST: BASSE-2-Namur2024
+    <description>PLAYLIST: BASSE-2-2024
 TRACKS:
-01-BruremarsjIF-b.mp3
-02-vuelie-b0.mp3
-03-SallyGardens-b.mp3
-04-HealingLight-b.mp3
-05-IrishBlessing-b.mp3
-06-theseallullaby-mib-b.mp3
-07-beidhaonach-120-b0.mp3
-08-ScarboroughFair-b.mp3
-09-shulearoon-b0.mp3
-10-Greensleeves-B.mp3
-11-MollyMaloneIF-b2.mp3
-12-BotanyBayIF-b.mp3
-13-runaway-b.mp3</description>
+jeanne-basse1-basse2.mp3
+the parting glass-basse2.mp3
+Derrière les mots-basse1-basse2.mp3
+vivalavida-basse2.mp3
+VivaLaVida-final-basse1-basse2.mp3
+Skye Boat Song-basse1-basse2.mp3
+ukuthula-basse2.mp3</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
-      <url>https://drive.google.com/uc?export=download&amp;id=1Fl7Q50SgbpgrfbvyEQDUSvk0tKTRDKKT</url>
-      <title>BASSE-2-Namur2024</title>
+      <url></url>
+      <title>BASSE-2-2024</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Thu, 25 Apr 2024 19:15:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 22:02:55 +0000</lastBuildDate>
     <item>
-      <title>01-BruremarsjIF-b.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=18_YCQuLnI6Gguif-vTesgBrQPaMADKMu</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=18_YCQuLnI6Gguif-vTesgBrQPaMADKMu" length="3211990" type="audio/mpeg"/>
-      <pubDate>Wed, 24 Apr 2024 00:12:00 +0000</pubDate>
-      <itunes:duration>131</itunes:duration>
-      <itunes:episode>13</itunes:episode>
-    </item>
-    <item>
-      <title>02-vuelie-b0.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ZrWE1L_NhltrU5QY2tyEsZMLnPsJK8G6</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZrWE1L_NhltrU5QY2tyEsZMLnPsJK8G6" length="2605808" type="audio/mpeg"/>
-      <pubDate>Wed, 24 Apr 2024 00:11:00 +0000</pubDate>
-      <itunes:duration>196</itunes:duration>
-      <itunes:episode>12</itunes:episode>
-    </item>
-    <item>
-      <title>03-SallyGardens-b.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1Y8t_rljPZwiVhCNwB_Hq2_-Sakd5cbwB</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Y8t_rljPZwiVhCNwB_Hq2_-Sakd5cbwB" length="4338718" type="audio/mpeg"/>
-      <pubDate>Wed, 24 Apr 2024 00:10:00 +0000</pubDate>
-      <itunes:duration>198</itunes:duration>
-      <itunes:episode>11</itunes:episode>
-    </item>
-    <item>
-      <title>04-HealingLight-b.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1_pyDM92fOgGoxd35ELWY4JuR0eQ53YAF</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_pyDM92fOgGoxd35ELWY4JuR0eQ53YAF" length="4407793" type="audio/mpeg"/>
-      <pubDate>Wed, 24 Apr 2024 00:09:00 +0000</pubDate>
-      <itunes:duration>184</itunes:duration>
-      <itunes:episode>10</itunes:episode>
-    </item>
-    <item>
-      <title>05-IrishBlessing-b.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1Tlbuj_S52NLxDbox_EBJMo_3d1zRaaqK</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Tlbuj_S52NLxDbox_EBJMo_3d1zRaaqK" length="1063482" type="audio/mpeg"/>
-      <pubDate>Wed, 24 Apr 2024 00:08:00 +0000</pubDate>
-      <itunes:duration>74</itunes:duration>
-      <itunes:episode>9</itunes:episode>
-    </item>
-    <item>
-      <title>06-theseallullaby-mib-b.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1qiHJhIb9l1s-Hqq-HPYRY3ZOiHn0D13A</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1qiHJhIb9l1s-Hqq-HPYRY3ZOiHn0D13A" length="3150737" type="audio/mpeg"/>
-      <pubDate>Wed, 24 Apr 2024 00:07:00 +0000</pubDate>
-      <itunes:duration>223</itunes:duration>
-      <itunes:episode>8</itunes:episode>
-    </item>
-    <item>
-      <title>07-beidhaonach-120-b0.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ffEruCYMTwNdF52edvPcVHEJdfXrqDD7</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ffEruCYMTwNdF52edvPcVHEJdfXrqDD7" length="3788353" type="audio/mpeg"/>
-      <pubDate>Wed, 24 Apr 2024 00:06:00 +0000</pubDate>
-      <itunes:duration>276</itunes:duration>
+      <title>jeanne-basse1-basse2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ghe2KUvRAL54wCzLduvAvp9VNIHPWCln</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ghe2KUvRAL54wCzLduvAvp9VNIHPWCln" length="6087860" type="audio/mpeg"/>
+      <pubDate>Mon, 24 Jun 2024 00:06:00 +0000</pubDate>
+      <itunes:duration>260</itunes:duration>
       <itunes:episode>7</itunes:episode>
     </item>
     <item>
-      <title>08-ScarboroughFair-b.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1YpsPyk8rbCb2ZwoMA89KaopMF3Ijw-RO</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1YpsPyk8rbCb2ZwoMA89KaopMF3Ijw-RO" length="4607675" type="audio/mpeg"/>
-      <pubDate>Wed, 24 Apr 2024 00:05:00 +0000</pubDate>
-      <itunes:duration>193</itunes:duration>
+      <title>the parting glass-basse2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1mFND9bAaNnZQZBw3DID3Y8XRW9jUENEg</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1mFND9bAaNnZQZBw3DID3Y8XRW9jUENEg" length="2099706" type="audio/mpeg"/>
+      <pubDate>Mon, 24 Jun 2024 00:05:00 +0000</pubDate>
+      <itunes:duration>162</itunes:duration>
       <itunes:episode>6</itunes:episode>
     </item>
     <item>
-      <title>09-shulearoon-b0.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1Q5v5FT3STI79ey9y9ZMcpGltuljNQRdT</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Q5v5FT3STI79ey9y9ZMcpGltuljNQRdT" length="2197395" type="audio/mpeg"/>
-      <pubDate>Wed, 24 Apr 2024 00:04:00 +0000</pubDate>
-      <itunes:duration>208</itunes:duration>
+      <title>Derrière les mots-basse1-basse2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1S3aXhnXFDKjM5fsZHw__L61LyjMJfVQI</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1S3aXhnXFDKjM5fsZHw__L61LyjMJfVQI" length="4495568" type="audio/mpeg"/>
+      <pubDate>Mon, 24 Jun 2024 00:04:00 +0000</pubDate>
+      <itunes:duration>281</itunes:duration>
       <itunes:episode>5</itunes:episode>
     </item>
     <item>
-      <title>10-Greensleeves-B.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1gNMbejegNEMcycpvnEbWwR8dmxfZt5Y3</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1gNMbejegNEMcycpvnEbWwR8dmxfZt5Y3" length="6258939" type="audio/mpeg"/>
-      <pubDate>Wed, 24 Apr 2024 00:03:00 +0000</pubDate>
-      <itunes:duration>270</itunes:duration>
+      <title>vivalavida-basse2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1aRnNifAWAob34HWg3X8kEm0auZ72FG0F</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1aRnNifAWAob34HWg3X8kEm0auZ72FG0F" length="3325145" type="audio/mpeg"/>
+      <pubDate>Mon, 24 Jun 2024 00:03:00 +0000</pubDate>
+      <itunes:duration>227</itunes:duration>
       <itunes:episode>4</itunes:episode>
     </item>
     <item>
-      <title>11-MollyMaloneIF-b2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1h5nbizWEC7ZGySWWa93td9JmOXeiCr59</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1h5nbizWEC7ZGySWWa93td9JmOXeiCr59" length="1975526" type="audio/mpeg"/>
-      <pubDate>Wed, 24 Apr 2024 00:02:00 +0000</pubDate>
-      <itunes:duration>140</itunes:duration>
+      <title>VivaLaVida-final-basse1-basse2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1C5mAvQtGUwslAS_tNCeX2-3TMvZ_66Hv</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1C5mAvQtGUwslAS_tNCeX2-3TMvZ_66Hv" length="777742" type="audio/mpeg"/>
+      <pubDate>Mon, 24 Jun 2024 00:02:00 +0000</pubDate>
+      <itunes:duration>53</itunes:duration>
       <itunes:episode>3</itunes:episode>
     </item>
     <item>
-      <title>12-BotanyBayIF-b.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1d6Ud_Uvs9uikZIxyAyuHhHmnJLCgUdCZ</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1d6Ud_Uvs9uikZIxyAyuHhHmnJLCgUdCZ" length="5455559" type="audio/mpeg"/>
-      <pubDate>Wed, 24 Apr 2024 00:01:00 +0000</pubDate>
-      <itunes:duration>211</itunes:duration>
+      <title>Skye Boat Song-basse1-basse2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1nAq3_pfGtuGcNghy5xa29Y50Y1vzvxR0</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1nAq3_pfGtuGcNghy5xa29Y50Y1vzvxR0" length="4218966" type="audio/mpeg"/>
+      <pubDate>Mon, 24 Jun 2024 00:01:00 +0000</pubDate>
+      <itunes:duration>176</itunes:duration>
       <itunes:episode>2</itunes:episode>
     </item>
     <item>
-      <title>13-runaway-b.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1U_6HC5tpLhz0oX2M4SqTuqQWAM-1VzAc</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1U_6HC5tpLhz0oX2M4SqTuqQWAM-1VzAc" length="2734270" type="audio/mpeg"/>
-      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
-      <itunes:duration>233</itunes:duration>
+      <title>ukuthula-basse2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1BSOj20H-HPCZqIX-xZ8wXfBvgZFXV4Ht</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1BSOj20H-HPCZqIX-xZ8wXfBvgZFXV4Ht" length="824382" type="audio/mpeg"/>
+      <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
+      <itunes:duration>59</itunes:duration>
       <itunes:episode>1</itunes:episode>
     </item>
   </channel>
