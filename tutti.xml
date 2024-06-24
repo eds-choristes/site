@@ -5,56 +5,15 @@
     <link>https://podcast.echodespy.net</link>
     <description>PLAYLIST: TUTTI-2024
 TRACKS:
-jeanne-alto1.mp3
-jeanne-alto2.mp3
-jeanne-basse1-basse2.mp3
-jeanne-soprane1.mp3
-jeanne-soprane2.mp3
 jeanne-tutti.mp3
-jeanne-ténor.mp3
-the parting glass-alto1-alto2.mp3
-the parting glass-basse1.mp3
-the parting glass-basse2.mp3
-the parting glass-soprane1-soprane2.mp3
 the parting glass-tutti.mp3
-thepartingglass-ténor.mp3
-Derriere les mots-playback en Eb.mp3
-Derrière les mots-alto1-alto2.mp3
-Derrière les mots-basse1-basse2.mp3
-Derrière les mots-soprane1-soprane2.mp3
 Derrière les mots-tutti+instru.mp3
 Derrière les mots-tutti.mp3
-Derrière les mots-ténor.mp3
-vivalavida-alto1-alto2.mp3
-vivalavida-basse1.mp3
-vivalavida-basse2.mp3
-VivaLaVida-final-alto1-alto2.mp3
-VivaLaVida-final-basse1-basse2.mp3
-VivaLaVida-final-soprane1.mp3
-VivaLaVida-final-soprane2.mp3
 VivaLaVida-final-tutti.mp3
-VivaLaVida-final-ténor.mp3
-vivalavida-soprane1.mp3
-vivalavida-soprane2.mp3
 vivalavida-tutti clic.mp3
-vivalavida-ténor.mp3
-Skye Boat Song-alto1-alto2.mp3
-Skye Boat Song-basse1-basse2.mp3
-Skye Boat Song-soprane1.mp3
-Skye Boat Song-soprane2.mp3
 Skye boat song-tutti.mp3
-Skye Boat Song-ténor.mp3
-pour la vie-alto.wav
-pour la vie-basse.wav
-pour la vie-soprane.wav
 pour la vie-tutti.wav
-pour la vie-ténor.wav
-ukuthula-alto.mp3
-ukuthula-basse1.mp3
-ukuthula-basse2.mp3
-ukuthula-soprane.mp3
-ukuthula-tutti.mp3
-ukuthula-ténor.mp3</description>
+ukuthula-tutti.mp3</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
@@ -62,403 +21,75 @@ ukuthula-ténor.mp3</description>
       <title>TUTTI-2024</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Mon, 24 Jun 2024 22:08:23 +0000</lastBuildDate>
-    <item>
-      <title>jeanne-alto1.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1NwI9LwK15Mbefcad22g0iokjrak7SbIU</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1NwI9LwK15Mbefcad22g0iokjrak7SbIU" length="6031575" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:49:00 +0000</pubDate>
-      <itunes:duration>260</itunes:duration>
-      <itunes:episode>50</itunes:episode>
-    </item>
-    <item>
-      <title>jeanne-alto2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=17k3SoCgt55THNSg65pbKR2gc1czMdMI-</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=17k3SoCgt55THNSg65pbKR2gc1czMdMI-" length="6026484" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:48:00 +0000</pubDate>
-      <itunes:duration>260</itunes:duration>
-      <itunes:episode>49</itunes:episode>
-    </item>
-    <item>
-      <title>jeanne-basse1-basse2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ghe2KUvRAL54wCzLduvAvp9VNIHPWCln</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ghe2KUvRAL54wCzLduvAvp9VNIHPWCln" length="6087860" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:47:00 +0000</pubDate>
-      <itunes:duration>260</itunes:duration>
-      <itunes:episode>48</itunes:episode>
-    </item>
-    <item>
-      <title>jeanne-soprane1.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1YW7NBWhw9nc3RLAGG57FJj09GWBvg7jn</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1YW7NBWhw9nc3RLAGG57FJj09GWBvg7jn" length="5979887" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:46:00 +0000</pubDate>
-      <itunes:duration>260</itunes:duration>
-      <itunes:episode>47</itunes:episode>
-    </item>
-    <item>
-      <title>jeanne-soprane2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ZM9iQYJLuydwMS9u1xF_F5VPPbLLQ5ac</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZM9iQYJLuydwMS9u1xF_F5VPPbLLQ5ac" length="5980786" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:45:00 +0000</pubDate>
-      <itunes:duration>260</itunes:duration>
-      <itunes:episode>46</itunes:episode>
-    </item>
+    <lastBuildDate>Mon, 24 Jun 2024 22:09:50 +0000</lastBuildDate>
     <item>
       <title>jeanne-tutti.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1XWoSkRbq-AZ5TxxneOtJAAgUMOLi1PCc</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1XWoSkRbq-AZ5TxxneOtJAAgUMOLi1PCc" length="6064356" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:44:00 +0000</pubDate>
+      <pubDate>Mon, 24 Jun 2024 00:08:00 +0000</pubDate>
       <itunes:duration>260</itunes:duration>
-      <itunes:episode>45</itunes:episode>
-    </item>
-    <item>
-      <title>jeanne-ténor.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1vtAE-cMMKmg7uWLzOfdZIsXImw-N6hYB</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1vtAE-cMMKmg7uWLzOfdZIsXImw-N6hYB" length="5896527" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:43:00 +0000</pubDate>
-      <itunes:duration>260</itunes:duration>
-      <itunes:episode>44</itunes:episode>
-    </item>
-    <item>
-      <title>the parting glass-alto1-alto2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1t4CB_LacG3mQqRXRioF_ADewEdwHvZCZ</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1t4CB_LacG3mQqRXRioF_ADewEdwHvZCZ" length="1980947" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:42:00 +0000</pubDate>
-      <itunes:duration>162</itunes:duration>
-      <itunes:episode>43</itunes:episode>
-    </item>
-    <item>
-      <title>the parting glass-basse1.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1-i5XKRjDaeArIGa6Ka1dnivsEwqpFj2t</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1-i5XKRjDaeArIGa6Ka1dnivsEwqpFj2t" length="2001543" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:41:00 +0000</pubDate>
-      <itunes:duration>162</itunes:duration>
-      <itunes:episode>42</itunes:episode>
-    </item>
-    <item>
-      <title>the parting glass-basse2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1mFND9bAaNnZQZBw3DID3Y8XRW9jUENEg</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1mFND9bAaNnZQZBw3DID3Y8XRW9jUENEg" length="2099706" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:40:00 +0000</pubDate>
-      <itunes:duration>162</itunes:duration>
-      <itunes:episode>41</itunes:episode>
-    </item>
-    <item>
-      <title>the parting glass-soprane1-soprane2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1o6Iks4D--3OBqW_zBrlpMBIl4dhrz3e3</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1o6Iks4D--3OBqW_zBrlpMBIl4dhrz3e3" length="1999786" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:39:00 +0000</pubDate>
-      <itunes:duration>162</itunes:duration>
-      <itunes:episode>40</itunes:episode>
+      <itunes:episode>9</itunes:episode>
     </item>
     <item>
       <title>the parting glass-tutti.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=11hpeDXf9Ri61u2FYiiFOyZMavs5mY0xi</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=11hpeDXf9Ri61u2FYiiFOyZMavs5mY0xi" length="2115231" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:38:00 +0000</pubDate>
+      <pubDate>Mon, 24 Jun 2024 00:07:00 +0000</pubDate>
       <itunes:duration>162</itunes:duration>
-      <itunes:episode>39</itunes:episode>
-    </item>
-    <item>
-      <title>thepartingglass-ténor.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1fEMo2GLBdYuq5_XWrbTIfT-DnLdCD-nR</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1fEMo2GLBdYuq5_XWrbTIfT-DnLdCD-nR" length="1981356" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:37:00 +0000</pubDate>
-      <itunes:duration>162</itunes:duration>
-      <itunes:episode>38</itunes:episode>
-    </item>
-    <item>
-      <title>Derriere les mots-playback en Eb.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1BLKv3Y5S5KQR0YMraqv9AaybqvXfhJ5r</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1BLKv3Y5S5KQR0YMraqv9AaybqvXfhJ5r" length="11237294" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:36:00 +0000</pubDate>
-      <itunes:duration>280</itunes:duration>
-      <itunes:episode>37</itunes:episode>
-    </item>
-    <item>
-      <title>Derrière les mots-alto1-alto2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=18XaTw067_zGMBwYwWvn95HU47uhe2FEP</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=18XaTw067_zGMBwYwWvn95HU47uhe2FEP" length="4495568" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:35:00 +0000</pubDate>
-      <itunes:duration>281</itunes:duration>
-      <itunes:episode>36</itunes:episode>
-    </item>
-    <item>
-      <title>Derrière les mots-basse1-basse2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1S3aXhnXFDKjM5fsZHw__L61LyjMJfVQI</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1S3aXhnXFDKjM5fsZHw__L61LyjMJfVQI" length="4495568" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:34:00 +0000</pubDate>
-      <itunes:duration>281</itunes:duration>
-      <itunes:episode>35</itunes:episode>
-    </item>
-    <item>
-      <title>Derrière les mots-soprane1-soprane2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=10Z7Nqd6f6fI6JPBKAUVKTAcvKJN-zjzo</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=10Z7Nqd6f6fI6JPBKAUVKTAcvKJN-zjzo" length="4495568" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:33:00 +0000</pubDate>
-      <itunes:duration>281</itunes:duration>
-      <itunes:episode>34</itunes:episode>
+      <itunes:episode>8</itunes:episode>
     </item>
     <item>
       <title>Derrière les mots-tutti+instru.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1-EMzCTGbzsCSOHhsBk_UaS1UrZRgW1SX</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1-EMzCTGbzsCSOHhsBk_UaS1UrZRgW1SX" length="4495568" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:32:00 +0000</pubDate>
+      <pubDate>Mon, 24 Jun 2024 00:06:00 +0000</pubDate>
       <itunes:duration>281</itunes:duration>
-      <itunes:episode>33</itunes:episode>
+      <itunes:episode>7</itunes:episode>
     </item>
     <item>
       <title>Derrière les mots-tutti.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1XE4zXAgkC6ohXuzut1mqBRxoK-drZBBT</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1XE4zXAgkC6ohXuzut1mqBRxoK-drZBBT" length="4495568" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:31:00 +0000</pubDate>
+      <pubDate>Mon, 24 Jun 2024 00:05:00 +0000</pubDate>
       <itunes:duration>281</itunes:duration>
-      <itunes:episode>32</itunes:episode>
-    </item>
-    <item>
-      <title>Derrière les mots-ténor.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1YcvFlzdn4-mRlF1RGs6gukbKZGgxZ2M3</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1YcvFlzdn4-mRlF1RGs6gukbKZGgxZ2M3" length="4495568" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:30:00 +0000</pubDate>
-      <itunes:duration>281</itunes:duration>
-      <itunes:episode>31</itunes:episode>
-    </item>
-    <item>
-      <title>vivalavida-alto1-alto2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1Polb2Sa2CGo-5Otk9ICYI6ggZBBVFqcE</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Polb2Sa2CGo-5Otk9ICYI6ggZBBVFqcE" length="3126688" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:29:00 +0000</pubDate>
-      <itunes:duration>227</itunes:duration>
-      <itunes:episode>30</itunes:episode>
-    </item>
-    <item>
-      <title>vivalavida-basse1.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1_r8DIZNosk6u3Cwfw51t2QUwNHK45TaD</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_r8DIZNosk6u3Cwfw51t2QUwNHK45TaD" length="3342158" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:28:00 +0000</pubDate>
-      <itunes:duration>227</itunes:duration>
-      <itunes:episode>29</itunes:episode>
-    </item>
-    <item>
-      <title>vivalavida-basse2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1aRnNifAWAob34HWg3X8kEm0auZ72FG0F</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1aRnNifAWAob34HWg3X8kEm0auZ72FG0F" length="3325145" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:27:00 +0000</pubDate>
-      <itunes:duration>227</itunes:duration>
-      <itunes:episode>28</itunes:episode>
-    </item>
-    <item>
-      <title>VivaLaVida-final-alto1-alto2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1frSXSwxGR1X_E0L0_QODRbkw8M1rQp-3</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1frSXSwxGR1X_E0L0_QODRbkw8M1rQp-3" length="733872" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:26:00 +0000</pubDate>
-      <itunes:duration>53</itunes:duration>
-      <itunes:episode>27</itunes:episode>
-    </item>
-    <item>
-      <title>VivaLaVida-final-basse1-basse2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1C5mAvQtGUwslAS_tNCeX2-3TMvZ_66Hv</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1C5mAvQtGUwslAS_tNCeX2-3TMvZ_66Hv" length="777742" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:25:00 +0000</pubDate>
-      <itunes:duration>53</itunes:duration>
-      <itunes:episode>26</itunes:episode>
-    </item>
-    <item>
-      <title>VivaLaVida-final-soprane1.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1pOYRbD1t2t8sgij6rRjNb60_nv8cMviD</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1pOYRbD1t2t8sgij6rRjNb60_nv8cMviD" length="701296" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:24:00 +0000</pubDate>
-      <itunes:duration>53</itunes:duration>
-      <itunes:episode>25</itunes:episode>
-    </item>
-    <item>
-      <title>VivaLaVida-final-soprane2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=13Cg4r1NkAdhHKhfT59t_NDP4k9mb6qPE</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=13Cg4r1NkAdhHKhfT59t_NDP4k9mb6qPE" length="695185" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:23:00 +0000</pubDate>
-      <itunes:duration>53</itunes:duration>
-      <itunes:episode>24</itunes:episode>
+      <itunes:episode>6</itunes:episode>
     </item>
     <item>
       <title>VivaLaVida-final-tutti.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ExrxKhQisTxGctDCkRE-jcwQ5ncMGHqr</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ExrxKhQisTxGctDCkRE-jcwQ5ncMGHqr" length="870654" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:22:00 +0000</pubDate>
+      <pubDate>Mon, 24 Jun 2024 00:04:00 +0000</pubDate>
       <itunes:duration>53</itunes:duration>
-      <itunes:episode>23</itunes:episode>
-    </item>
-    <item>
-      <title>VivaLaVida-final-ténor.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1Alc1EjNC60NwElDbxfHPLQpphHvRiBiQ</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Alc1EjNC60NwElDbxfHPLQpphHvRiBiQ" length="763850" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:21:00 +0000</pubDate>
-      <itunes:duration>53</itunes:duration>
-      <itunes:episode>22</itunes:episode>
-    </item>
-    <item>
-      <title>vivalavida-soprane1.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ASa2ByaoR6HKpzqiyN__fgZe1JRrKURo</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ASa2ByaoR6HKpzqiyN__fgZe1JRrKURo" length="3161896" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:20:00 +0000</pubDate>
-      <itunes:duration>227</itunes:duration>
-      <itunes:episode>21</itunes:episode>
-    </item>
-    <item>
-      <title>vivalavida-soprane2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=18iSmT_QLLvslsMHspR1Suo9iQ4DGr0WU</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=18iSmT_QLLvslsMHspR1Suo9iQ4DGr0WU" length="3155090" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:19:00 +0000</pubDate>
-      <itunes:duration>227</itunes:duration>
-      <itunes:episode>20</itunes:episode>
+      <itunes:episode>5</itunes:episode>
     </item>
     <item>
       <title>vivalavida-tutti clic.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1yRhsGKtDU04T7U9ULD8NudqUIHwiT_BZ</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1yRhsGKtDU04T7U9ULD8NudqUIHwiT_BZ" length="3353949" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:18:00 +0000</pubDate>
+      <pubDate>Mon, 24 Jun 2024 00:03:00 +0000</pubDate>
       <itunes:duration>227</itunes:duration>
-      <itunes:episode>19</itunes:episode>
-    </item>
-    <item>
-      <title>vivalavida-ténor.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1Kvw5lbmBorCEF4Uu-z-GRsNImsQmNPJr</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Kvw5lbmBorCEF4Uu-z-GRsNImsQmNPJr" length="3152377" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:17:00 +0000</pubDate>
-      <itunes:duration>227</itunes:duration>
-      <itunes:episode>18</itunes:episode>
-    </item>
-    <item>
-      <title>Skye Boat Song-alto1-alto2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1d09PV66HdNTCmenRZYTGIvYiBPBCqaRj</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1d09PV66HdNTCmenRZYTGIvYiBPBCqaRj" length="4217085" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:16:00 +0000</pubDate>
-      <itunes:duration>176</itunes:duration>
-      <itunes:episode>17</itunes:episode>
-    </item>
-    <item>
-      <title>Skye Boat Song-basse1-basse2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1nAq3_pfGtuGcNghy5xa29Y50Y1vzvxR0</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1nAq3_pfGtuGcNghy5xa29Y50Y1vzvxR0" length="4218966" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:15:00 +0000</pubDate>
-      <itunes:duration>176</itunes:duration>
-      <itunes:episode>16</itunes:episode>
-    </item>
-    <item>
-      <title>Skye Boat Song-soprane1.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1v7KKdRZg9z_Lod0czarBro2GDTZG0gc9</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1v7KKdRZg9z_Lod0czarBro2GDTZG0gc9" length="4222727" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:14:00 +0000</pubDate>
-      <itunes:duration>176</itunes:duration>
-      <itunes:episode>15</itunes:episode>
-    </item>
-    <item>
-      <title>Skye Boat Song-soprane2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1SvwFiQJz7LoTBNLcBNu0YTk9AvPmlDJQ</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1SvwFiQJz7LoTBNLcBNu0YTk9AvPmlDJQ" length="4222727" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:13:00 +0000</pubDate>
-      <itunes:duration>176</itunes:duration>
-      <itunes:episode>14</itunes:episode>
+      <itunes:episode>4</itunes:episode>
     </item>
     <item>
       <title>Skye boat song-tutti.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1B4RbnKEzATOI8mvFGuh09xpKwRxRhCpJ</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1B4RbnKEzATOI8mvFGuh09xpKwRxRhCpJ" length="6990366" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:12:00 +0000</pubDate>
+      <pubDate>Mon, 24 Jun 2024 00:02:00 +0000</pubDate>
       <itunes:duration>175</itunes:duration>
-      <itunes:episode>13</itunes:episode>
-    </item>
-    <item>
-      <title>Skye Boat Song-ténor.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1qkrMNw-sNUpcJkipk1Dewne9yraubXym</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1qkrMNw-sNUpcJkipk1Dewne9yraubXym" length="4210816" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:11:00 +0000</pubDate>
-      <itunes:duration>175</itunes:duration>
-      <itunes:episode>12</itunes:episode>
-    </item>
-    <item>
-      <title>pour la vie-alto.wav</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1eDyKpO0J60uh5N2xErV79-y4plndvc-x</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1eDyKpO0J60uh5N2xErV79-y4plndvc-x" length="34692104" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:10:00 +0000</pubDate>
-      <itunes:duration>197</itunes:duration>
-      <itunes:episode>11</itunes:episode>
-    </item>
-    <item>
-      <title>pour la vie-basse.wav</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1FZmgPuXvkGjKme0bKMVBnue7XCSGd5cs</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1FZmgPuXvkGjKme0bKMVBnue7XCSGd5cs" length="34692104" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:09:00 +0000</pubDate>
-      <itunes:duration>197</itunes:duration>
-      <itunes:episode>10</itunes:episode>
-    </item>
-    <item>
-      <title>pour la vie-soprane.wav</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1fyd-jACX7u6pOi2zhkJG7Pry81oTIOte</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1fyd-jACX7u6pOi2zhkJG7Pry81oTIOte" length="34692104" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:08:00 +0000</pubDate>
-      <itunes:duration>197</itunes:duration>
-      <itunes:episode>9</itunes:episode>
+      <itunes:episode>3</itunes:episode>
     </item>
     <item>
       <title>pour la vie-tutti.wav</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ptjv_kZceRnkqpyIjuQtTyL6ZztQppK5</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ptjv_kZceRnkqpyIjuQtTyL6ZztQppK5" length="34692104" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:07:00 +0000</pubDate>
+      <pubDate>Mon, 24 Jun 2024 00:01:00 +0000</pubDate>
       <itunes:duration>197</itunes:duration>
-      <itunes:episode>8</itunes:episode>
-    </item>
-    <item>
-      <title>pour la vie-ténor.wav</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1AXK8V2nckdDLYseWz5yyMqgBemWsRxAV</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1AXK8V2nckdDLYseWz5yyMqgBemWsRxAV" length="34692104" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:06:00 +0000</pubDate>
-      <itunes:duration>197</itunes:duration>
-      <itunes:episode>7</itunes:episode>
-    </item>
-    <item>
-      <title>ukuthula-alto.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1FeUjC11JWhAgT4jHLCN8XxJfghLaD669</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1FeUjC11JWhAgT4jHLCN8XxJfghLaD669" length="793266" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:05:00 +0000</pubDate>
-      <itunes:duration>59</itunes:duration>
-      <itunes:episode>6</itunes:episode>
-    </item>
-    <item>
-      <title>ukuthula-basse1.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1wka2YSitMVQDhJ6K2TC7l8B6Ke-ZEyoT</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1wka2YSitMVQDhJ6K2TC7l8B6Ke-ZEyoT" length="827485" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:04:00 +0000</pubDate>
-      <itunes:duration>59</itunes:duration>
-      <itunes:episode>5</itunes:episode>
-    </item>
-    <item>
-      <title>ukuthula-basse2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1BSOj20H-HPCZqIX-xZ8wXfBvgZFXV4Ht</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1BSOj20H-HPCZqIX-xZ8wXfBvgZFXV4Ht" length="824382" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:03:00 +0000</pubDate>
-      <itunes:duration>59</itunes:duration>
-      <itunes:episode>4</itunes:episode>
-    </item>
-    <item>
-      <title>ukuthula-soprane.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1yCIOiH-Xx8kssUWfFh0VhMg6K9NFx-wC</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1yCIOiH-Xx8kssUWfFh0VhMg6K9NFx-wC" length="801374" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:02:00 +0000</pubDate>
-      <itunes:duration>59</itunes:duration>
-      <itunes:episode>3</itunes:episode>
+      <itunes:episode>2</itunes:episode>
     </item>
     <item>
       <title>ukuthula-tutti.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=15JNRbUGvvFeGm-7YRpOiT3z4CODPSA56</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=15JNRbUGvvFeGm-7YRpOiT3z4CODPSA56" length="830254" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 00:01:00 +0000</pubDate>
-      <itunes:duration>59</itunes:duration>
-      <itunes:episode>2</itunes:episode>
-    </item>
-    <item>
-      <title>ukuthula-ténor.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1a25ZO1Ftzn_7bOnS-IXp2_GVra97tDs2</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1a25ZO1Ftzn_7bOnS-IXp2_GVra97tDs2" length="790016" type="audio/mpeg"/>
       <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
       <itunes:duration>59</itunes:duration>
       <itunes:episode>1</itunes:episode>
