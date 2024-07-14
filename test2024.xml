@@ -17,12 +17,13 @@ pour la vie-ténor.wav</description>
       <title>TEST 2024</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Sun, 14 Jul 2024 13:35:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jul 2024 13:36:18 +0000</lastBuildDate>
     <item>
       <title>pour la vie-alto.wav</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1eDyKpO0J60uh5N2xErV79-y4plndvc-x</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1eDyKpO0J60uh5N2xErV79-y4plndvc-x" length="34692104" type="audio/mpeg"/>
       <pubDate>Sat, 13 Jul 2024 00:04:00 +0000</pubDate>
+      <itunes:duration>197</itunes:duration>
       <itunes:episode>5</itunes:episode>
     </item>
     <item>
@@ -30,6 +31,7 @@ pour la vie-ténor.wav</description>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1FZmgPuXvkGjKme0bKMVBnue7XCSGd5cs</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1FZmgPuXvkGjKme0bKMVBnue7XCSGd5cs" length="34692104" type="audio/mpeg"/>
       <pubDate>Sat, 13 Jul 2024 00:03:00 +0000</pubDate>
+      <itunes:duration>197</itunes:duration>
       <itunes:episode>4</itunes:episode>
     </item>
     <item>
@@ -37,6 +39,7 @@ pour la vie-ténor.wav</description>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1fyd-jACX7u6pOi2zhkJG7Pry81oTIOte</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1fyd-jACX7u6pOi2zhkJG7Pry81oTIOte" length="34692104" type="audio/mpeg"/>
       <pubDate>Sat, 13 Jul 2024 00:02:00 +0000</pubDate>
+      <itunes:duration>197</itunes:duration>
       <itunes:episode>3</itunes:episode>
     </item>
     <item>
@@ -44,6 +47,7 @@ pour la vie-ténor.wav</description>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ptjv_kZceRnkqpyIjuQtTyL6ZztQppK5</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ptjv_kZceRnkqpyIjuQtTyL6ZztQppK5" length="34692104" type="audio/mpeg"/>
       <pubDate>Sat, 13 Jul 2024 00:01:00 +0000</pubDate>
+      <itunes:duration>197</itunes:duration>
       <itunes:episode>2</itunes:episode>
     </item>
     <item>
@@ -51,6 +55,7 @@ pour la vie-ténor.wav</description>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1AXK8V2nckdDLYseWz5yyMqgBemWsRxAV</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1AXK8V2nckdDLYseWz5yyMqgBemWsRxAV" length="34692104" type="audio/mpeg"/>
       <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
+      <itunes:duration>197</itunes:duration>
       <itunes:episode>1</itunes:episode>
     </item>
   </channel>
