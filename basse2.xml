@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>BASSE2-Programme2024</title>
+    <title>BASSE2 Programme2024</title>
     <link>https://podcast.echodespy.net</link>
-    <description>PLAYLIST: BASSE2-Programme2024
+    <description>PLAYLIST: BASSE2 Programme2024
 TRACKS:
 jeanne-basse1-basse2.mp3
 the parting glass-basse2.mp3
@@ -16,15 +16,15 @@ ukuthula-basse2.mp3</description>
     <generator>python-feedgen</generator>
     <image>
       <url>https://drive.google.com/uc?export=download&amp;id=1gQAlcEbpz24OCdrDxGm52nSbC7b6cnBj</url>
-      <title>BASSE2-Prog2024</title>
+      <title>BASSE2 Programme2024</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Thu, 27 Jun 2024 21:11:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 20:30:22 +0000</lastBuildDate>
     <item>
       <title>jeanne-basse1-basse2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ghe2KUvRAL54wCzLduvAvp9VNIHPWCln</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ghe2KUvRAL54wCzLduvAvp9VNIHPWCln" length="6087860" type="audio/mpeg"/>
-      <pubDate>Wed, 26 Jun 2024 00:06:00 +0000</pubDate>
+      <pubDate>Mon, 15 Jul 2024 00:06:00 +0000</pubDate>
       <itunes:duration>260</itunes:duration>
       <itunes:episode>7</itunes:episode>
     </item>
@@ -32,7 +32,7 @@ ukuthula-basse2.mp3</description>
       <title>the parting glass-basse2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1mFND9bAaNnZQZBw3DID3Y8XRW9jUENEg</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1mFND9bAaNnZQZBw3DID3Y8XRW9jUENEg" length="2099706" type="audio/mpeg"/>
-      <pubDate>Wed, 26 Jun 2024 00:05:00 +0000</pubDate>
+      <pubDate>Mon, 15 Jul 2024 00:05:00 +0000</pubDate>
       <itunes:duration>162</itunes:duration>
       <itunes:episode>6</itunes:episode>
     </item>
@@ -40,7 +40,7 @@ ukuthula-basse2.mp3</description>
       <title>Derrière les mots-basse1-basse2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1S3aXhnXFDKjM5fsZHw__L61LyjMJfVQI</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1S3aXhnXFDKjM5fsZHw__L61LyjMJfVQI" length="4495568" type="audio/mpeg"/>
-      <pubDate>Wed, 26 Jun 2024 00:04:00 +0000</pubDate>
+      <pubDate>Mon, 15 Jul 2024 00:04:00 +0000</pubDate>
       <itunes:duration>281</itunes:duration>
       <itunes:episode>5</itunes:episode>
     </item>
@@ -48,7 +48,7 @@ ukuthula-basse2.mp3</description>
       <title>vivalavida-basse2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1aRnNifAWAob34HWg3X8kEm0auZ72FG0F</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1aRnNifAWAob34HWg3X8kEm0auZ72FG0F" length="3325145" type="audio/mpeg"/>
-      <pubDate>Wed, 26 Jun 2024 00:03:00 +0000</pubDate>
+      <pubDate>Mon, 15 Jul 2024 00:03:00 +0000</pubDate>
       <itunes:duration>227</itunes:duration>
       <itunes:episode>4</itunes:episode>
     </item>
@@ -56,7 +56,7 @@ ukuthula-basse2.mp3</description>
       <title>VivaLaVida-final-basse1-basse2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1C5mAvQtGUwslAS_tNCeX2-3TMvZ_66Hv</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1C5mAvQtGUwslAS_tNCeX2-3TMvZ_66Hv" length="777742" type="audio/mpeg"/>
-      <pubDate>Wed, 26 Jun 2024 00:02:00 +0000</pubDate>
+      <pubDate>Mon, 15 Jul 2024 00:02:00 +0000</pubDate>
       <itunes:duration>53</itunes:duration>
       <itunes:episode>3</itunes:episode>
     </item>
@@ -64,7 +64,7 @@ ukuthula-basse2.mp3</description>
       <title>Skye Boat Song-basse1-basse2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1nAq3_pfGtuGcNghy5xa29Y50Y1vzvxR0</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1nAq3_pfGtuGcNghy5xa29Y50Y1vzvxR0" length="4218966" type="audio/mpeg"/>
-      <pubDate>Wed, 26 Jun 2024 00:01:00 +0000</pubDate>
+      <pubDate>Mon, 15 Jul 2024 00:01:00 +0000</pubDate>
       <itunes:duration>176</itunes:duration>
       <itunes:episode>2</itunes:episode>
     </item>
@@ -72,7 +72,7 @@ ukuthula-basse2.mp3</description>
       <title>ukuthula-basse2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1BSOj20H-HPCZqIX-xZ8wXfBvgZFXV4Ht</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1BSOj20H-HPCZqIX-xZ8wXfBvgZFXV4Ht" length="824382" type="audio/mpeg"/>
-      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
       <itunes:duration>59</itunes:duration>
       <itunes:episode>1</itunes:episode>
     </item>
