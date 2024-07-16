@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>MEZZO-Prog2024</title>
+    <title>MEZZO Programme2024</title>
     <link>https://podcast.echodespy.net</link>
-    <description>PLAYLIST: MEZZO-Prog2024
+    <description>PLAYLIST: MEZZO Programme2024
 TRACKS:
 thepartingglass-mezzo.mp3</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
       <url>https://drive.google.com/uc?export=download&amp;id=1E6ValElxEU5OcJhNmzuspqBFuvaem7QQ</url>
-      <title>MEZZO-Prog2024</title>
+      <title>MEZZO Programme2024</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Thu, 27 Jun 2024 21:11:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 20:30:05 +0000</lastBuildDate>
     <item>
       <title>thepartingglass-mezzo.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1LSU5GE1Ae5KFB4WIz5or9NfFheHwLgk8</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1LSU5GE1Ae5KFB4WIz5or9NfFheHwLgk8" length="2001755" type="audio/mpeg"/>
-      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
       <itunes:duration>162</itunes:duration>
       <itunes:episode>1</itunes:episode>
     </item>
