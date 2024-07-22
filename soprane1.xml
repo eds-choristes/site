@@ -5,12 +5,10 @@
     <link>https://podcast.echodespy.net</link>
     <description>PLAYLIST: SOPRANE1 Programme2024
 TRACKS:
-jeanne-soprane1.mp3
 the parting glass-soprane1-soprane2.mp3
-Derrière les mots-soprane1-soprane2.mp3
-VivaLaVida-final-soprane1.mp3
-vivalavida-soprane1.mp3
-Skye Boat Song-soprane1.mp3</description>
+Skye Boat Song-soprane1.mp3
+she moved-soprane1-soprane2.mp3
+Emorio-soprane1.mp3</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
@@ -18,53 +16,37 @@ Skye Boat Song-soprane1.mp3</description>
       <title>SOPRANE1 Programme2024</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Tue, 16 Jul 2024 20:30:24 +0000</lastBuildDate>
-    <item>
-      <title>jeanne-soprane1.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1YW7NBWhw9nc3RLAGG57FJj09GWBvg7jn</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1YW7NBWhw9nc3RLAGG57FJj09GWBvg7jn" length="5979887" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Jul 2024 00:05:00 +0000</pubDate>
-      <itunes:duration>260</itunes:duration>
-      <itunes:episode>6</itunes:episode>
-    </item>
+    <lastBuildDate>Mon, 22 Jul 2024 20:50:55 +0000</lastBuildDate>
     <item>
       <title>the parting glass-soprane1-soprane2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1o6Iks4D--3OBqW_zBrlpMBIl4dhrz3e3</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1o6Iks4D--3OBqW_zBrlpMBIl4dhrz3e3" length="1999786" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Jul 2024 00:04:00 +0000</pubDate>
+      <pubDate>Sun, 21 Jul 2024 00:03:00 +0000</pubDate>
       <itunes:duration>162</itunes:duration>
-      <itunes:episode>5</itunes:episode>
-    </item>
-    <item>
-      <title>Derrière les mots-soprane1-soprane2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=10Z7Nqd6f6fI6JPBKAUVKTAcvKJN-zjzo</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=10Z7Nqd6f6fI6JPBKAUVKTAcvKJN-zjzo" length="4495568" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Jul 2024 00:03:00 +0000</pubDate>
-      <itunes:duration>281</itunes:duration>
       <itunes:episode>4</itunes:episode>
-    </item>
-    <item>
-      <title>VivaLaVida-final-soprane1.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1pOYRbD1t2t8sgij6rRjNb60_nv8cMviD</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1pOYRbD1t2t8sgij6rRjNb60_nv8cMviD" length="701296" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Jul 2024 00:02:00 +0000</pubDate>
-      <itunes:duration>53</itunes:duration>
-      <itunes:episode>3</itunes:episode>
-    </item>
-    <item>
-      <title>vivalavida-soprane1.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ASa2ByaoR6HKpzqiyN__fgZe1JRrKURo</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ASa2ByaoR6HKpzqiyN__fgZe1JRrKURo" length="3161896" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Jul 2024 00:01:00 +0000</pubDate>
-      <itunes:duration>227</itunes:duration>
-      <itunes:episode>2</itunes:episode>
     </item>
     <item>
       <title>Skye Boat Song-soprane1.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1v7KKdRZg9z_Lod0czarBro2GDTZG0gc9</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1v7KKdRZg9z_Lod0czarBro2GDTZG0gc9" length="4222727" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 21 Jul 2024 00:02:00 +0000</pubDate>
       <itunes:duration>176</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+    </item>
+    <item>
+      <title>she moved-soprane1-soprane2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1z2J11VFzVhcZrP8Yco9X8T3RmNAWgapK</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1z2J11VFzVhcZrP8Yco9X8T3RmNAWgapK" length="2080959" type="audio/mpeg"/>
+      <pubDate>Sun, 21 Jul 2024 00:01:00 +0000</pubDate>
+      <itunes:duration>149</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+    </item>
+    <item>
+      <title>Emorio-soprane1.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1NJeiA4eY35zdKdqj3V9Tdist-tr69mNa</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1NJeiA4eY35zdKdqj3V9Tdist-tr69mNa" length="673891" type="audio/mpeg"/>
+      <pubDate>Sun, 21 Jul 2024 00:00:00 +0000</pubDate>
+      <itunes:duration>50</itunes:duration>
       <itunes:episode>1</itunes:episode>
     </item>
   </channel>
