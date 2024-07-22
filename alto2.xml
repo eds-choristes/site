@@ -5,12 +5,10 @@
     <link>https://podcast.echodespy.net</link>
     <description>PLAYLIST: ALTO2 Programme2024
 TRACKS:
-jeanne-alto2.mp3
 the parting glass-alto1-alto2.mp3
-Derrière les mots-alto1-alto2.mp3
-vivalavida-alto1-alto2.mp3
-VivaLaVida-final-alto1-alto2.mp3
-Skye Boat Song-alto1-alto2.mp3</description>
+Skye Boat Song-alto1-alto2.mp3
+she moved-alto1-alto2.mp3
+Emorio-alto1-alto2.mp3</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
@@ -18,53 +16,37 @@ Skye Boat Song-alto1-alto2.mp3</description>
       <title>ALTO2 Programme2024</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Tue, 16 Jul 2024 20:30:16 +0000</lastBuildDate>
-    <item>
-      <title>jeanne-alto2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=17k3SoCgt55THNSg65pbKR2gc1czMdMI-</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=17k3SoCgt55THNSg65pbKR2gc1czMdMI-" length="6026484" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Jul 2024 00:05:00 +0000</pubDate>
-      <itunes:duration>260</itunes:duration>
-      <itunes:episode>6</itunes:episode>
-    </item>
+    <lastBuildDate>Mon, 22 Jul 2024 20:50:45 +0000</lastBuildDate>
     <item>
       <title>the parting glass-alto1-alto2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1t4CB_LacG3mQqRXRioF_ADewEdwHvZCZ</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1t4CB_LacG3mQqRXRioF_ADewEdwHvZCZ" length="1980947" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Jul 2024 00:04:00 +0000</pubDate>
+      <pubDate>Sun, 21 Jul 2024 00:03:00 +0000</pubDate>
       <itunes:duration>162</itunes:duration>
-      <itunes:episode>5</itunes:episode>
-    </item>
-    <item>
-      <title>Derrière les mots-alto1-alto2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=18XaTw067_zGMBwYwWvn95HU47uhe2FEP</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=18XaTw067_zGMBwYwWvn95HU47uhe2FEP" length="4495568" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Jul 2024 00:03:00 +0000</pubDate>
-      <itunes:duration>281</itunes:duration>
       <itunes:episode>4</itunes:episode>
-    </item>
-    <item>
-      <title>vivalavida-alto1-alto2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1Polb2Sa2CGo-5Otk9ICYI6ggZBBVFqcE</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Polb2Sa2CGo-5Otk9ICYI6ggZBBVFqcE" length="3126688" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Jul 2024 00:02:00 +0000</pubDate>
-      <itunes:duration>227</itunes:duration>
-      <itunes:episode>3</itunes:episode>
-    </item>
-    <item>
-      <title>VivaLaVida-final-alto1-alto2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1frSXSwxGR1X_E0L0_QODRbkw8M1rQp-3</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1frSXSwxGR1X_E0L0_QODRbkw8M1rQp-3" length="733872" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Jul 2024 00:01:00 +0000</pubDate>
-      <itunes:duration>53</itunes:duration>
-      <itunes:episode>2</itunes:episode>
     </item>
     <item>
       <title>Skye Boat Song-alto1-alto2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1d09PV66HdNTCmenRZYTGIvYiBPBCqaRj</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1d09PV66HdNTCmenRZYTGIvYiBPBCqaRj" length="4217085" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 21 Jul 2024 00:02:00 +0000</pubDate>
       <itunes:duration>176</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+    </item>
+    <item>
+      <title>she moved-alto1-alto2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1IeS9PsmPNBnFGrzDwMEIYUfObj0aMZSm</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1IeS9PsmPNBnFGrzDwMEIYUfObj0aMZSm" length="2062370" type="audio/mpeg"/>
+      <pubDate>Sun, 21 Jul 2024 00:01:00 +0000</pubDate>
+      <itunes:duration>149</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+    </item>
+    <item>
+      <title>Emorio-alto1-alto2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1UqJUjHfjAXP5vRq64Zc6u-TzbaXzMJzu</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1UqJUjHfjAXP5vRq64Zc6u-TzbaXzMJzu" length="678632" type="audio/mpeg"/>
+      <pubDate>Sun, 21 Jul 2024 00:00:00 +0000</pubDate>
+      <itunes:duration>50</itunes:duration>
       <itunes:episode>1</itunes:episode>
     </item>
   </channel>
