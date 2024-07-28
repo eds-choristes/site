@@ -1,0 +1,20 @@
+audio
+{
+  display: block;
+  /* margin: 1em; */
+}
+
+
+/* Setup
+================================================== */
+.container { position:relative; margin:0 auto; max-width:400px; width:100%; }
+.column { width:inherit; }
+
+
+/* Misc.
+================================================== */
+
+.left { float:left; }
+.right { float:right; }
+.center { text-align:center; }
+.hidden { display:none; }
