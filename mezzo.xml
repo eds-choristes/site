@@ -5,9 +5,9 @@
     <link>https://podcast.echodespy.net</link>
     <description>PLAYLIST: MEZZO Programme2024
 TRACKS:
-the parting glass-mezzo.mp3
+Beidhaonach-120-mezzo.mp3
 she moved-mezzo.mp3
-Emorio-mezzo.mp3</description>
+the parting glass-mezzo.mp3</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
@@ -15,29 +15,29 @@ Emorio-mezzo.mp3</description>
       <title>MEZZO Programme2024</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Wed, 11 Sep 2024 16:58:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 19:07:05 +0000</lastBuildDate>
     <item>
-      <title>the parting glass-mezzo.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1LSU5GE1Ae5KFB4WIz5or9NfFheHwLgk8</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1LSU5GE1Ae5KFB4WIz5or9NfFheHwLgk8" length="2001755" type="audio/mpeg"/>
-      <pubDate>Tue, 10 Sep 2024 00:02:00 +0000</pubDate>
-      <itunes:duration>162</itunes:duration>
+      <title>Beidhaonach-120-mezzo.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=177m88Q6T9HpzQ9HnNnEK21W6DGOcrCbD</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=177m88Q6T9HpzQ9HnNnEK21W6DGOcrCbD" length="3807027" type="audio/mpeg"/>
+      <pubDate>Wed, 11 Sep 2024 00:02:00 +0000</pubDate>
+      <itunes:duration>276</itunes:duration>
       <itunes:episode>3</itunes:episode>
     </item>
     <item>
       <title>she moved-mezzo.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1QeLzkceSoBCUmV3azDy70Mlt8GsDX6nn</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1QeLzkceSoBCUmV3azDy70Mlt8GsDX6nn" length="2089217" type="audio/mpeg"/>
-      <pubDate>Tue, 10 Sep 2024 00:01:00 +0000</pubDate>
+      <pubDate>Wed, 11 Sep 2024 00:01:00 +0000</pubDate>
       <itunes:duration>149</itunes:duration>
       <itunes:episode>2</itunes:episode>
     </item>
     <item>
-      <title>Emorio-mezzo.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1qWLb0sx2n34kXPGGp3KYlw-6woPafOR_</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1qWLb0sx2n34kXPGGp3KYlw-6woPafOR_" length="671192" type="audio/mpeg"/>
-      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
-      <itunes:duration>50</itunes:duration>
+      <title>the parting glass-mezzo.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1LSU5GE1Ae5KFB4WIz5or9NfFheHwLgk8</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1LSU5GE1Ae5KFB4WIz5or9NfFheHwLgk8" length="2001755" type="audio/mpeg"/>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      <itunes:duration>162</itunes:duration>
       <itunes:episode>1</itunes:episode>
     </item>
   </channel>
