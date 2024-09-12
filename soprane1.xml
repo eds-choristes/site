@@ -5,10 +5,18 @@
     <link>https://podcast.echodespy.net</link>
     <description>PLAYLIST: SOPRANE1 Programme2024
 TRACKS:
-the parting glass-soprane1-soprane2.mp3
+Irish Blessing-soprane1-soprane2.mp3
 Skye Boat Song-soprane1.mp3
+beidhaonach-120-soprane1-soprane2.mp3
+shulearoon-soprane1-soprane2.mp3
+SallyGardens-soprane1-soprane2.mp3
+MollyMaloneIF-soprane1-soprane2.mp3
+theseallullaby-soprane1-soprane2.mp3
 she moved-soprane1-soprane2.mp3
-Emorio-soprane1-soprane2.mp3
+HealingLight-soprane1-soprane2.mp3
+BotanyBayIF-soprane1-soprane2.mp3
+the parting glass-soprane1-soprane2.mp3
+runaway-soprane1-soprane2.mp3
 A PLACE IN HEAVEN - soprane1-soprane2.mp3</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
@@ -17,44 +25,108 @@ A PLACE IN HEAVEN - soprane1-soprane2.mp3</description>
       <title>SOPRANE1 Programme2024</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Wed, 11 Sep 2024 16:58:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 19:07:43 +0000</lastBuildDate>
     <item>
-      <title>the parting glass-soprane1-soprane2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1o6Iks4D--3OBqW_zBrlpMBIl4dhrz3e3</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1o6Iks4D--3OBqW_zBrlpMBIl4dhrz3e3" length="1999786" type="audio/mpeg"/>
-      <pubDate>Tue, 10 Sep 2024 00:04:00 +0000</pubDate>
-      <itunes:duration>162</itunes:duration>
-      <itunes:episode>5</itunes:episode>
+      <title>Irish Blessing-soprane1-soprane2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1_0__WotBnoEtdldDN1DVS9XsMrSfZz8u</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_0__WotBnoEtdldDN1DVS9XsMrSfZz8u" length="1025506" type="audio/mpeg"/>
+      <pubDate>Wed, 11 Sep 2024 00:12:00 +0000</pubDate>
+      <itunes:duration>74</itunes:duration>
+      <itunes:episode>13</itunes:episode>
     </item>
     <item>
       <title>Skye Boat Song-soprane1.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1v7KKdRZg9z_Lod0czarBro2GDTZG0gc9</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1v7KKdRZg9z_Lod0czarBro2GDTZG0gc9" length="4222727" type="audio/mpeg"/>
-      <pubDate>Tue, 10 Sep 2024 00:03:00 +0000</pubDate>
+      <pubDate>Wed, 11 Sep 2024 00:11:00 +0000</pubDate>
       <itunes:duration>176</itunes:duration>
-      <itunes:episode>4</itunes:episode>
+      <itunes:episode>12</itunes:episode>
+    </item>
+    <item>
+      <title>beidhaonach-120-soprane1-soprane2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1wMZVVHnQf_8xTRAiMQcgmFXADL3X8jxX</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1wMZVVHnQf_8xTRAiMQcgmFXADL3X8jxX" length="3798536" type="audio/mpeg"/>
+      <pubDate>Wed, 11 Sep 2024 00:10:00 +0000</pubDate>
+      <itunes:duration>276</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+    </item>
+    <item>
+      <title>shulearoon-soprane1-soprane2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1k_kD0D3QWDSkgLNPmMWglwncW_WwVA_g</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1k_kD0D3QWDSkgLNPmMWglwncW_WwVA_g" length="1842777" type="audio/mpeg"/>
+      <pubDate>Wed, 11 Sep 2024 00:09:00 +0000</pubDate>
+      <itunes:duration>208</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+    </item>
+    <item>
+      <title>SallyGardens-soprane1-soprane2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1UelF40ZKtPn9zulVZPCBBKAsY-iUWoIE</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1UelF40ZKtPn9zulVZPCBBKAsY-iUWoIE" length="4460986" type="audio/mpeg"/>
+      <pubDate>Wed, 11 Sep 2024 00:08:00 +0000</pubDate>
+      <itunes:duration>198</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+    </item>
+    <item>
+      <title>MollyMaloneIF-soprane1-soprane2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1cVRK56DfHnc4UVoaVCGNeNc_Riq20RE6</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1cVRK56DfHnc4UVoaVCGNeNc_Riq20RE6" length="1979115" type="audio/mpeg"/>
+      <pubDate>Wed, 11 Sep 2024 00:07:00 +0000</pubDate>
+      <itunes:duration>140</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+    </item>
+    <item>
+      <title>theseallullaby-soprane1-soprane2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1c4dDysrow5bskqPiiW2vMHkEb7TKPf2h</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1c4dDysrow5bskqPiiW2vMHkEb7TKPf2h" length="3043702" type="audio/mpeg"/>
+      <pubDate>Wed, 11 Sep 2024 00:06:00 +0000</pubDate>
+      <itunes:duration>223</itunes:duration>
+      <itunes:episode>7</itunes:episode>
     </item>
     <item>
       <title>she moved-soprane1-soprane2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1z2J11VFzVhcZrP8Yco9X8T3RmNAWgapK</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1z2J11VFzVhcZrP8Yco9X8T3RmNAWgapK" length="2080959" type="audio/mpeg"/>
-      <pubDate>Tue, 10 Sep 2024 00:02:00 +0000</pubDate>
+      <pubDate>Wed, 11 Sep 2024 00:05:00 +0000</pubDate>
       <itunes:duration>149</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+    </item>
+    <item>
+      <title>HealingLight-soprane1-soprane2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=177gfjCcONEVPUXmszc2sebqkXQgt4Y5F</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=177gfjCcONEVPUXmszc2sebqkXQgt4Y5F" length="4488563" type="audio/mpeg"/>
+      <pubDate>Wed, 11 Sep 2024 00:04:00 +0000</pubDate>
+      <itunes:duration>184</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+    </item>
+    <item>
+      <title>BotanyBayIF-soprane1-soprane2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1Df-0HYdW_OlH4vkOiJxwOWZBexD0Mecy</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Df-0HYdW_OlH4vkOiJxwOWZBexD0Mecy" length="5415107" type="audio/mpeg"/>
+      <pubDate>Wed, 11 Sep 2024 00:03:00 +0000</pubDate>
+      <itunes:duration>211</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+    </item>
+    <item>
+      <title>the parting glass-soprane1-soprane2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1o6Iks4D--3OBqW_zBrlpMBIl4dhrz3e3</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1o6Iks4D--3OBqW_zBrlpMBIl4dhrz3e3" length="1999786" type="audio/mpeg"/>
+      <pubDate>Wed, 11 Sep 2024 00:02:00 +0000</pubDate>
+      <itunes:duration>162</itunes:duration>
       <itunes:episode>3</itunes:episode>
     </item>
     <item>
-      <title>Emorio-soprane1-soprane2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1NJeiA4eY35zdKdqj3V9Tdist-tr69mNa</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1NJeiA4eY35zdKdqj3V9Tdist-tr69mNa" length="673891" type="audio/mpeg"/>
-      <pubDate>Tue, 10 Sep 2024 00:01:00 +0000</pubDate>
-      <itunes:duration>50</itunes:duration>
+      <title>runaway-soprane1-soprane2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1bptHKJzouBDTyT3X9VruC_z1CovcvNUE</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1bptHKJzouBDTyT3X9VruC_z1CovcvNUE" length="2601547" type="audio/mpeg"/>
+      <pubDate>Wed, 11 Sep 2024 00:01:00 +0000</pubDate>
+      <itunes:duration>233</itunes:duration>
       <itunes:episode>2</itunes:episode>
     </item>
     <item>
       <title>A PLACE IN HEAVEN - soprane1-soprane2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1FLGHZHHxOHOEWs_Rgapz3pMMmPHpNevm</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1FLGHZHHxOHOEWs_Rgapz3pMMmPHpNevm" length="2533667" type="audio/mpeg"/>
-      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
       <itunes:duration>158</itunes:duration>
       <itunes:episode>1</itunes:episode>
     </item>
