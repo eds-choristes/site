@@ -2,123 +2,111 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>MyMusic2023</title>
-    <link>https://drive.google.com/drive/folders/1Ch9_dpSo5PvpBvEScrM7fqCsoxrEN3K0</link>
+    <link>https://podcast.echodespy.net</link>
     <description>PLAYLIST: MyMusic2023
 TRACKS:
-Anna Maria Jopek &amp; Path Metheny - Cichy zapada zmrok (live).m4a
-Candy Dulfer - Lily was Here - Leverkusen 2009.mp3
-Ghillie's - Cooney's Reel.mp3
-Ghillie's - Musical Priest.mp3
-Ibrahim Maalouf - Red &amp; Black Light.m4a
-Irish Feel - Scarbourough Fair, The Musical Priest.mp3
-Irish Feel - What would you do.mp3
-Les héros du quotidien à Spy en 2019.mp3
-Nastya Maslova - Katyusha Deep Impression.mp3
-Natashia Kelly - The Ocean (remastered 48K16b).flac
-Neon Vines - Lay Low Instrumental (remix 2).mp3
-The Corrs - I Do What I Like (Live Acoustic).mp3</description>
+01 Ibrahim Maalouf - Red &amp; Black Light.m4a
+02 Anna Maria Jopek &amp; Path Metheny - Cichy zapada zmrok (live).m4a
+03 Natashia Kelly - The Ocean (remastered 48K16b).flac
+04 The Corrs - I Do What I Like (Live Acoustic).mp3
+07 Ghillie's - Cooney's Reel.mp3
+08 Ghillie's - Musical Priest.mp3
+09 Irish Feel - Scarbourough Fair, The Musical Priest.mp3
+10 Irish Feel - What would you do.mp3
+11 Nastya Maslova - Katyusha Deep Impression.mp3
+12 Neon Vines - Lay Low Instrumental (remix 2).mp3
+13 Candy Dulfer - Lily was Here - Leverkusen 2009.mp3
+14 Les héros du quotidien à Spy en 2019.mp3</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
       <url>https://drive.google.com/uc?export=download&amp;id=1SnhptKI20Wzq40oRPzIj1cPviN2abS0U</url>
       <title>MyMusic2023</title>
-      <link>https://drive.google.com/drive/folders/1Ch9_dpSo5PvpBvEScrM7fqCsoxrEN3K0</link>
+      <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Fri, 13 Sep 2024 19:56:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 21:14:49 +0000</lastBuildDate>
     <item>
-      <title>Anna Maria Jopek &amp; Path Metheny - Cichy zapada zmrok (live).m4a</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=12bvgT8mawbWbqXDSIMNlD1l0kS7Z4Zw9</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=12bvgT8mawbWbqXDSIMNlD1l0kS7Z4Zw9" length="2968615" type="audio/mpeg"/>
-      <pubDate>Thu, 12 Sep 2024 00:11:00 +0000</pubDate>
-      <itunes:duration>184</itunes:duration>
+      <title>01 Ibrahim Maalouf - Red &amp; Black Light.m4a</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1cDzgpu2rfH_LkKhVUPbr3583T6rohStZ</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1cDzgpu2rfH_LkKhVUPbr3583T6rohStZ" length="4071144" type="audio/mpeg"/>
+      <pubDate>Thu, 19 Sep 2024 00:11:00 +0000</pubDate>
       <itunes:episode>12</itunes:episode>
     </item>
     <item>
-      <title>Candy Dulfer - Lily was Here - Leverkusen 2009.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1KUZO2RlauwXyGHfw-DtRFd5pMjSOU8vb</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1KUZO2RlauwXyGHfw-DtRFd5pMjSOU8vb" length="12806236" type="audio/mpeg"/>
-      <pubDate>Thu, 12 Sep 2024 00:10:00 +0000</pubDate>
-      <itunes:duration>400</itunes:duration>
+      <title>02 Anna Maria Jopek &amp; Path Metheny - Cichy zapada zmrok (live).m4a</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=12bvgT8mawbWbqXDSIMNlD1l0kS7Z4Zw9</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=12bvgT8mawbWbqXDSIMNlD1l0kS7Z4Zw9" length="2968615" type="audio/mpeg"/>
+      <pubDate>Thu, 19 Sep 2024 00:10:00 +0000</pubDate>
       <itunes:episode>11</itunes:episode>
     </item>
     <item>
-      <title>Ghillie's - Cooney's Reel.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1OCKLxWSwAK1xz1ifY5ggr5GxSkb881or</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1OCKLxWSwAK1xz1ifY5ggr5GxSkb881or" length="6014725" type="audio/mpeg"/>
-      <pubDate>Thu, 12 Sep 2024 00:09:00 +0000</pubDate>
-      <itunes:duration>150</itunes:duration>
+      <title>03 Natashia Kelly - The Ocean (remastered 48K16b).flac</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1sV-cMtUpMmg1xLnE9YuaxWIdU36JVJJz</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1sV-cMtUpMmg1xLnE9YuaxWIdU36JVJJz" length="22505493" type="audio/mpeg"/>
+      <pubDate>Thu, 19 Sep 2024 00:09:00 +0000</pubDate>
       <itunes:episode>10</itunes:episode>
     </item>
     <item>
-      <title>Ghillie's - Musical Priest.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1BTzCqIdmx4NkPNFFs9H3AfxNORsIDdrQ</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1BTzCqIdmx4NkPNFFs9H3AfxNORsIDdrQ" length="5616953" type="audio/mpeg"/>
-      <pubDate>Thu, 12 Sep 2024 00:08:00 +0000</pubDate>
-      <itunes:duration>140</itunes:duration>
+      <title>04 The Corrs - I Do What I Like (Live Acoustic).mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1m-mAnOcwCMWM3e-XGipIkXx2qdIlElHN</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1m-mAnOcwCMWM3e-XGipIkXx2qdIlElHN" length="3515393" type="audio/mpeg"/>
+      <pubDate>Thu, 19 Sep 2024 00:08:00 +0000</pubDate>
       <itunes:episode>9</itunes:episode>
     </item>
     <item>
-      <title>Ibrahim Maalouf - Red &amp; Black Light.m4a</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1cDzgpu2rfH_LkKhVUPbr3583T6rohStZ</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1cDzgpu2rfH_LkKhVUPbr3583T6rohStZ" length="4071144" type="audio/mpeg"/>
-      <pubDate>Thu, 12 Sep 2024 00:07:00 +0000</pubDate>
-      <itunes:duration>252</itunes:duration>
+      <title>07 Ghillie's - Cooney's Reel.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1OCKLxWSwAK1xz1ifY5ggr5GxSkb881or</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1OCKLxWSwAK1xz1ifY5ggr5GxSkb881or" length="6014725" type="audio/mpeg"/>
+      <pubDate>Thu, 19 Sep 2024 00:07:00 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
     </item>
     <item>
-      <title>Irish Feel - Scarbourough Fair, The Musical Priest.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ERCKQBQclK4PNMzFZKtFGG9HvQaWRTYm</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ERCKQBQclK4PNMzFZKtFGG9HvQaWRTYm" length="9462968" type="audio/mpeg"/>
-      <pubDate>Thu, 12 Sep 2024 00:06:00 +0000</pubDate>
-      <itunes:duration>236</itunes:duration>
+      <title>08 Ghillie's - Musical Priest.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1BTzCqIdmx4NkPNFFs9H3AfxNORsIDdrQ</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1BTzCqIdmx4NkPNFFs9H3AfxNORsIDdrQ" length="5616953" type="audio/mpeg"/>
+      <pubDate>Thu, 19 Sep 2024 00:06:00 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
     </item>
     <item>
-      <title>Irish Feel - What would you do.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1CYJo2-yfu7Rtea0EeMxGahdMkVpOdtzm</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1CYJo2-yfu7Rtea0EeMxGahdMkVpOdtzm" length="6082788" type="audio/mpeg"/>
-      <pubDate>Thu, 12 Sep 2024 00:05:00 +0000</pubDate>
-      <itunes:duration>152</itunes:duration>
+      <title>09 Irish Feel - Scarbourough Fair, The Musical Priest.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ERCKQBQclK4PNMzFZKtFGG9HvQaWRTYm</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ERCKQBQclK4PNMzFZKtFGG9HvQaWRTYm" length="9462968" type="audio/mpeg"/>
+      <pubDate>Thu, 19 Sep 2024 00:05:00 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
     </item>
     <item>
-      <title>Les héros du quotidien à Spy en 2019.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1hJvnK9af4sWTDxS2kFIXvgbSTYIEyz2S</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1hJvnK9af4sWTDxS2kFIXvgbSTYIEyz2S" length="5634269" type="audio/mpeg"/>
-      <pubDate>Thu, 12 Sep 2024 00:04:00 +0000</pubDate>
-      <itunes:duration>176</itunes:duration>
+      <title>10 Irish Feel - What would you do.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1CYJo2-yfu7Rtea0EeMxGahdMkVpOdtzm</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1CYJo2-yfu7Rtea0EeMxGahdMkVpOdtzm" length="6082788" type="audio/mpeg"/>
+      <pubDate>Thu, 19 Sep 2024 00:04:00 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
     </item>
     <item>
-      <title>Nastya Maslova - Katyusha Deep Impression.mp3</title>
+      <title>11 Nastya Maslova - Katyusha Deep Impression.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1z6wi8I2cTpMSpk-ViUZfsTckkxxSEJCI</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1z6wi8I2cTpMSpk-ViUZfsTckkxxSEJCI" length="8857331" type="audio/mpeg"/>
-      <pubDate>Thu, 12 Sep 2024 00:03:00 +0000</pubDate>
-      <itunes:duration>553</itunes:duration>
+      <pubDate>Thu, 19 Sep 2024 00:03:00 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
     </item>
     <item>
-      <title>Natashia Kelly - The Ocean (remastered 48K16b).flac</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1sV-cMtUpMmg1xLnE9YuaxWIdU36JVJJz</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1sV-cMtUpMmg1xLnE9YuaxWIdU36JVJJz" length="22505493" type="audio/mpeg"/>
-      <pubDate>Thu, 12 Sep 2024 00:02:00 +0000</pubDate>
-      <itunes:duration>234</itunes:duration>
+      <title>12 Neon Vines - Lay Low Instrumental (remix 2).mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1g2Hez7OahJGnlCyUBQMTl2lvawPj0zme</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1g2Hez7OahJGnlCyUBQMTl2lvawPj0zme" length="9983026" type="audio/mpeg"/>
+      <pubDate>Thu, 19 Sep 2024 00:02:00 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
     </item>
     <item>
-      <title>Neon Vines - Lay Low Instrumental (remix 2).mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1g2Hez7OahJGnlCyUBQMTl2lvawPj0zme</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1g2Hez7OahJGnlCyUBQMTl2lvawPj0zme" length="9983026" type="audio/mpeg"/>
-      <pubDate>Thu, 12 Sep 2024 00:01:00 +0000</pubDate>
-      <itunes:duration>250</itunes:duration>
+      <title>13 Candy Dulfer - Lily was Here - Leverkusen 2009.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1KUZO2RlauwXyGHfw-DtRFd5pMjSOU8vb</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1KUZO2RlauwXyGHfw-DtRFd5pMjSOU8vb" length="12806236" type="audio/mpeg"/>
+      <pubDate>Thu, 19 Sep 2024 00:01:00 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
     </item>
     <item>
-      <title>The Corrs - I Do What I Like (Live Acoustic).mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1m-mAnOcwCMWM3e-XGipIkXx2qdIlElHN</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1m-mAnOcwCMWM3e-XGipIkXx2qdIlElHN" length="3515393" type="audio/mpeg"/>
-      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
-      <itunes:duration>219</itunes:duration>
+      <title>14 Les héros du quotidien à Spy en 2019.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1hJvnK9af4sWTDxS2kFIXvgbSTYIEyz2S</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1hJvnK9af4sWTDxS2kFIXvgbSTYIEyz2S" length="5634269" type="audio/mpeg"/>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
     </item>
   </channel>
