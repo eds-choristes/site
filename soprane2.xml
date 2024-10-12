@@ -1,10 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>SOPRANE2 Programme2024</title>
+    <title>SOPRANE2 ProgrammeNoel2024</title>
     <link>https://podcast.echodespy.net</link>
-    <description>PLAYLIST: SOPRANE2 Programme2024
+    <description>PLAYLIST: SOPRANE2 ProgrammeNoel2024
 TRACKS:
+thelittledrummerboy-soprane1-soprane2.mp3
+deckthehall-fr-soprane1-soprane2.mp3
+noellanaro-soprane1-soprane2.mp3
+juljul-lou-soprane1-soprane2.mp3
+Last Christmas - soprane1-soprane2.mp3
+Carol of the Bells - soprane1-soprane2.mp3
+Walking In The Air - soprane1-soprane2.mp3
 Irish Blessing-soprane1-soprane2.mp3
 Skye Boat Song-soprane2.mp3
 beidhaonach-120-soprane1-soprane2.mp3
@@ -21,11 +28,60 @@ A PLACE IN HEAVEN - soprane1-soprane2.mp3</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
-      <url>https://drive.google.com/uc?export=download&amp;id=1UcLZcDyKsVWL-YDB6VufC4k2odKw7QXG</url>
-      <title>SOPRANE2 Programme2024</title>
+      <url></url>
+      <title>SOPRANE2 ProgrammeNoel2024</title>
       <link>https://podcast.echodespy.net</link>
     </image>
     <lastBuildDate>Sun, 29 Sep 2024 19:27:50 +0000</lastBuildDate>
+    <item>
+      <title>thelittledrummerboy-soprane1-soprane2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1IRLxfU4CFC_qjpdssqZMqoIJHi7rqsbU</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1IRLxfU4CFC_qjpdssqZMqoIJHi7rqsbU" length="1867834" type="audio/mpeg"/>
+      <pubDate>Fri, 11 Oct 2024 01:06:00 +0000</pubDate>
+      <itunes:episode>20</itunes:episode>
+    </item>
+    <item>
+      <title>deckthehall-fr-soprane1-soprane2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1h8ukqoXZC48TKSXmo1Fr9R1eIMXVPWqV</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1h8ukqoXZC48TKSXmo1Fr9R1eIMXVPWqV" length="739499" type="audio/mpeg"/>
+      <pubDate>Fri, 11 Oct 2024 01:05:00 +0000</pubDate>
+      <itunes:episode>19</itunes:episode>
+    </item>
+    <item>
+      <title>noellanaro-soprane1-soprane2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1jMyMJp94RFdJZGZ2QISG2k2gOosBttxe</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1jMyMJp94RFdJZGZ2QISG2k2gOosBttxe" length="907716" type="audio/mpeg"/>
+      <pubDate>Fri, 11 Oct 2024 01:04:00 +0000</pubDate>
+      <itunes:episode>18</itunes:episode>
+    </item>
+    <item>
+      <title>juljul-lou-soprane1-soprane2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ZRvmfOWvh8mIipz2ywEV0tWw9ibuxrMw</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZRvmfOWvh8mIipz2ywEV0tWw9ibuxrMw" length="808279" type="audio/mpeg"/>
+      <pubDate>Fri, 11 Oct 2024 01:03:00 +0000</pubDate>
+      <itunes:episode>17</itunes:episode>
+    </item>
+    <item>
+      <title>Last Christmas - soprane1-soprane2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1j6iTWNEJD4_wXJbsi2ZZWjixU_6LMubN</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1j6iTWNEJD4_wXJbsi2ZZWjixU_6LMubN" length="4478880" type="audio/mpeg"/>
+      <pubDate>Fri, 11 Oct 2024 01:02:00 +0000</pubDate>
+      <itunes:episode>16</itunes:episode>
+    </item>
+    <item>
+      <title>Carol of the Bells - soprane1-soprane2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1qBuOkkvqc8dQhytWMv0QtDcFl7hsJfjF</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1qBuOkkvqc8dQhytWMv0QtDcFl7hsJfjF" length="1492224" type="audio/mpeg"/>
+      <pubDate>Fri, 11 Oct 2024 01:01:00 +0000</pubDate>
+      <itunes:episode>15</itunes:episode>
+    </item>
+    <item>
+      <title>Walking In The Air - soprane1-soprane2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1YSvR5nzn_h_pHDMJOhueHfbH3m27I1qH</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1YSvR5nzn_h_pHDMJOhueHfbH3m27I1qH" length="3989760" type="audio/mpeg"/>
+      <pubDate>Fri, 11 Oct 2024 01:00:00 +0000</pubDate>
+      <itunes:episode>14</itunes:episode>
+    </item>
     <item>
       <title>Irish Blessing-soprane1-soprane2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1_0__WotBnoEtdldDN1DVS9XsMrSfZz8u</guid>
