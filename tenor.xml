@@ -1,17 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>TENOR ProgrammeNoel2024</title>
+    <title>TENOR Programme2024</title>
     <link>https://podcast.echodespy.net</link>
-    <description>PLAYLIST: TENOR ProgrammeNoel2024
+    <description>PLAYLIST: TENOR Programme2024
 TRACKS:
-thelittledrummerboy-tenor.mp3
-deckthehall-tenor.mp3
-noellanaro-tenor.mp3
-juljul-lou-tenor.mp3
-Last Christmas - tenor.mp3
-Carol of the Bells - tenor.mp3
-Walking In The Air - tenor.mp3
 IrishBlessing-tenor.mp3
 Skye Boat Song-tenor.mp3
 beidhaonach-120-tenor.mp3
@@ -28,162 +21,100 @@ A PLACE IN HEAVEN - tenor.mp3</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
-      <url></url>
-      <title>TENOR ProgrammeNoel2024</title>
+      <url>https://drive.google.com/uc?export=download&amp;id=1FXeVXORiuzLY11sJIy5urg6Ns3FF7_a7</url>
+      <title>TENOR Programme2024</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Sun, 29 Sep 2024 19:27:54 +0000</lastBuildDate>
-    <item>
-      <title>thelittledrummerboy-tenor.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1cYTmW_0rKpRzLoGoRF0gXaJGZbtOpOmv</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1cYTmW_0rKpRzLoGoRF0gXaJGZbtOpOmv" length="2066558" type="audio/mpeg"/>
-      <pubDate>Fri, 11 Oct 2024 01:06:00 +0000</pubDate>
-      <itunes:episode>20</itunes:episode>
-    </item>
-    <item>
-      <title>deckthehall-tenor.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1t3dXf37BHVR4PqVnIW8le-JOwioUSsLZ</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1t3dXf37BHVR4PqVnIW8le-JOwioUSsLZ" length="927267" type="audio/mpeg"/>
-      <pubDate>Fri, 11 Oct 2024 01:05:00 +0000</pubDate>
-      <itunes:episode>19</itunes:episode>
-    </item>
-    <item>
-      <title>noellanaro-tenor.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=16fUcpsMQwUaHbHnvMda7HN7k82bcQ-kn</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=16fUcpsMQwUaHbHnvMda7HN7k82bcQ-kn" length="883489" type="audio/mpeg"/>
-      <pubDate>Fri, 11 Oct 2024 01:04:00 +0000</pubDate>
-      <itunes:episode>18</itunes:episode>
-    </item>
-    <item>
-      <title>juljul-lou-tenor.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1gqcVL6879QQpW4NmS-zYF5GcHM554cg7</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1gqcVL6879QQpW4NmS-zYF5GcHM554cg7" length="786230" type="audio/mpeg"/>
-      <pubDate>Fri, 11 Oct 2024 01:03:00 +0000</pubDate>
-      <itunes:episode>17</itunes:episode>
-    </item>
-    <item>
-      <title>Last Christmas - tenor.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1zRJ2FCPlflYksmzJSlzfAaPrVxKu-KvN</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1zRJ2FCPlflYksmzJSlzfAaPrVxKu-KvN" length="4478880" type="audio/mpeg"/>
-      <pubDate>Fri, 11 Oct 2024 01:02:00 +0000</pubDate>
-      <itunes:episode>16</itunes:episode>
-    </item>
-    <item>
-      <title>Carol of the Bells - tenor.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1z1-jkzG9m4wcD-gZfQDFfwjGBgXLSHRv</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1z1-jkzG9m4wcD-gZfQDFfwjGBgXLSHRv" length="1492224" type="audio/mpeg"/>
-      <pubDate>Fri, 11 Oct 2024 01:01:00 +0000</pubDate>
-      <itunes:episode>15</itunes:episode>
-    </item>
-    <item>
-      <title>Walking In The Air - tenor.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1MiTbVMLi2ebE9Js1BqYghcMljgENCllo</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1MiTbVMLi2ebE9Js1BqYghcMljgENCllo" length="3989760" type="audio/mpeg"/>
-      <pubDate>Fri, 11 Oct 2024 01:00:00 +0000</pubDate>
-      <itunes:episode>14</itunes:episode>
-    </item>
+    <lastBuildDate>Sun, 13 Oct 2024 20:17:46 +0000</lastBuildDate>
     <item>
       <title>IrishBlessing-tenor.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1-WS7d3KG9WFiHw29TYKb2suh_EBJw1Wq</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1-WS7d3KG9WFiHw29TYKb2suh_EBJw1Wq" length="1001637" type="audio/mpeg"/>
-      <pubDate>Sat, 28 Sep 2024 00:12:00 +0000</pubDate>
-      <itunes:duration>74</itunes:duration>
+      <pubDate>Sat, 12 Oct 2024 00:12:00 +0000</pubDate>
       <itunes:episode>13</itunes:episode>
     </item>
     <item>
       <title>Skye Boat Song-tenor.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1qkrMNw-sNUpcJkipk1Dewne9yraubXym</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1qkrMNw-sNUpcJkipk1Dewne9yraubXym" length="4210816" type="audio/mpeg"/>
-      <pubDate>Sat, 28 Sep 2024 00:11:00 +0000</pubDate>
-      <itunes:duration>175</itunes:duration>
+      <pubDate>Sat, 12 Oct 2024 00:11:00 +0000</pubDate>
       <itunes:episode>12</itunes:episode>
     </item>
     <item>
       <title>beidhaonach-120-tenor.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=15JphoQW2zVU85E4S-c9Xc-HroW3bm262</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=15JphoQW2zVU85E4S-c9Xc-HroW3bm262" length="3759879" type="audio/mpeg"/>
-      <pubDate>Sat, 28 Sep 2024 00:10:00 +0000</pubDate>
-      <itunes:duration>276</itunes:duration>
+      <pubDate>Sat, 12 Oct 2024 00:10:00 +0000</pubDate>
       <itunes:episode>11</itunes:episode>
     </item>
     <item>
       <title>Shulearoon-tenor.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1buaokKFJGTmoXLESGRZrgHFl9l8ZjIRy</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1buaokKFJGTmoXLESGRZrgHFl9l8ZjIRy" length="2002278" type="audio/mpeg"/>
-      <pubDate>Sat, 28 Sep 2024 00:09:00 +0000</pubDate>
-      <itunes:duration>208</itunes:duration>
+      <pubDate>Sat, 12 Oct 2024 00:09:00 +0000</pubDate>
       <itunes:episode>10</itunes:episode>
     </item>
     <item>
       <title>SallyGardens-tenor.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1v87zGMPiRJYB5EburluAO-hCOAeoIr1G</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1v87zGMPiRJYB5EburluAO-hCOAeoIr1G" length="4253445" type="audio/mpeg"/>
-      <pubDate>Sat, 28 Sep 2024 00:08:00 +0000</pubDate>
-      <itunes:duration>198</itunes:duration>
+      <pubDate>Sat, 12 Oct 2024 00:08:00 +0000</pubDate>
       <itunes:episode>9</itunes:episode>
     </item>
     <item>
       <title>MollyMaloneIF-tenor.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1nKfnrtlY0UR_wPjO0G0GZZ0lS2sACDbx</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1nKfnrtlY0UR_wPjO0G0GZZ0lS2sACDbx" length="1958684" type="audio/mpeg"/>
-      <pubDate>Sat, 28 Sep 2024 00:07:00 +0000</pubDate>
-      <itunes:duration>140</itunes:duration>
+      <pubDate>Sat, 12 Oct 2024 00:07:00 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
     </item>
     <item>
       <title>theseallullaby-mib-tenor.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1RgMRgvqrsHyWq8kFYuKcQ2sZyD-AMY7h</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1RgMRgvqrsHyWq8kFYuKcQ2sZyD-AMY7h" length="3067993" type="audio/mpeg"/>
-      <pubDate>Sat, 28 Sep 2024 00:06:00 +0000</pubDate>
-      <itunes:duration>223</itunes:duration>
+      <pubDate>Sat, 12 Oct 2024 00:06:00 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
     </item>
     <item>
       <title>she moved-tenor-basse1-basse2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1kDb95tw-J1R81e9eiO1zyM8osMwnfNj4</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1kDb95tw-J1R81e9eiO1zyM8osMwnfNj4" length="2086301" type="audio/mpeg"/>
-      <pubDate>Sat, 28 Sep 2024 00:05:00 +0000</pubDate>
-      <itunes:duration>149</itunes:duration>
+      <pubDate>Sat, 12 Oct 2024 00:05:00 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
     </item>
     <item>
       <title>HealingLight-tenor.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1qDybQgLIJGRXiwD6rJZvbiOFzDyPoS9Q</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1qDybQgLIJGRXiwD6rJZvbiOFzDyPoS9Q" length="4418107" type="audio/mpeg"/>
-      <pubDate>Sat, 28 Sep 2024 00:04:00 +0000</pubDate>
-      <itunes:duration>184</itunes:duration>
+      <pubDate>Sat, 12 Oct 2024 00:04:00 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
     </item>
     <item>
       <title>BotanyBayIF-tenor.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1Wp5BINpkzDAEEImjqWv2xRsrlPjaJ-DA</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Wp5BINpkzDAEEImjqWv2xRsrlPjaJ-DA" length="5432371" type="audio/mpeg"/>
-      <pubDate>Sat, 28 Sep 2024 00:03:00 +0000</pubDate>
-      <itunes:duration>211</itunes:duration>
+      <pubDate>Sat, 12 Oct 2024 00:03:00 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
     </item>
     <item>
       <title>the parting glass-tenor.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1fEMo2GLBdYuq5_XWrbTIfT-DnLdCD-nR</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1fEMo2GLBdYuq5_XWrbTIfT-DnLdCD-nR" length="1981356" type="audio/mpeg"/>
-      <pubDate>Sat, 28 Sep 2024 00:02:00 +0000</pubDate>
-      <itunes:duration>162</itunes:duration>
+      <pubDate>Sat, 12 Oct 2024 00:02:00 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
     </item>
     <item>
       <title>Runaway-tenor.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1n--g8b1xoexNuG7KCwZ4tfLBHIT7rK1R</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1n--g8b1xoexNuG7KCwZ4tfLBHIT7rK1R" length="2648006" type="audio/mpeg"/>
-      <pubDate>Sat, 28 Sep 2024 00:01:00 +0000</pubDate>
-      <itunes:duration>233</itunes:duration>
+      <pubDate>Sat, 12 Oct 2024 00:01:00 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
     </item>
     <item>
       <title>A PLACE IN HEAVEN - tenor.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1473XIVR_YZVbw725bB_V5kml58oUpC03</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1473XIVR_YZVbw725bB_V5kml58oUpC03" length="2515278" type="audio/mpeg"/>
-      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
-      <itunes:duration>157</itunes:duration>
+      <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
     </item>
   </channel>
