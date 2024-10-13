@@ -1,10 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>TUTTI Programme2024</title>
+    <title>TUTTI Noel+Programme2024</title>
     <link>https://podcast.echodespy.net</link>
-    <description>PLAYLIST: TUTTI Programme2024
+    <description>PLAYLIST: TUTTI Noel+Programme2024
 TRACKS:
+thelittledrummerboy-tutti.mp3
+deckthehall-fr-tutti.mp3
+noellanaro-tutti.mp3
+juljul-lou-tutti.mp3
+Last Christmas - tutti.mp3
+Carol of the Bells - tutti.mp3
+Walking In The Air - tutti.mp3
 anirishblessing-tutti.mp3
 Skye boat song-tutti.mp3
 beidhaonach-120-tutti.mp3
@@ -22,10 +29,59 @@ A PLACE IN HEAVEN - tutti.mp3</description>
     <generator>python-feedgen</generator>
     <image>
       <url>https://drive.google.com/uc?export=download&amp;id=1z2SARHe3_xmNQxakTx3vFkeiTm9vrWxz</url>
-      <title>TUTTI Programme2024</title>
+      <title>TUTTI Noel+Programme2024</title>
       <link>https://podcast.echodespy.net</link>
     </image>
     <lastBuildDate>Sun, 13 Oct 2024 20:09:53 +0000</lastBuildDate>
+    <item>
+      <title>thelittledrummerboy-tutti.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1IIWsPVWws3pT5F7Kd1aQKFnwEQBZGoMH</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1IIWsPVWws3pT5F7Kd1aQKFnwEQBZGoMH" length="2457369" type="audio/mpeg"/>
+      <pubDate>Sat, 12 Oct 2024 01:06:00 +0000</pubDate>
+      <itunes:episode>20</itunes:episode>
+    </item>
+    <item>
+      <title>deckthehall-fr-tutti.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1btvvdGiP5X2pVI2VnbjE3AaPpPvE7VrD</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1btvvdGiP5X2pVI2VnbjE3AaPpPvE7VrD" length="905436" type="audio/mpeg"/>
+      <pubDate>Sat, 12 Oct 2024 01:05:00 +0000</pubDate>
+      <itunes:episode>19</itunes:episode>
+    </item>
+    <item>
+      <title>noellanaro-tutti.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1w36QJ8UjZkPUugzzLNToYJwp55PwxDp_</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1w36QJ8UjZkPUugzzLNToYJwp55PwxDp_" length="1104296" type="audio/mpeg"/>
+      <pubDate>Sat, 12 Oct 2024 01:04:00 +0000</pubDate>
+      <itunes:episode>18</itunes:episode>
+    </item>
+    <item>
+      <title>juljul-lou-tutti.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1dxRKKCHXBG7hlmmUcFU4gI4DkLXrCZ7Y</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1dxRKKCHXBG7hlmmUcFU4gI4DkLXrCZ7Y" length="869747" type="audio/mpeg"/>
+      <pubDate>Sat, 12 Oct 2024 01:03:00 +0000</pubDate>
+      <itunes:episode>17</itunes:episode>
+    </item>
+    <item>
+      <title>Last Christmas - tutti.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1LsOBC_4Bf2Aps3VPKlQBeiwWia8Sk6KH</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1LsOBC_4Bf2Aps3VPKlQBeiwWia8Sk6KH" length="4478880" type="audio/mpeg"/>
+      <pubDate>Sat, 12 Oct 2024 01:02:00 +0000</pubDate>
+      <itunes:episode>16</itunes:episode>
+    </item>
+    <item>
+      <title>Carol of the Bells - tutti.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=14LU4OiPFUTDhK05RHVCAjOP9qRNxziI9</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=14LU4OiPFUTDhK05RHVCAjOP9qRNxziI9" length="1492224" type="audio/mpeg"/>
+      <pubDate>Sat, 12 Oct 2024 01:01:00 +0000</pubDate>
+      <itunes:episode>15</itunes:episode>
+    </item>
+    <item>
+      <title>Walking In The Air - tutti.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1s0Ihb2WzTe6PYa8YBuC1veEMUgW6Z-cz</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1s0Ihb2WzTe6PYa8YBuC1veEMUgW6Z-cz" length="3989760" type="audio/mpeg"/>
+      <pubDate>Sat, 12 Oct 2024 01:00:00 +0000</pubDate>
+      <itunes:episode>14</itunes:episode>
+    </item>
     <item>
       <title>anirishblessing-tutti.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1YxMa9T5FuskXdmhiT5pY_DOAIvauCXYy</guid>
