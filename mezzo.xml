@@ -5,8 +5,7 @@
     <link>https://podcast.echodespy.net</link>
     <description>PLAYLIST: MEZZO Programme2024
 TRACKS:
-Beidhaonach-120-mezzo.mp3
-she moved-mezzo.mp3
+TheSealLullaby-mezzo.mp3
 the parting glass-mezzo.mp3</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
@@ -15,28 +14,20 @@ the parting glass-mezzo.mp3</description>
       <title>MEZZO Programme2024</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Sun, 29 Sep 2024 19:27:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 22:26:49 +0000</lastBuildDate>
     <item>
-      <title>Beidhaonach-120-mezzo.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=177m88Q6T9HpzQ9HnNnEK21W6DGOcrCbD</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=177m88Q6T9HpzQ9HnNnEK21W6DGOcrCbD" length="3807027" type="audio/mpeg"/>
-      <pubDate>Sat, 28 Sep 2024 00:02:00 +0000</pubDate>
-      <itunes:duration>276</itunes:duration>
-      <itunes:episode>3</itunes:episode>
-    </item>
-    <item>
-      <title>she moved-mezzo.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1QeLzkceSoBCUmV3azDy70Mlt8GsDX6nn</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1QeLzkceSoBCUmV3azDy70Mlt8GsDX6nn" length="2089217" type="audio/mpeg"/>
-      <pubDate>Sat, 28 Sep 2024 00:01:00 +0000</pubDate>
-      <itunes:duration>149</itunes:duration>
+      <title>TheSealLullaby-mezzo.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1i1j7u-ZGv7xQ3gMBQx7lH9LZGgLKqd-I</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1i1j7u-ZGv7xQ3gMBQx7lH9LZGgLKqd-I" length="2991396" type="audio/mpeg"/>
+      <pubDate>Tue, 12 Nov 2024 00:01:00 +0000</pubDate>
+      <itunes:duration>223</itunes:duration>
       <itunes:episode>2</itunes:episode>
     </item>
     <item>
       <title>the parting glass-mezzo.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1LSU5GE1Ae5KFB4WIz5or9NfFheHwLgk8</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1LSU5GE1Ae5KFB4WIz5or9NfFheHwLgk8" length="2001755" type="audio/mpeg"/>
-      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
       <itunes:duration>162</itunes:duration>
       <itunes:episode>1</itunes:episode>
     </item>
