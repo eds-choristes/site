@@ -1,26 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>SOPRANE2 Noel+Programme2024</title>
+    <title>SOPRANE2 Programme2024</title>
     <link>https://podcast.echodespy.net</link>
-    <description>PLAYLIST: SOPRANE2 Noel+Programme2024
+    <description>PLAYLIST: SOPRANE2 Programme2024
 TRACKS:
-thelittledrummerboy-soprane1-soprane2.mp3
-deckthehall-fr-soprane1-soprane2.mp3
-noellanaro-soprane1-soprane2.mp3
-juljul-lou-soprane1-soprane2.mp3
-Last Christmas - soprane1-soprane2.mp3
-Carol of the Bells - soprane1-soprane2.mp3
-Walking In The Air - soprane1-soprane2.mp3
 Irish Blessing-soprane1-soprane2.mp3
 Skye Boat Song-soprane2.mp3
-beidhaonach-120-soprane1-soprane2.mp3
+Beidhaonach-120-soprane2.mp3
 shulearoon-soprane1-soprane2.mp3
 SallyGardens-soprane1-soprane2.mp3
 MollyMaloneIF-soprane1-soprane2.mp3
-theseallullaby-soprane1-soprane2.mp3
-she moved-soprane1-soprane2.mp3
-HealingLight-soprane1-soprane2.mp3
+she moved-soprane2.mp3
 BotanyBayIF-soprane1-soprane2.mp3
 the parting glass-soprane1-soprane2.mp3
 runaway-soprane1-soprane2.mp3
@@ -29,148 +20,85 @@ A PLACE IN HEAVEN - soprane1-soprane2.mp3</description>
     <generator>python-feedgen</generator>
     <image>
       <url>https://drive.google.com/uc?export=download&amp;id=1UcLZcDyKsVWL-YDB6VufC4k2odKw7QXG</url>
-      <title>SOPRANE2 Noel+Programme2024</title>
+      <title>SOPRANE2 Programme2024</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Sun, 13 Oct 2024 20:17:03 +0000</lastBuildDate>
-    <item>
-      <title>thelittledrummerboy-soprane1-soprane2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1IRLxfU4CFC_qjpdssqZMqoIJHi7rqsbU</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1IRLxfU4CFC_qjpdssqZMqoIJHi7rqsbU" length="1867834" type="audio/mpeg"/>
-      <pubDate>Sat, 12 Oct 2024 01:06:00 +0000</pubDate>
-      <itunes:episode>20</itunes:episode>
-    </item>
-    <item>
-      <title>deckthehall-fr-soprane1-soprane2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1h8ukqoXZC48TKSXmo1Fr9R1eIMXVPWqV</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1h8ukqoXZC48TKSXmo1Fr9R1eIMXVPWqV" length="739499" type="audio/mpeg"/>
-      <pubDate>Sat, 12 Oct 2024 01:05:00 +0000</pubDate>
-      <itunes:episode>19</itunes:episode>
-    </item>
-    <item>
-      <title>noellanaro-soprane1-soprane2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1jMyMJp94RFdJZGZ2QISG2k2gOosBttxe</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1jMyMJp94RFdJZGZ2QISG2k2gOosBttxe" length="907716" type="audio/mpeg"/>
-      <pubDate>Sat, 12 Oct 2024 01:04:00 +0000</pubDate>
-      <itunes:episode>18</itunes:episode>
-    </item>
-    <item>
-      <title>juljul-lou-soprane1-soprane2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ZRvmfOWvh8mIipz2ywEV0tWw9ibuxrMw</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZRvmfOWvh8mIipz2ywEV0tWw9ibuxrMw" length="808279" type="audio/mpeg"/>
-      <pubDate>Sat, 12 Oct 2024 01:03:00 +0000</pubDate>
-      <itunes:episode>17</itunes:episode>
-    </item>
-    <item>
-      <title>Last Christmas - soprane1-soprane2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1j6iTWNEJD4_wXJbsi2ZZWjixU_6LMubN</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1j6iTWNEJD4_wXJbsi2ZZWjixU_6LMubN" length="4478880" type="audio/mpeg"/>
-      <pubDate>Sat, 12 Oct 2024 01:02:00 +0000</pubDate>
-      <itunes:episode>16</itunes:episode>
-    </item>
-    <item>
-      <title>Carol of the Bells - soprane1-soprane2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1qBuOkkvqc8dQhytWMv0QtDcFl7hsJfjF</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1qBuOkkvqc8dQhytWMv0QtDcFl7hsJfjF" length="1492224" type="audio/mpeg"/>
-      <pubDate>Sat, 12 Oct 2024 01:01:00 +0000</pubDate>
-      <itunes:episode>15</itunes:episode>
-    </item>
-    <item>
-      <title>Walking In The Air - soprane1-soprane2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1YSvR5nzn_h_pHDMJOhueHfbH3m27I1qH</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1YSvR5nzn_h_pHDMJOhueHfbH3m27I1qH" length="3989760" type="audio/mpeg"/>
-      <pubDate>Sat, 12 Oct 2024 01:00:00 +0000</pubDate>
-      <itunes:episode>14</itunes:episode>
-    </item>
+    <lastBuildDate>Wed, 13 Nov 2024 22:29:45 +0000</lastBuildDate>
     <item>
       <title>Irish Blessing-soprane1-soprane2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1_0__WotBnoEtdldDN1DVS9XsMrSfZz8u</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_0__WotBnoEtdldDN1DVS9XsMrSfZz8u" length="1025506" type="audio/mpeg"/>
-      <pubDate>Sat, 12 Oct 2024 00:12:00 +0000</pubDate>
-      <itunes:episode>13</itunes:episode>
+      <pubDate>Tue, 12 Nov 2024 00:10:00 +0000</pubDate>
+      <itunes:episode>11</itunes:episode>
     </item>
     <item>
       <title>Skye Boat Song-soprane2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1SvwFiQJz7LoTBNLcBNu0YTk9AvPmlDJQ</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1SvwFiQJz7LoTBNLcBNu0YTk9AvPmlDJQ" length="4222727" type="audio/mpeg"/>
-      <pubDate>Sat, 12 Oct 2024 00:11:00 +0000</pubDate>
-      <itunes:episode>12</itunes:episode>
+      <pubDate>Tue, 12 Nov 2024 00:09:00 +0000</pubDate>
+      <itunes:episode>10</itunes:episode>
     </item>
     <item>
-      <title>beidhaonach-120-soprane1-soprane2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1wMZVVHnQf_8xTRAiMQcgmFXADL3X8jxX</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1wMZVVHnQf_8xTRAiMQcgmFXADL3X8jxX" length="3798536" type="audio/mpeg"/>
-      <pubDate>Sat, 12 Oct 2024 00:10:00 +0000</pubDate>
-      <itunes:episode>11</itunes:episode>
+      <title>Beidhaonach-120-soprane2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=177m88Q6T9HpzQ9HnNnEK21W6DGOcrCbD</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=177m88Q6T9HpzQ9HnNnEK21W6DGOcrCbD" length="3807027" type="audio/mpeg"/>
+      <pubDate>Tue, 12 Nov 2024 00:08:00 +0000</pubDate>
+      <itunes:episode>9</itunes:episode>
     </item>
     <item>
       <title>shulearoon-soprane1-soprane2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1k_kD0D3QWDSkgLNPmMWglwncW_WwVA_g</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1k_kD0D3QWDSkgLNPmMWglwncW_WwVA_g" length="1842777" type="audio/mpeg"/>
-      <pubDate>Sat, 12 Oct 2024 00:09:00 +0000</pubDate>
-      <itunes:episode>10</itunes:episode>
+      <pubDate>Tue, 12 Nov 2024 00:07:00 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
     </item>
     <item>
       <title>SallyGardens-soprane1-soprane2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1UelF40ZKtPn9zulVZPCBBKAsY-iUWoIE</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1UelF40ZKtPn9zulVZPCBBKAsY-iUWoIE" length="4460986" type="audio/mpeg"/>
-      <pubDate>Sat, 12 Oct 2024 00:08:00 +0000</pubDate>
-      <itunes:episode>9</itunes:episode>
+      <pubDate>Tue, 12 Nov 2024 00:06:00 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
     </item>
     <item>
       <title>MollyMaloneIF-soprane1-soprane2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1cVRK56DfHnc4UVoaVCGNeNc_Riq20RE6</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1cVRK56DfHnc4UVoaVCGNeNc_Riq20RE6" length="1979115" type="audio/mpeg"/>
-      <pubDate>Sat, 12 Oct 2024 00:07:00 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
-    </item>
-    <item>
-      <title>theseallullaby-soprane1-soprane2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1c4dDysrow5bskqPiiW2vMHkEb7TKPf2h</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1c4dDysrow5bskqPiiW2vMHkEb7TKPf2h" length="3043702" type="audio/mpeg"/>
-      <pubDate>Sat, 12 Oct 2024 00:06:00 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
-    </item>
-    <item>
-      <title>she moved-soprane1-soprane2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1z2J11VFzVhcZrP8Yco9X8T3RmNAWgapK</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1z2J11VFzVhcZrP8Yco9X8T3RmNAWgapK" length="2080959" type="audio/mpeg"/>
-      <pubDate>Sat, 12 Oct 2024 00:05:00 +0000</pubDate>
+      <pubDate>Tue, 12 Nov 2024 00:05:00 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
     </item>
     <item>
-      <title>HealingLight-soprane1-soprane2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=177gfjCcONEVPUXmszc2sebqkXQgt4Y5F</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=177gfjCcONEVPUXmszc2sebqkXQgt4Y5F" length="4488563" type="audio/mpeg"/>
-      <pubDate>Sat, 12 Oct 2024 00:04:00 +0000</pubDate>
+      <title>she moved-soprane2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1QeLzkceSoBCUmV3azDy70Mlt8GsDX6nn</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1QeLzkceSoBCUmV3azDy70Mlt8GsDX6nn" length="2089217" type="audio/mpeg"/>
+      <pubDate>Tue, 12 Nov 2024 00:04:00 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
     </item>
     <item>
       <title>BotanyBayIF-soprane1-soprane2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1Df-0HYdW_OlH4vkOiJxwOWZBexD0Mecy</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Df-0HYdW_OlH4vkOiJxwOWZBexD0Mecy" length="5415107" type="audio/mpeg"/>
-      <pubDate>Sat, 12 Oct 2024 00:03:00 +0000</pubDate>
+      <pubDate>Tue, 12 Nov 2024 00:03:00 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
     </item>
     <item>
       <title>the parting glass-soprane1-soprane2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1o6Iks4D--3OBqW_zBrlpMBIl4dhrz3e3</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1o6Iks4D--3OBqW_zBrlpMBIl4dhrz3e3" length="1999786" type="audio/mpeg"/>
-      <pubDate>Sat, 12 Oct 2024 00:02:00 +0000</pubDate>
+      <pubDate>Tue, 12 Nov 2024 00:02:00 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
     </item>
     <item>
       <title>runaway-soprane1-soprane2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1bptHKJzouBDTyT3X9VruC_z1CovcvNUE</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1bptHKJzouBDTyT3X9VruC_z1CovcvNUE" length="2601547" type="audio/mpeg"/>
-      <pubDate>Sat, 12 Oct 2024 00:01:00 +0000</pubDate>
+      <pubDate>Tue, 12 Nov 2024 00:01:00 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
     </item>
     <item>
       <title>A PLACE IN HEAVEN - soprane1-soprane2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1tnG0dMZL2CVqh21HUPD4PWnq4wiEIrJX</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1tnG0dMZL2CVqh21HUPD4PWnq4wiEIrJX" length="2515278" type="audio/mpeg"/>
-      <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
     </item>
   </channel>
