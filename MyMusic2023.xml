@@ -7,17 +7,18 @@
 TRACKS:
 01 Anna Maria Jopek &amp; Path Metheny - Cichy zapada zmrok (live).m4a
 02 Natashia Kelly - The Ocean (remastered 48K16b).flac
-03 Nastya Maslova - Katyusha Deep Impression.mp3
+03 Cuan an Cheoil - le Síle Denvir &amp; Barry Kerr.opus
 04 The Corrs - I Do What I Like (Live Acoustic).mp3
 05 Irish Feel - Scarbourough Fair, The Musical Priest.mp3
 06 Irish Feel - What would you do.mp3
 07 Ghillie's - Cooney's Reel.mp3
 08 Ghillie's - Musical Priest.mp3
-09 Cuan an Cheoil - le Síle Denvir &amp; Barry Kerr.opus
-10 Ibrahim Maalouf - Red &amp; Black Light.m4a
-11 Neon Vines - Lay Low Instrumental (remix 2).mp3
+09 Just Vox - Gladiator Soundtrack Acappella Medley.opus
+10 Nastya Maslova - Katyusha Deep Impression.mp3
+11 Ibrahim Maalouf - Red &amp; Black Light.m4a
 12 Candy Dulfer - Lily was Here - Leverkusen 2009.mp3
-13 Les héros du quotidien à Spy en 2019.mp3</description>
+13 Neon Vines - Lay Low Instrumental (remix 2).mp3
+14 Les héros du quotidien à Spy en 2019.mp3</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
@@ -25,96 +26,103 @@ TRACKS:
       <title>MyMusic2023</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Sat, 21 Sep 2024 19:34:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 21:06:20 +0000</lastBuildDate>
     <item>
       <title>01 Anna Maria Jopek &amp; Path Metheny - Cichy zapada zmrok (live).m4a</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=12bvgT8mawbWbqXDSIMNlD1l0kS7Z4Zw9</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=12bvgT8mawbWbqXDSIMNlD1l0kS7Z4Zw9" length="2968615" type="audio/mpeg"/>
-      <pubDate>Fri, 20 Sep 2024 00:12:00 +0000</pubDate>
-      <itunes:episode>13</itunes:episode>
+      <pubDate>Sat, 30 Nov 2024 00:13:00 +0000</pubDate>
+      <itunes:episode>14</itunes:episode>
     </item>
     <item>
       <title>02 Natashia Kelly - The Ocean (remastered 48K16b).flac</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1sV-cMtUpMmg1xLnE9YuaxWIdU36JVJJz</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1sV-cMtUpMmg1xLnE9YuaxWIdU36JVJJz" length="22505493" type="audio/mpeg"/>
-      <pubDate>Fri, 20 Sep 2024 00:11:00 +0000</pubDate>
-      <itunes:episode>12</itunes:episode>
+      <pubDate>Sat, 30 Nov 2024 00:12:00 +0000</pubDate>
+      <itunes:episode>13</itunes:episode>
     </item>
     <item>
-      <title>03 Nastya Maslova - Katyusha Deep Impression.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1z6wi8I2cTpMSpk-ViUZfsTckkxxSEJCI</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1z6wi8I2cTpMSpk-ViUZfsTckkxxSEJCI" length="8857331" type="audio/mpeg"/>
-      <pubDate>Fri, 20 Sep 2024 00:10:00 +0000</pubDate>
-      <itunes:episode>11</itunes:episode>
+      <title>03 Cuan an Cheoil - le Síle Denvir &amp; Barry Kerr.opus</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=13Tk0woJLLdgWE102MM_Xr1CdVGru5Usk</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=13Tk0woJLLdgWE102MM_Xr1CdVGru5Usk" length="6136719" type="audio/mpeg"/>
+      <pubDate>Sat, 30 Nov 2024 00:11:00 +0000</pubDate>
+      <itunes:episode>12</itunes:episode>
     </item>
     <item>
       <title>04 The Corrs - I Do What I Like (Live Acoustic).mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1m-mAnOcwCMWM3e-XGipIkXx2qdIlElHN</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1m-mAnOcwCMWM3e-XGipIkXx2qdIlElHN" length="3515393" type="audio/mpeg"/>
-      <pubDate>Fri, 20 Sep 2024 00:09:00 +0000</pubDate>
-      <itunes:episode>10</itunes:episode>
+      <pubDate>Sat, 30 Nov 2024 00:10:00 +0000</pubDate>
+      <itunes:episode>11</itunes:episode>
     </item>
     <item>
       <title>05 Irish Feel - Scarbourough Fair, The Musical Priest.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ERCKQBQclK4PNMzFZKtFGG9HvQaWRTYm</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ERCKQBQclK4PNMzFZKtFGG9HvQaWRTYm" length="9462968" type="audio/mpeg"/>
-      <pubDate>Fri, 20 Sep 2024 00:08:00 +0000</pubDate>
-      <itunes:episode>9</itunes:episode>
+      <pubDate>Sat, 30 Nov 2024 00:09:00 +0000</pubDate>
+      <itunes:episode>10</itunes:episode>
     </item>
     <item>
       <title>06 Irish Feel - What would you do.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1CYJo2-yfu7Rtea0EeMxGahdMkVpOdtzm</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1CYJo2-yfu7Rtea0EeMxGahdMkVpOdtzm" length="6082788" type="audio/mpeg"/>
-      <pubDate>Fri, 20 Sep 2024 00:07:00 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
+      <pubDate>Sat, 30 Nov 2024 00:08:00 +0000</pubDate>
+      <itunes:episode>9</itunes:episode>
     </item>
     <item>
       <title>07 Ghillie's - Cooney's Reel.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1OCKLxWSwAK1xz1ifY5ggr5GxSkb881or</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1OCKLxWSwAK1xz1ifY5ggr5GxSkb881or" length="6014725" type="audio/mpeg"/>
-      <pubDate>Fri, 20 Sep 2024 00:06:00 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
+      <pubDate>Sat, 30 Nov 2024 00:07:00 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
     </item>
     <item>
       <title>08 Ghillie's - Musical Priest.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1BTzCqIdmx4NkPNFFs9H3AfxNORsIDdrQ</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1BTzCqIdmx4NkPNFFs9H3AfxNORsIDdrQ" length="5616953" type="audio/mpeg"/>
-      <pubDate>Fri, 20 Sep 2024 00:05:00 +0000</pubDate>
+      <pubDate>Sat, 30 Nov 2024 00:06:00 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+    </item>
+    <item>
+      <title>09 Just Vox - Gladiator Soundtrack Acappella Medley.opus</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ZDeP9sd0rcQvxK-qxatfPTcfqrIUGEPn</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZDeP9sd0rcQvxK-qxatfPTcfqrIUGEPn" length="6116848" type="audio/mpeg"/>
+      <pubDate>Sat, 30 Nov 2024 00:05:00 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
     </item>
     <item>
-      <title>09 Cuan an Cheoil - le Síle Denvir &amp; Barry Kerr.opus</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=13Tk0woJLLdgWE102MM_Xr1CdVGru5Usk</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=13Tk0woJLLdgWE102MM_Xr1CdVGru5Usk" length="6136719" type="audio/mpeg"/>
-      <pubDate>Fri, 20 Sep 2024 00:04:00 +0000</pubDate>
+      <title>10 Nastya Maslova - Katyusha Deep Impression.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1z6wi8I2cTpMSpk-ViUZfsTckkxxSEJCI</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1z6wi8I2cTpMSpk-ViUZfsTckkxxSEJCI" length="8857331" type="audio/mpeg"/>
+      <pubDate>Sat, 30 Nov 2024 00:04:00 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
     </item>
     <item>
-      <title>10 Ibrahim Maalouf - Red &amp; Black Light.m4a</title>
+      <title>11 Ibrahim Maalouf - Red &amp; Black Light.m4a</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1cDzgpu2rfH_LkKhVUPbr3583T6rohStZ</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1cDzgpu2rfH_LkKhVUPbr3583T6rohStZ" length="4071144" type="audio/mpeg"/>
-      <pubDate>Fri, 20 Sep 2024 00:03:00 +0000</pubDate>
+      <pubDate>Sat, 30 Nov 2024 00:03:00 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-    </item>
-    <item>
-      <title>11 Neon Vines - Lay Low Instrumental (remix 2).mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1g2Hez7OahJGnlCyUBQMTl2lvawPj0zme</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1g2Hez7OahJGnlCyUBQMTl2lvawPj0zme" length="9983026" type="audio/mpeg"/>
-      <pubDate>Fri, 20 Sep 2024 00:02:00 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
     </item>
     <item>
       <title>12 Candy Dulfer - Lily was Here - Leverkusen 2009.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1KUZO2RlauwXyGHfw-DtRFd5pMjSOU8vb</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1KUZO2RlauwXyGHfw-DtRFd5pMjSOU8vb" length="12806236" type="audio/mpeg"/>
-      <pubDate>Fri, 20 Sep 2024 00:01:00 +0000</pubDate>
+      <pubDate>Sat, 30 Nov 2024 00:02:00 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
+    </item>
+    <item>
+      <title>13 Neon Vines - Lay Low Instrumental (remix 2).mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1g2Hez7OahJGnlCyUBQMTl2lvawPj0zme</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1g2Hez7OahJGnlCyUBQMTl2lvawPj0zme" length="9983026" type="audio/mpeg"/>
+      <pubDate>Sat, 30 Nov 2024 00:01:00 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
     </item>
     <item>
-      <title>13 Les héros du quotidien à Spy en 2019.mp3</title>
+      <title>14 Les héros du quotidien à Spy en 2019.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1hJvnK9af4sWTDxS2kFIXvgbSTYIEyz2S</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1hJvnK9af4sWTDxS2kFIXvgbSTYIEyz2S" length="5634269" type="audio/mpeg"/>
-      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
     </item>
   </channel>
