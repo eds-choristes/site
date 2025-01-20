@@ -1,34 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>MEZZO Programme2024</title>
+    <title>MEZZO Programme2025</title>
     <link>https://podcast.echodespy.net</link>
-    <description>PLAYLIST: MEZZO Programme2024
+    <description>PLAYLIST: MEZZO Programme2025
 TRACKS:
-Healing Light - mezzo.mp3
-the parting glass-mezzo.mp3</description>
+Emorio-mezzo.mp3</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
       <url>https://drive.google.com/uc?export=download&amp;id=1E6ValElxEU5OcJhNmzuspqBFuvaem7QQ</url>
-      <title>MEZZO Programme2024</title>
+      <title>MEZZO Programme2025</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Tue, 17 Dec 2024 11:23:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2025 20:26:55 +0000</lastBuildDate>
     <item>
-      <title>Healing Light - mezzo.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ZRfz8M8SXy1aP8pzKbpEMCVv5rBN-xYz</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZRfz8M8SXy1aP8pzKbpEMCVv5rBN-xYz" length="3665502" type="audio/mpeg"/>
-      <pubDate>Mon, 16 Dec 2024 00:01:00 +0000</pubDate>
-      <itunes:season>4</itunes:season>
-      <itunes:episode>2</itunes:episode>
-    </item>
-    <item>
-      <title>the parting glass-mezzo.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1LSU5GE1Ae5KFB4WIz5or9NfFheHwLgk8</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1LSU5GE1Ae5KFB4WIz5or9NfFheHwLgk8" length="2001755" type="audio/mpeg"/>
-      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <itunes:season>4</itunes:season>
+      <title>Emorio-mezzo.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1qWLb0sx2n34kXPGGp3KYlw-6woPafOR_</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1qWLb0sx2n34kXPGGp3KYlw-6woPafOR_" length="671192" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
       <itunes:episode>1</itunes:episode>
     </item>
   </channel>
