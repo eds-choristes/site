@@ -6,6 +6,7 @@
     <description>PLAYLIST: TENOR Programme2025
 TRACKS:
 jeanne-tenor.mp3
+jardinsecret-tenor.mp3
 Derrière les mots-tenor.mp3
 VivaLaVida-final-tenor.mp3
 vivalavida-tenor.mp3
@@ -19,11 +20,19 @@ ukuthula-tenor.mp3</description>
       <title>TENOR Programme2025</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Mon, 20 Jan 2025 20:25:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2025 20:48:04 +0000</lastBuildDate>
     <item>
       <title>jeanne-tenor.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1vtAE-cMMKmg7uWLzOfdZIsXImw-N6hYB</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1vtAE-cMMKmg7uWLzOfdZIsXImw-N6hYB" length="5896527" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Jan 2025 00:07:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>8</itunes:episode>
+    </item>
+    <item>
+      <title>jardinsecret-tenor.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1JOs0d5gYn_onN0f8k1wTe7PxvBSn6Ebx</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1JOs0d5gYn_onN0f8k1wTe7PxvBSn6Ebx" length="2508556" type="audio/mpeg"/>
       <pubDate>Sun, 19 Jan 2025 00:06:00 +0000</pubDate>
       <itunes:season>5</itunes:season>
       <itunes:episode>7</itunes:episode>
