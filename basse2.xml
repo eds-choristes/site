@@ -1,160 +1,79 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>BASSE2 Programme2024</title>
+    <title>BASSE2 Programme2025</title>
     <link>https://podcast.echodespy.net</link>
-    <description>PLAYLIST: BASSE2 Programme2024
+    <description>PLAYLIST: BASSE2 Programme2025
 TRACKS:
-IrishBlessing-basse1-basse2.mp3
-Skye Boat Song-basse1-basse2.mp3
-SallyGardens-basse1-basse2.mp3
-MollyMaloneIF-basse2.mp3
-BotanyBayIF-basse1-basse2.mp3
-HealingLight-basse1-basse2.mp3
-the parting glass-basse2.mp3
-Runaway-basse1-basse2.mp3
-Walking In The Air - basse1-basse2.mp3
-A PLACE IN HEAVEN - basse1-basse2.mp3
-juljul-lou-basse1-basse2.mp3
-Carol of the Bells - basse1-basse2.mp3
-noellanaro-basse1-basse2.mp3
-deckthehall-fr-basse1-basse2.mp3
-Douce nuit (allemand) - basse1-basse2.mp3
-Les anges dans nos campagnes - basse1-basse2.mp3</description>
+jeanne-basse1-basse2.mp3
+Derrière les mots-basse1-basse2.mp3
+vivalavida-basse2.mp3
+VivaLaVida-final-basse1-basse2.mp3
+Emorio-basse1-basse2.mp3
+pour la vie-basse1-basse2.wav
+ukuthula-basse2.mp3</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
       <url>https://drive.google.com/uc?export=download&amp;id=1gQAlcEbpz24OCdrDxGm52nSbC7b6cnBj</url>
-      <title>BASSE2 Programme2024</title>
+      <title>BASSE2 Programme2025</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Tue, 17 Dec 2024 11:22:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2025 20:26:32 +0000</lastBuildDate>
     <item>
-      <title>IrishBlessing-basse1-basse2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1-EvqdcPhPlNO1Irp3ge2BMAInSmX3WNz</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1-EvqdcPhPlNO1Irp3ge2BMAInSmX3WNz" length="1063482" type="audio/mpeg"/>
-      <pubDate>Mon, 16 Dec 2024 00:15:00 +0000</pubDate>
-      <itunes:season>4</itunes:season>
-      <itunes:episode>16</itunes:episode>
-    </item>
-    <item>
-      <title>Skye Boat Song-basse1-basse2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1nAq3_pfGtuGcNghy5xa29Y50Y1vzvxR0</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1nAq3_pfGtuGcNghy5xa29Y50Y1vzvxR0" length="4218966" type="audio/mpeg"/>
-      <pubDate>Mon, 16 Dec 2024 00:14:00 +0000</pubDate>
-      <itunes:season>4</itunes:season>
-      <itunes:episode>15</itunes:episode>
-    </item>
-    <item>
-      <title>SallyGardens-basse1-basse2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1qTt5Gx23fRpiRqx_oAGQCqgNMCRJpdkJ</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1qTt5Gx23fRpiRqx_oAGQCqgNMCRJpdkJ" length="4338718" type="audio/mpeg"/>
-      <pubDate>Mon, 16 Dec 2024 00:13:00 +0000</pubDate>
-      <itunes:season>4</itunes:season>
-      <itunes:episode>14</itunes:episode>
-    </item>
-    <item>
-      <title>MollyMaloneIF-basse2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=12CEaKE1ezb9kW_DFpStFdqisN_srRAJ9</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=12CEaKE1ezb9kW_DFpStFdqisN_srRAJ9" length="1975526" type="audio/mpeg"/>
-      <pubDate>Mon, 16 Dec 2024 00:12:00 +0000</pubDate>
-      <itunes:season>4</itunes:season>
-      <itunes:episode>13</itunes:episode>
-    </item>
-    <item>
-      <title>BotanyBayIF-basse1-basse2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1nUc13jlu5Oq0GZPODw39dp6TIHF35iA0</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1nUc13jlu5Oq0GZPODw39dp6TIHF35iA0" length="5455559" type="audio/mpeg"/>
-      <pubDate>Mon, 16 Dec 2024 00:11:00 +0000</pubDate>
-      <itunes:season>4</itunes:season>
-      <itunes:episode>12</itunes:episode>
-    </item>
-    <item>
-      <title>HealingLight-basse1-basse2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1u7bV4LY2GqnI6ap7uqHad0MztooRSvP3</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1u7bV4LY2GqnI6ap7uqHad0MztooRSvP3" length="4407793" type="audio/mpeg"/>
-      <pubDate>Mon, 16 Dec 2024 00:10:00 +0000</pubDate>
-      <itunes:season>4</itunes:season>
-      <itunes:episode>11</itunes:episode>
-    </item>
-    <item>
-      <title>the parting glass-basse2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1mFND9bAaNnZQZBw3DID3Y8XRW9jUENEg</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1mFND9bAaNnZQZBw3DID3Y8XRW9jUENEg" length="2099706" type="audio/mpeg"/>
-      <pubDate>Mon, 16 Dec 2024 00:09:00 +0000</pubDate>
-      <itunes:season>4</itunes:season>
-      <itunes:episode>10</itunes:episode>
-    </item>
-    <item>
-      <title>Runaway-basse1-basse2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=12S0440CBA4RV_hypSToTue-4_h9adKUf</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=12S0440CBA4RV_hypSToTue-4_h9adKUf" length="2734270" type="audio/mpeg"/>
-      <pubDate>Mon, 16 Dec 2024 00:08:00 +0000</pubDate>
-      <itunes:season>4</itunes:season>
-      <itunes:episode>9</itunes:episode>
-    </item>
-    <item>
-      <title>Walking In The Air - basse1-basse2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1fuaQZY9vZT4Rq4_jocyLtD-6fdu35N8q</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1fuaQZY9vZT4Rq4_jocyLtD-6fdu35N8q" length="3989760" type="audio/mpeg"/>
-      <pubDate>Mon, 16 Dec 2024 00:07:00 +0000</pubDate>
-      <itunes:season>4</itunes:season>
-      <itunes:episode>8</itunes:episode>
-    </item>
-    <item>
-      <title>A PLACE IN HEAVEN - basse1-basse2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ny23gYyaZ1EsAH96vqywkg6fVCFZlz5z</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ny23gYyaZ1EsAH96vqywkg6fVCFZlz5z" length="2515278" type="audio/mpeg"/>
-      <pubDate>Mon, 16 Dec 2024 00:06:00 +0000</pubDate>
-      <itunes:season>4</itunes:season>
+      <title>jeanne-basse1-basse2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ghe2KUvRAL54wCzLduvAvp9VNIHPWCln</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ghe2KUvRAL54wCzLduvAvp9VNIHPWCln" length="6087860" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Jan 2025 00:06:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
       <itunes:episode>7</itunes:episode>
     </item>
     <item>
-      <title>juljul-lou-basse1-basse2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1zqVoFfY2qPd9Wb7QS4BUgtbxPIEFNKAq</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1zqVoFfY2qPd9Wb7QS4BUgtbxPIEFNKAq" length="793996" type="audio/mpeg"/>
-      <pubDate>Mon, 16 Dec 2024 00:05:00 +0000</pubDate>
-      <itunes:season>4</itunes:season>
+      <title>Derrière les mots-basse1-basse2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1S3aXhnXFDKjM5fsZHw__L61LyjMJfVQI</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1S3aXhnXFDKjM5fsZHw__L61LyjMJfVQI" length="4495568" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Jan 2025 00:05:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
       <itunes:episode>6</itunes:episode>
     </item>
     <item>
-      <title>Carol of the Bells - basse1-basse2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1OiaPlj7nI3gUEZReifZrRqeOpdzfI8xX</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1OiaPlj7nI3gUEZReifZrRqeOpdzfI8xX" length="1492224" type="audio/mpeg"/>
-      <pubDate>Mon, 16 Dec 2024 00:04:00 +0000</pubDate>
-      <itunes:season>4</itunes:season>
+      <title>vivalavida-basse2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1aRnNifAWAob34HWg3X8kEm0auZ72FG0F</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1aRnNifAWAob34HWg3X8kEm0auZ72FG0F" length="3325145" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Jan 2025 00:04:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
       <itunes:episode>5</itunes:episode>
     </item>
     <item>
-      <title>noellanaro-basse1-basse2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1CINeXhyyAEHT1PtZtyQIJSiQFz5l9lWj</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1CINeXhyyAEHT1PtZtyQIJSiQFz5l9lWj" length="1053682" type="audio/mpeg"/>
-      <pubDate>Mon, 16 Dec 2024 00:03:00 +0000</pubDate>
-      <itunes:season>4</itunes:season>
+      <title>VivaLaVida-final-basse1-basse2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1C5mAvQtGUwslAS_tNCeX2-3TMvZ_66Hv</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1C5mAvQtGUwslAS_tNCeX2-3TMvZ_66Hv" length="777742" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Jan 2025 00:03:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
       <itunes:episode>4</itunes:episode>
     </item>
     <item>
-      <title>deckthehall-fr-basse1-basse2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1wwq6nnD3OgIhnTDIMxwSbtbDCu9MWX0F</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1wwq6nnD3OgIhnTDIMxwSbtbDCu9MWX0F" length="814446" type="audio/mpeg"/>
-      <pubDate>Mon, 16 Dec 2024 00:02:00 +0000</pubDate>
-      <itunes:season>4</itunes:season>
+      <title>Emorio-basse1-basse2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1F5bsy88QNh4VxpyLrGOlIiAL969DM1FD</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1F5bsy88QNh4VxpyLrGOlIiAL969DM1FD" length="685130" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Jan 2025 00:02:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
       <itunes:episode>3</itunes:episode>
     </item>
     <item>
-      <title>Douce nuit (allemand) - basse1-basse2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1XNLhvzv48BEEEyrmLeN1ZIAfWCGQgCcw</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1XNLhvzv48BEEEyrmLeN1ZIAfWCGQgCcw" length="888000" type="audio/mpeg"/>
-      <pubDate>Mon, 16 Dec 2024 00:01:00 +0000</pubDate>
-      <itunes:season>4</itunes:season>
+      <title>pour la vie-basse1-basse2.wav</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1FZmgPuXvkGjKme0bKMVBnue7XCSGd5cs</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1FZmgPuXvkGjKme0bKMVBnue7XCSGd5cs" length="34692104" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Jan 2025 00:01:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
       <itunes:episode>2</itunes:episode>
     </item>
     <item>
-      <title>Les anges dans nos campagnes - basse1-basse2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1umznGVsS5IQYbLg1UJ5z-GrhanfWSy2_</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1umznGVsS5IQYbLg1UJ5z-GrhanfWSy2_" length="2585280" type="audio/mpeg"/>
-      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <itunes:season>4</itunes:season>
+      <title>ukuthula-basse2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1BSOj20H-HPCZqIX-xZ8wXfBvgZFXV4Ht</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1BSOj20H-HPCZqIX-xZ8wXfBvgZFXV4Ht" length="824382" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
       <itunes:episode>1</itunes:episode>
     </item>
   </channel>
