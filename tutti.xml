@@ -1,159 +1,87 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>TUTTI Programme2024</title>
+    <title>TUTTI Programme2025</title>
     <link>https://podcast.echodespy.net</link>
-    <description>PLAYLIST: TUTTI Programme2024
+    <description>PLAYLIST: TUTTI Programme2025
 TRACKS:
-anirishblessing-tutti.mp3
-Skye boat song-tutti.mp3
-SallyGardens-tutti.mp3
-MollyMaloneIF-tutti.mp3
-BotanyBayIF-tutti.mp3
-HealingLight-tutti.mp3
-the parting glass-tutti.mp3
-Runaway-tutti.mp3
-Walking In The Air - tutti.mp3
-A PLACE IN HEAVEN - tutti.mp3
-juljul-lou-tutti.mp3
-Carol of the Bells - tutti.mp3
-noellanaro-tutti.mp3
-deckthehall-fr-tutti.mp3
-Douce nuit (allemand) - tutti.mp3
-Les anges dans nos campagnes - tutti.mp3</description>
+jeanne-tutti.mp3
+Derrière les mots-tutti+instru.mp3
+Derrière les mots-tutti.mp3
+VivaLaVida-final-tutti.mp3
+vivalavida-tutti clic.mp3
+Emorio-tutti.mp3
+pour la vie-tutti.wav
+ukuthula-tutti.mp3</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
       <url>https://drive.google.com/uc?export=download&amp;id=1z2SARHe3_xmNQxakTx3vFkeiTm9vrWxz</url>
-      <title>TUTTI Programme2024</title>
+      <title>TUTTI Programme2025</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Tue, 17 Dec 2024 11:19:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2025 20:21:00 +0000</lastBuildDate>
     <item>
-      <title>anirishblessing-tutti.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1YxMa9T5FuskXdmhiT5pY_DOAIvauCXYy</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1YxMa9T5FuskXdmhiT5pY_DOAIvauCXYy" length="1087715" type="audio/mpeg"/>
-      <pubDate>Mon, 16 Dec 2024 00:15:00 +0000</pubDate>
-      <itunes:season>4</itunes:season>
-      <itunes:episode>16</itunes:episode>
-    </item>
-    <item>
-      <title>Skye boat song-tutti.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1B4RbnKEzATOI8mvFGuh09xpKwRxRhCpJ</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1B4RbnKEzATOI8mvFGuh09xpKwRxRhCpJ" length="6990366" type="audio/mpeg"/>
-      <pubDate>Mon, 16 Dec 2024 00:14:00 +0000</pubDate>
-      <itunes:season>4</itunes:season>
-      <itunes:episode>15</itunes:episode>
-    </item>
-    <item>
-      <title>SallyGardens-tutti.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=14Oryvalx6HL7wvKBv83Avh07SLS4VXx2</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=14Oryvalx6HL7wvKBv83Avh07SLS4VXx2" length="4373424" type="audio/mpeg"/>
-      <pubDate>Mon, 16 Dec 2024 00:13:00 +0000</pubDate>
-      <itunes:season>4</itunes:season>
-      <itunes:episode>14</itunes:episode>
-    </item>
-    <item>
-      <title>MollyMaloneIF-tutti.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1njenoU2Ol44clbJsbaZnzwHf-KFq_I7D</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1njenoU2Ol44clbJsbaZnzwHf-KFq_I7D" length="2090110" type="audio/mpeg"/>
-      <pubDate>Mon, 16 Dec 2024 00:12:00 +0000</pubDate>
-      <itunes:season>4</itunes:season>
-      <itunes:episode>13</itunes:episode>
-    </item>
-    <item>
-      <title>BotanyBayIF-tutti.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=11utaLNezpGHlIjf8tIv3QZ7VqslnGOym</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=11utaLNezpGHlIjf8tIv3QZ7VqslnGOym" length="5456101" type="audio/mpeg"/>
-      <pubDate>Mon, 16 Dec 2024 00:11:00 +0000</pubDate>
-      <itunes:season>4</itunes:season>
-      <itunes:episode>12</itunes:episode>
-    </item>
-    <item>
-      <title>HealingLight-tutti.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1HaoZ7eizNqH6BNePaYOoNUG98l3rEyYi</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1HaoZ7eizNqH6BNePaYOoNUG98l3rEyYi" length="4392115" type="audio/mpeg"/>
-      <pubDate>Mon, 16 Dec 2024 00:10:00 +0000</pubDate>
-      <itunes:season>4</itunes:season>
-      <itunes:episode>11</itunes:episode>
-    </item>
-    <item>
-      <title>the parting glass-tutti.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=11hpeDXf9Ri61u2FYiiFOyZMavs5mY0xi</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=11hpeDXf9Ri61u2FYiiFOyZMavs5mY0xi" length="2115231" type="audio/mpeg"/>
-      <pubDate>Mon, 16 Dec 2024 00:09:00 +0000</pubDate>
-      <itunes:season>4</itunes:season>
-      <itunes:episode>10</itunes:episode>
-    </item>
-    <item>
-      <title>Runaway-tutti.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1kuUEMRRtNVfSPLwlgLkortRB9iqmcsVP</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1kuUEMRRtNVfSPLwlgLkortRB9iqmcsVP" length="3320299" type="audio/mpeg"/>
-      <pubDate>Mon, 16 Dec 2024 00:08:00 +0000</pubDate>
-      <itunes:season>4</itunes:season>
-      <itunes:episode>9</itunes:episode>
-    </item>
-    <item>
-      <title>Walking In The Air - tutti.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1s0Ihb2WzTe6PYa8YBuC1veEMUgW6Z-cz</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1s0Ihb2WzTe6PYa8YBuC1veEMUgW6Z-cz" length="3989760" type="audio/mpeg"/>
-      <pubDate>Mon, 16 Dec 2024 00:07:00 +0000</pubDate>
+      <title>jeanne-tutti.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1XWoSkRbq-AZ5TxxneOtJAAgUMOLi1PCc</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1XWoSkRbq-AZ5TxxneOtJAAgUMOLi1PCc" length="6064356" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Jan 2025 00:07:00 +0000</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>8</itunes:episode>
     </item>
     <item>
-      <title>A PLACE IN HEAVEN - tutti.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1Q5lKNkf-MFJZNAd1DxpNHJZ9tu2xoLxA</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Q5lKNkf-MFJZNAd1DxpNHJZ9tu2xoLxA" length="2515278" type="audio/mpeg"/>
-      <pubDate>Mon, 16 Dec 2024 00:06:00 +0000</pubDate>
+      <title>Derrière les mots-tutti+instru.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1-EMzCTGbzsCSOHhsBk_UaS1UrZRgW1SX</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1-EMzCTGbzsCSOHhsBk_UaS1UrZRgW1SX" length="4495568" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Jan 2025 00:06:00 +0000</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>7</itunes:episode>
     </item>
     <item>
-      <title>juljul-lou-tutti.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1dxRKKCHXBG7hlmmUcFU4gI4DkLXrCZ7Y</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1dxRKKCHXBG7hlmmUcFU4gI4DkLXrCZ7Y" length="869747" type="audio/mpeg"/>
-      <pubDate>Mon, 16 Dec 2024 00:05:00 +0000</pubDate>
+      <title>Derrière les mots-tutti.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1XE4zXAgkC6ohXuzut1mqBRxoK-drZBBT</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1XE4zXAgkC6ohXuzut1mqBRxoK-drZBBT" length="4495568" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Jan 2025 00:05:00 +0000</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>6</itunes:episode>
     </item>
     <item>
-      <title>Carol of the Bells - tutti.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=14LU4OiPFUTDhK05RHVCAjOP9qRNxziI9</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=14LU4OiPFUTDhK05RHVCAjOP9qRNxziI9" length="1492224" type="audio/mpeg"/>
-      <pubDate>Mon, 16 Dec 2024 00:04:00 +0000</pubDate>
+      <title>VivaLaVida-final-tutti.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ExrxKhQisTxGctDCkRE-jcwQ5ncMGHqr</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ExrxKhQisTxGctDCkRE-jcwQ5ncMGHqr" length="870654" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Jan 2025 00:04:00 +0000</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>5</itunes:episode>
     </item>
     <item>
-      <title>noellanaro-tutti.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1w36QJ8UjZkPUugzzLNToYJwp55PwxDp_</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1w36QJ8UjZkPUugzzLNToYJwp55PwxDp_" length="1104296" type="audio/mpeg"/>
-      <pubDate>Mon, 16 Dec 2024 00:03:00 +0000</pubDate>
+      <title>vivalavida-tutti clic.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1yRhsGKtDU04T7U9ULD8NudqUIHwiT_BZ</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1yRhsGKtDU04T7U9ULD8NudqUIHwiT_BZ" length="3353949" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Jan 2025 00:03:00 +0000</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>4</itunes:episode>
     </item>
     <item>
-      <title>deckthehall-fr-tutti.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1btvvdGiP5X2pVI2VnbjE3AaPpPvE7VrD</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1btvvdGiP5X2pVI2VnbjE3AaPpPvE7VrD" length="905436" type="audio/mpeg"/>
-      <pubDate>Mon, 16 Dec 2024 00:02:00 +0000</pubDate>
+      <title>Emorio-tutti.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1uLQ-IkvEMFh9sTnlwFcA8QhzGZ1y9li-</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1uLQ-IkvEMFh9sTnlwFcA8QhzGZ1y9li-" length="723309" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Jan 2025 00:02:00 +0000</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>3</itunes:episode>
     </item>
     <item>
-      <title>Douce nuit (allemand) - tutti.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1_rmmC0Dx5ZuLP0Sah5Cb53BMRO-rQ9TP</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_rmmC0Dx5ZuLP0Sah5Cb53BMRO-rQ9TP" length="888000" type="audio/mpeg"/>
-      <pubDate>Mon, 16 Dec 2024 00:01:00 +0000</pubDate>
+      <title>pour la vie-tutti.wav</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ptjv_kZceRnkqpyIjuQtTyL6ZztQppK5</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ptjv_kZceRnkqpyIjuQtTyL6ZztQppK5" length="34692104" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Jan 2025 00:01:00 +0000</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>2</itunes:episode>
     </item>
     <item>
-      <title>Les anges dans nos campagnes - tutti.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1nWDSsmy4wXce_HblqkXWqLgUulwa8xcY</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1nWDSsmy4wXce_HblqkXWqLgUulwa8xcY" length="2585280" type="audio/mpeg"/>
-      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      <title>ukuthula-tutti.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=15JNRbUGvvFeGm-7YRpOiT3z4CODPSA56</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=15JNRbUGvvFeGm-7YRpOiT3z4CODPSA56" length="830254" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>1</itunes:episode>
     </item>
