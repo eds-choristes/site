@@ -6,6 +6,7 @@
     <description>PLAYLIST: TUTTI Programme2025
 TRACKS:
 jeanne-tutti.mp3
+jardinsecret-tutti.mp3
 Derrière les mots-tutti+instru.mp3
 Derrière les mots-tutti.mp3
 VivaLaVida-final-tutti.mp3
@@ -20,11 +21,19 @@ ukuthula-tutti.mp3</description>
       <title>TUTTI Programme2025</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Mon, 20 Jan 2025 20:24:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2025 20:45:59 +0000</lastBuildDate>
     <item>
       <title>jeanne-tutti.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1XWoSkRbq-AZ5TxxneOtJAAgUMOLi1PCc</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1XWoSkRbq-AZ5TxxneOtJAAgUMOLi1PCc" length="6064356" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Jan 2025 00:08:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>9</itunes:episode>
+    </item>
+    <item>
+      <title>jardinsecret-tutti.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1C4-T7eunHs2EiT5dlNazZqumpGkziGTT</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1C4-T7eunHs2EiT5dlNazZqumpGkziGTT" length="2724878" type="audio/mpeg"/>
       <pubDate>Sun, 19 Jan 2025 00:07:00 +0000</pubDate>
       <itunes:season>5</itunes:season>
       <itunes:episode>8</itunes:episode>
