@@ -6,6 +6,7 @@
     <description>PLAYLIST: SOPRANE1 Programme2025
 TRACKS:
 jeanne-soprane1.mp3
+jardinsecret-soprane1-soprane2.mp3
 Derrière les mots-soprane1-soprane2.mp3
 VivaLaVida-final-soprane1.mp3
 vivalavida-soprane1.mp3
@@ -19,11 +20,19 @@ ukuthula-soprane1-soprane2.mp3</description>
       <title>SOPRANE1 Programme2025</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Mon, 20 Jan 2025 20:24:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2025 20:47:16 +0000</lastBuildDate>
     <item>
       <title>jeanne-soprane1.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1YW7NBWhw9nc3RLAGG57FJj09GWBvg7jn</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1YW7NBWhw9nc3RLAGG57FJj09GWBvg7jn" length="5979887" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Jan 2025 00:07:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>8</itunes:episode>
+    </item>
+    <item>
+      <title>jardinsecret-soprane1-soprane2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1PSEIxfZ1SBuswsY_UUUpfAccjDFU0udS</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1PSEIxfZ1SBuswsY_UUUpfAccjDFU0udS" length="2584270" type="audio/mpeg"/>
       <pubDate>Sun, 19 Jan 2025 00:06:00 +0000</pubDate>
       <itunes:season>5</itunes:season>
       <itunes:episode>7</itunes:episode>
