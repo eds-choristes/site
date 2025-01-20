@@ -6,6 +6,7 @@
     <description>PLAYLIST: BASSE2 Programme2025
 TRACKS:
 jeanne-basse1-basse2.mp3
+jardinsecret-basse1-basse2.mp3
 Derrière les mots-basse1-basse2.mp3
 vivalavida-basse2.mp3
 VivaLaVida-final-basse1-basse2.mp3
@@ -19,11 +20,19 @@ ukuthula-basse2.mp3</description>
       <title>BASSE2 Programme2025</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Mon, 20 Jan 2025 20:26:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2025 20:48:49 +0000</lastBuildDate>
     <item>
       <title>jeanne-basse1-basse2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ghe2KUvRAL54wCzLduvAvp9VNIHPWCln</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ghe2KUvRAL54wCzLduvAvp9VNIHPWCln" length="6087860" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Jan 2025 00:07:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>8</itunes:episode>
+    </item>
+    <item>
+      <title>jardinsecret-basse1-basse2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1z1fHY7a0rLl76yqwPJ5lQqm4e1rYzfZC</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1z1fHY7a0rLl76yqwPJ5lQqm4e1rYzfZC" length="2587270" type="audio/mpeg"/>
       <pubDate>Sun, 19 Jan 2025 00:06:00 +0000</pubDate>
       <itunes:season>5</itunes:season>
       <itunes:episode>7</itunes:episode>
