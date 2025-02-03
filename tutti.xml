@@ -1,97 +1,70 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>TUTTI Programme2025</title>
+    <title>TUTTI Programme2024</title>
     <link>https://podcast.echodespy.net</link>
-    <description>PLAYLIST: TUTTI Programme2025
+    <description>PLAYLIST: TUTTI Programme2024
 TRACKS:
-jeanne-tutti.mp3
-jardinsecret-tutti.mp3
-Derrière les mots-tutti+instru.mp3
-Derrière les mots-tutti.mp3
-VivaLaVida-final-tutti.mp3
-vivalavida-tutti clic.mp3
-Emorio-tutti.mp3
-pour la vie-tutti.wav
-ukuthula-tutti.mp3</description>
+ - jeanne-tutti.mp3
+ - jardinsecret-tutti.mp3
+ - Derrière les mots-tutti+instru.mp3
+ - Derrière les mots-tutti.mp3
+ - VivaLaVida-final-tutti.mp3
+ - vivalavida-tutti clic.mp3</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
       <url>https://drive.google.com/uc?export=download&amp;id=1z2SARHe3_xmNQxakTx3vFkeiTm9vrWxz</url>
-      <title>TUTTI Programme2025</title>
+      <title>TUTTI Programme2024</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Mon, 20 Jan 2025 20:45:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2025 22:21:56 +0000</lastBuildDate>
     <item>
       <title>jeanne-tutti.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1XWoSkRbq-AZ5TxxneOtJAAgUMOLi1PCc</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1XWoSkRbq-AZ5TxxneOtJAAgUMOLi1PCc" length="6064356" type="audio/mpeg"/>
-      <pubDate>Sun, 19 Jan 2025 00:08:00 +0000</pubDate>
-      <itunes:season>5</itunes:season>
-      <itunes:episode>9</itunes:episode>
+      <pubDate>Sun, 02 Feb 2025 00:05:00 +0000</pubDate>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>6</itunes:episode>
     </item>
     <item>
       <title>jardinsecret-tutti.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1C4-T7eunHs2EiT5dlNazZqumpGkziGTT</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1C4-T7eunHs2EiT5dlNazZqumpGkziGTT" length="2724878" type="audio/mpeg"/>
-      <pubDate>Sun, 19 Jan 2025 00:07:00 +0000</pubDate>
-      <itunes:season>5</itunes:season>
-      <itunes:episode>8</itunes:episode>
+      <pubDate>Sun, 02 Feb 2025 00:04:00 +0000</pubDate>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>5</itunes:episode>
     </item>
     <item>
       <title>Derrière les mots-tutti+instru.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1-EMzCTGbzsCSOHhsBk_UaS1UrZRgW1SX</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1-EMzCTGbzsCSOHhsBk_UaS1UrZRgW1SX" length="4495568" type="audio/mpeg"/>
-      <pubDate>Sun, 19 Jan 2025 00:06:00 +0000</pubDate>
-      <itunes:season>5</itunes:season>
-      <itunes:episode>7</itunes:episode>
+      <pubDate>Sun, 02 Feb 2025 00:03:00 +0000</pubDate>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>4</itunes:episode>
     </item>
     <item>
       <title>Derrière les mots-tutti.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1XE4zXAgkC6ohXuzut1mqBRxoK-drZBBT</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1XE4zXAgkC6ohXuzut1mqBRxoK-drZBBT" length="4495568" type="audio/mpeg"/>
-      <pubDate>Sun, 19 Jan 2025 00:05:00 +0000</pubDate>
-      <itunes:season>5</itunes:season>
-      <itunes:episode>6</itunes:episode>
+      <pubDate>Sun, 02 Feb 2025 00:02:00 +0000</pubDate>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>3</itunes:episode>
     </item>
     <item>
       <title>VivaLaVida-final-tutti.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ExrxKhQisTxGctDCkRE-jcwQ5ncMGHqr</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ExrxKhQisTxGctDCkRE-jcwQ5ncMGHqr" length="870654" type="audio/mpeg"/>
-      <pubDate>Sun, 19 Jan 2025 00:04:00 +0000</pubDate>
-      <itunes:season>5</itunes:season>
-      <itunes:episode>5</itunes:episode>
+      <pubDate>Sun, 02 Feb 2025 00:01:00 +0000</pubDate>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>2</itunes:episode>
     </item>
     <item>
       <title>vivalavida-tutti clic.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1yRhsGKtDU04T7U9ULD8NudqUIHwiT_BZ</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1yRhsGKtDU04T7U9ULD8NudqUIHwiT_BZ" length="3353949" type="audio/mpeg"/>
-      <pubDate>Sun, 19 Jan 2025 00:03:00 +0000</pubDate>
-      <itunes:season>5</itunes:season>
-      <itunes:episode>4</itunes:episode>
-    </item>
-    <item>
-      <title>Emorio-tutti.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1uLQ-IkvEMFh9sTnlwFcA8QhzGZ1y9li-</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1uLQ-IkvEMFh9sTnlwFcA8QhzGZ1y9li-" length="723309" type="audio/mpeg"/>
-      <pubDate>Sun, 19 Jan 2025 00:02:00 +0000</pubDate>
-      <itunes:season>5</itunes:season>
-      <itunes:episode>3</itunes:episode>
-    </item>
-    <item>
-      <title>pour la vie-tutti.wav</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ptjv_kZceRnkqpyIjuQtTyL6ZztQppK5</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ptjv_kZceRnkqpyIjuQtTyL6ZztQppK5" length="34692104" type="audio/mpeg"/>
-      <pubDate>Sun, 19 Jan 2025 00:01:00 +0000</pubDate>
-      <itunes:season>5</itunes:season>
-      <itunes:episode>2</itunes:episode>
-    </item>
-    <item>
-      <title>ukuthula-tutti.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=15JNRbUGvvFeGm-7YRpOiT3z4CODPSA56</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=15JNRbUGvvFeGm-7YRpOiT3z4CODPSA56" length="830254" type="audio/mpeg"/>
-      <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
-      <itunes:season>5</itunes:season>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+      <itunes:season>4</itunes:season>
       <itunes:episode>1</itunes:episode>
     </item>
   </channel>
