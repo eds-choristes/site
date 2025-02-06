@@ -5,14 +5,15 @@
     <link>https://podcast.echodespy.net</link>
     <description>PLAYLIST: ALTO2 Programme2025
 TRACKS:
+Irishblessing-alto1-alto2.mp3
+Skye Boat Song-alto1-alto2.mp3
+SallyGardens-alto1-alto2.mp3
+MollyMaloneIF-alto1-alto2.mp3
+BotanyBayIF-alto1-alto2.mp3
+Runaway-alto1-alto2.mp3
 jeanne-alto2.mp3
 jardinsecret-alto1-alto2.mp3
-Derrière les mots-alto1-alto2.mp3
-vivalavida-alto1-alto2.mp3
-VivaLaVida-final-alto1-alto2.mp3
-Emorio-alto1-alto2.mp3
-pour la vie-alto1-alto2.wav
-ukuthula-alto1-alto2.mp3</description>
+Derrière les mots-alto1-alto2.mp3</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
@@ -20,68 +21,76 @@ ukuthula-alto1-alto2.mp3</description>
       <title>ALTO2 Programme2025</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Mon, 20 Jan 2025 20:46:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 21:37:52 +0000</lastBuildDate>
+    <item>
+      <title>Irishblessing-alto1-alto2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1wVTCG_u7WB5IWDhNODmDpjWyQvFooSoy</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1wVTCG_u7WB5IWDhNODmDpjWyQvFooSoy" length="1018875" type="audio/mpeg"/>
+      <pubDate>Wed, 05 Feb 2025 00:08:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>9</itunes:episode>
+    </item>
+    <item>
+      <title>Skye Boat Song-alto1-alto2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1d09PV66HdNTCmenRZYTGIvYiBPBCqaRj</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1d09PV66HdNTCmenRZYTGIvYiBPBCqaRj" length="4217085" type="audio/mpeg"/>
+      <pubDate>Wed, 05 Feb 2025 00:07:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>8</itunes:episode>
+    </item>
+    <item>
+      <title>SallyGardens-alto1-alto2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1dKiICPKE_4J8i_FNZrmGTHCk4K6ROVOk</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1dKiICPKE_4J8i_FNZrmGTHCk4K6ROVOk" length="4348079" type="audio/mpeg"/>
+      <pubDate>Wed, 05 Feb 2025 00:06:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>7</itunes:episode>
+    </item>
+    <item>
+      <title>MollyMaloneIF-alto1-alto2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=16tgF6CGQKySpKulELjW2HmFGbfiKUctA</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=16tgF6CGQKySpKulELjW2HmFGbfiKUctA" length="1977156" type="audio/mpeg"/>
+      <pubDate>Wed, 05 Feb 2025 00:05:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>6</itunes:episode>
+    </item>
+    <item>
+      <title>BotanyBayIF-alto1-alto2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1LUFGik2y_qTbXa0LjeMWnew_DWDSNx6V</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1LUFGik2y_qTbXa0LjeMWnew_DWDSNx6V" length="5431123" type="audio/mpeg"/>
+      <pubDate>Wed, 05 Feb 2025 00:04:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>5</itunes:episode>
+    </item>
+    <item>
+      <title>Runaway-alto1-alto2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=14BKDx2zxrTMk-V0MUTaXPCO2sviSU8k-</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=14BKDx2zxrTMk-V0MUTaXPCO2sviSU8k-" length="2646159" type="audio/mpeg"/>
+      <pubDate>Wed, 05 Feb 2025 00:03:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>4</itunes:episode>
+    </item>
     <item>
       <title>jeanne-alto2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=17k3SoCgt55THNSg65pbKR2gc1czMdMI-</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=17k3SoCgt55THNSg65pbKR2gc1czMdMI-" length="6026484" type="audio/mpeg"/>
-      <pubDate>Sun, 19 Jan 2025 00:07:00 +0000</pubDate>
+      <pubDate>Wed, 05 Feb 2025 00:02:00 +0000</pubDate>
       <itunes:season>5</itunes:season>
-      <itunes:episode>8</itunes:episode>
+      <itunes:episode>3</itunes:episode>
     </item>
     <item>
       <title>jardinsecret-alto1-alto2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1IZ1Ovdd8aMseVN4VFm5a5gLzbCoHyOx6</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1IZ1Ovdd8aMseVN4VFm5a5gLzbCoHyOx6" length="2532142" type="audio/mpeg"/>
-      <pubDate>Sun, 19 Jan 2025 00:06:00 +0000</pubDate>
+      <pubDate>Wed, 05 Feb 2025 00:01:00 +0000</pubDate>
       <itunes:season>5</itunes:season>
-      <itunes:episode>7</itunes:episode>
+      <itunes:episode>2</itunes:episode>
     </item>
     <item>
       <title>Derrière les mots-alto1-alto2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=18XaTw067_zGMBwYwWvn95HU47uhe2FEP</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=18XaTw067_zGMBwYwWvn95HU47uhe2FEP" length="4495568" type="audio/mpeg"/>
-      <pubDate>Sun, 19 Jan 2025 00:05:00 +0000</pubDate>
-      <itunes:season>5</itunes:season>
-      <itunes:episode>6</itunes:episode>
-    </item>
-    <item>
-      <title>vivalavida-alto1-alto2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1Polb2Sa2CGo-5Otk9ICYI6ggZBBVFqcE</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Polb2Sa2CGo-5Otk9ICYI6ggZBBVFqcE" length="3126688" type="audio/mpeg"/>
-      <pubDate>Sun, 19 Jan 2025 00:04:00 +0000</pubDate>
-      <itunes:season>5</itunes:season>
-      <itunes:episode>5</itunes:episode>
-    </item>
-    <item>
-      <title>VivaLaVida-final-alto1-alto2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1frSXSwxGR1X_E0L0_QODRbkw8M1rQp-3</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1frSXSwxGR1X_E0L0_QODRbkw8M1rQp-3" length="733872" type="audio/mpeg"/>
-      <pubDate>Sun, 19 Jan 2025 00:03:00 +0000</pubDate>
-      <itunes:season>5</itunes:season>
-      <itunes:episode>4</itunes:episode>
-    </item>
-    <item>
-      <title>Emorio-alto1-alto2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1UqJUjHfjAXP5vRq64Zc6u-TzbaXzMJzu</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1UqJUjHfjAXP5vRq64Zc6u-TzbaXzMJzu" length="678632" type="audio/mpeg"/>
-      <pubDate>Sun, 19 Jan 2025 00:02:00 +0000</pubDate>
-      <itunes:season>5</itunes:season>
-      <itunes:episode>3</itunes:episode>
-    </item>
-    <item>
-      <title>pour la vie-alto1-alto2.wav</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1eDyKpO0J60uh5N2xErV79-y4plndvc-x</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1eDyKpO0J60uh5N2xErV79-y4plndvc-x" length="34692104" type="audio/mpeg"/>
-      <pubDate>Sun, 19 Jan 2025 00:01:00 +0000</pubDate>
-      <itunes:season>5</itunes:season>
-      <itunes:episode>2</itunes:episode>
-    </item>
-    <item>
-      <title>ukuthula-alto1-alto2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1FeUjC11JWhAgT4jHLCN8XxJfghLaD669</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1FeUjC11JWhAgT4jHLCN8XxJfghLaD669" length="793266" type="audio/mpeg"/>
-      <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
       <itunes:season>5</itunes:season>
       <itunes:episode>1</itunes:episode>
     </item>
