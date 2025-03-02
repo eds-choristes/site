@@ -5,16 +5,17 @@
     <link>https://podcast.echodespy.net</link>
     <description>PLAYLIST: TENOR Programme2025
 TRACKS:
-IrishBlessing-tenor.mp3
-Skye Boat Song-tenor.mp3
-SallyGardens-tenor.mp3
-MollyMaloneIF-tenor.mp3
-BotanyBayIF-tenor.mp3
-Runaway-tenor.mp3
-jeanne-tenor.mp3
-VivaLaVida - SMATBB - tenor.mp3
- Siyahamba - tenor.mp3
-Derrière les mots-tenor.mp3</description>
+ - IrishBlessing-tenor.mp3
+ - Skye Boat Song-tenor.mp3
+ - SallyGardens-tenor.mp3
+ - MollyMaloneIF-tenor.mp3
+ - BotanyBayIF-tenor.mp3
+ - Runaway-tenor.mp3
+ - jeanne-tenor.mp3
+ - VivaLaVida - SMATBB - tenor.mp3
+ - Siyahamba Spanish+English - tenor.mp3
+ - Human - tenor.mp3
+ - Derrière les mots-tenor.mp3</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
@@ -22,76 +23,84 @@ Derrière les mots-tenor.mp3</description>
       <title>TENOR Programme2025</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Sat, 22 Feb 2025 11:30:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Mar 2025 22:18:43 +0000</lastBuildDate>
     <item>
       <title>IrishBlessing-tenor.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1-WS7d3KG9WFiHw29TYKb2suh_EBJw1Wq</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1-WS7d3KG9WFiHw29TYKb2suh_EBJw1Wq" length="1001637" type="audio/mpeg"/>
-      <pubDate>Fri, 21 Feb 2025 00:09:00 +0000</pubDate>
+      <pubDate>Sat, 01 Mar 2025 00:10:00 +0000</pubDate>
       <itunes:season>6</itunes:season>
-      <itunes:episode>10</itunes:episode>
+      <itunes:episode>11</itunes:episode>
     </item>
     <item>
       <title>Skye Boat Song-tenor.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1qkrMNw-sNUpcJkipk1Dewne9yraubXym</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1qkrMNw-sNUpcJkipk1Dewne9yraubXym" length="4210816" type="audio/mpeg"/>
-      <pubDate>Fri, 21 Feb 2025 00:08:00 +0000</pubDate>
+      <pubDate>Sat, 01 Mar 2025 00:09:00 +0000</pubDate>
       <itunes:season>6</itunes:season>
-      <itunes:episode>9</itunes:episode>
+      <itunes:episode>10</itunes:episode>
     </item>
     <item>
       <title>SallyGardens-tenor.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1v87zGMPiRJYB5EburluAO-hCOAeoIr1G</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1v87zGMPiRJYB5EburluAO-hCOAeoIr1G" length="4253445" type="audio/mpeg"/>
-      <pubDate>Fri, 21 Feb 2025 00:07:00 +0000</pubDate>
+      <pubDate>Sat, 01 Mar 2025 00:08:00 +0000</pubDate>
       <itunes:season>6</itunes:season>
-      <itunes:episode>8</itunes:episode>
+      <itunes:episode>9</itunes:episode>
     </item>
     <item>
       <title>MollyMaloneIF-tenor.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1nKfnrtlY0UR_wPjO0G0GZZ0lS2sACDbx</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1nKfnrtlY0UR_wPjO0G0GZZ0lS2sACDbx" length="1958684" type="audio/mpeg"/>
-      <pubDate>Fri, 21 Feb 2025 00:06:00 +0000</pubDate>
+      <pubDate>Sat, 01 Mar 2025 00:07:00 +0000</pubDate>
       <itunes:season>6</itunes:season>
-      <itunes:episode>7</itunes:episode>
+      <itunes:episode>8</itunes:episode>
     </item>
     <item>
       <title>BotanyBayIF-tenor.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1Wp5BINpkzDAEEImjqWv2xRsrlPjaJ-DA</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Wp5BINpkzDAEEImjqWv2xRsrlPjaJ-DA" length="5432371" type="audio/mpeg"/>
-      <pubDate>Fri, 21 Feb 2025 00:05:00 +0000</pubDate>
+      <pubDate>Sat, 01 Mar 2025 00:06:00 +0000</pubDate>
       <itunes:season>6</itunes:season>
-      <itunes:episode>6</itunes:episode>
+      <itunes:episode>7</itunes:episode>
     </item>
     <item>
       <title>Runaway-tenor.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1n--g8b1xoexNuG7KCwZ4tfLBHIT7rK1R</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1n--g8b1xoexNuG7KCwZ4tfLBHIT7rK1R" length="2648006" type="audio/mpeg"/>
-      <pubDate>Fri, 21 Feb 2025 00:04:00 +0000</pubDate>
+      <pubDate>Sat, 01 Mar 2025 00:05:00 +0000</pubDate>
       <itunes:season>6</itunes:season>
-      <itunes:episode>5</itunes:episode>
+      <itunes:episode>6</itunes:episode>
     </item>
     <item>
       <title>jeanne-tenor.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1vtAE-cMMKmg7uWLzOfdZIsXImw-N6hYB</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1vtAE-cMMKmg7uWLzOfdZIsXImw-N6hYB" length="5896527" type="audio/mpeg"/>
-      <pubDate>Fri, 21 Feb 2025 00:03:00 +0000</pubDate>
+      <pubDate>Sat, 01 Mar 2025 00:04:00 +0000</pubDate>
       <itunes:season>6</itunes:season>
-      <itunes:episode>4</itunes:episode>
+      <itunes:episode>5</itunes:episode>
     </item>
     <item>
       <title>VivaLaVida - SMATBB - tenor.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1OiO0ebqnxQ7SeLyMXJhbyLaR0WnBmj5p</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1OiO0ebqnxQ7SeLyMXJhbyLaR0WnBmj5p" length="4930080" type="audio/mpeg"/>
-      <pubDate>Fri, 21 Feb 2025 00:02:00 +0000</pubDate>
+      <pubDate>Sat, 01 Mar 2025 00:03:00 +0000</pubDate>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>4</itunes:episode>
+    </item>
+    <item>
+      <title>Siyahamba Spanish+English - tenor.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1-oprrvoPADDT5xZNfetmxTB0PNwEb3Yx</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1-oprrvoPADDT5xZNfetmxTB0PNwEb3Yx" length="3492000" type="audio/mpeg"/>
+      <pubDate>Sat, 01 Mar 2025 00:02:00 +0000</pubDate>
       <itunes:season>6</itunes:season>
       <itunes:episode>3</itunes:episode>
     </item>
     <item>
-      <title> Siyahamba - tenor.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1akyEX5jm0dbpTxajiAwLDCRXv4jAnE2s</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1akyEX5jm0dbpTxajiAwLDCRXv4jAnE2s" length="931680" type="audio/mpeg"/>
-      <pubDate>Fri, 21 Feb 2025 00:01:00 +0000</pubDate>
+      <title>Human - tenor.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1JPCFkCPGVpYbKSxGxkInwcpkZelVAz6N</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1JPCFkCPGVpYbKSxGxkInwcpkZelVAz6N" length="3892320" type="audio/mpeg"/>
+      <pubDate>Sat, 01 Mar 2025 00:01:00 +0000</pubDate>
       <itunes:season>6</itunes:season>
       <itunes:episode>2</itunes:episode>
     </item>
@@ -99,7 +108,7 @@ Derrière les mots-tenor.mp3</description>
       <title>Derrière les mots-tenor.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1YcvFlzdn4-mRlF1RGs6gukbKZGgxZ2M3</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1YcvFlzdn4-mRlF1RGs6gukbKZGgxZ2M3" length="4495568" type="audio/mpeg"/>
-      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
       <itunes:season>6</itunes:season>
       <itunes:episode>1</itunes:episode>
     </item>
