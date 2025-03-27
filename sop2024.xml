@@ -5,11 +5,11 @@
     <link>https://podcast.echodespy.net</link>
     <description>PLAYLIST: POUR  LA_VIE
 TRACKS:
-pour la vie-alto.wav
-pour la vie-basse.wav
-pour la vie-soprane.wav
-pour la vie-tutti.wav
-pour la vie-ténor.wav</description>
+pour la vie-alto1-alto2.wav
+pour la vie-basse1-basse2.wav
+pour la vie-soprane1-soprane2.wav
+pour la vie-tenor.wav
+pour la vie-tutti.wav</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
@@ -17,40 +17,40 @@ pour la vie-ténor.wav</description>
       <title>POUR  LA_VIE</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Fri, 29 Nov 2024 08:17:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Mar 2025 17:17:01 +0000</lastBuildDate>
     <item>
-      <title>pour la vie-alto.wav</title>
+      <title>pour la vie-alto1-alto2.wav</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1eDyKpO0J60uh5N2xErV79-y4plndvc-x</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1eDyKpO0J60uh5N2xErV79-y4plndvc-x" length="34692104" type="audio/mpeg"/>
-      <pubDate>Thu, 28 Nov 2024 00:04:00 +0000</pubDate>
+      <pubDate>Wed, 26 Mar 2025 00:04:00 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
     </item>
     <item>
-      <title>pour la vie-basse.wav</title>
+      <title>pour la vie-basse1-basse2.wav</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1FZmgPuXvkGjKme0bKMVBnue7XCSGd5cs</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1FZmgPuXvkGjKme0bKMVBnue7XCSGd5cs" length="34692104" type="audio/mpeg"/>
-      <pubDate>Thu, 28 Nov 2024 00:03:00 +0000</pubDate>
+      <pubDate>Wed, 26 Mar 2025 00:03:00 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
     </item>
     <item>
-      <title>pour la vie-soprane.wav</title>
+      <title>pour la vie-soprane1-soprane2.wav</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1fyd-jACX7u6pOi2zhkJG7Pry81oTIOte</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1fyd-jACX7u6pOi2zhkJG7Pry81oTIOte" length="34692104" type="audio/mpeg"/>
-      <pubDate>Thu, 28 Nov 2024 00:02:00 +0000</pubDate>
+      <pubDate>Wed, 26 Mar 2025 00:02:00 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
+    </item>
+    <item>
+      <title>pour la vie-tenor.wav</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1AXK8V2nckdDLYseWz5yyMqgBemWsRxAV</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1AXK8V2nckdDLYseWz5yyMqgBemWsRxAV" length="34692104" type="audio/mpeg"/>
+      <pubDate>Wed, 26 Mar 2025 00:01:00 +0000</pubDate>
+      <itunes:episode>2</itunes:episode>
     </item>
     <item>
       <title>pour la vie-tutti.wav</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ptjv_kZceRnkqpyIjuQtTyL6ZztQppK5</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ptjv_kZceRnkqpyIjuQtTyL6ZztQppK5" length="34692104" type="audio/mpeg"/>
-      <pubDate>Thu, 28 Nov 2024 00:01:00 +0000</pubDate>
-      <itunes:episode>2</itunes:episode>
-    </item>
-    <item>
-      <title>pour la vie-ténor.wav</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1AXK8V2nckdDLYseWz5yyMqgBemWsRxAV</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1AXK8V2nckdDLYseWz5yyMqgBemWsRxAV" length="34692104" type="audio/mpeg"/>
-      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
     </item>
   </channel>
