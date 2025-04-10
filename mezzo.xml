@@ -5,10 +5,10 @@
     <link>https://podcast.echodespy.net</link>
     <description>PLAYLIST: MEZZO Programme2025
 TRACKS:
- - VivaLaVida - SMATBB - mezzo.mp3
  - The Seal Lullaby - mezzo.mp3
  - HealingLight-mezzo.mp3
- - Human - mezzo.mp3</description>
+ - Human - mezzo.mp3
+ - VivaLaVida - SMATBB - mezzo.mp3</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
@@ -16,36 +16,36 @@ TRACKS:
       <title>MEZZO Programme2025</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Wed, 02 Apr 2025 18:56:57 +0000</lastBuildDate>
-    <item>
-      <title>VivaLaVida - SMATBB - mezzo.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1dsWo5AVHIWHDXtHH5w3HdZWBoY9s_e3X</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1dsWo5AVHIWHDXtHH5w3HdZWBoY9s_e3X" length="4930080" type="audio/mpeg"/>
-      <pubDate>Tue, 01 Apr 2025 00:03:00 +0000</pubDate>
-      <itunes:season>6</itunes:season>
-      <itunes:episode>4</itunes:episode>
-    </item>
+    <lastBuildDate>Thu, 10 Apr 2025 08:00:15 +0000</lastBuildDate>
     <item>
       <title>The Seal Lullaby - mezzo.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1X7gm7jclCu7arBdcUQl3vovrdJDU7hpm</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1X7gm7jclCu7arBdcUQl3vovrdJDU7hpm" length="4317120" type="audio/mpeg"/>
-      <pubDate>Tue, 01 Apr 2025 00:02:00 +0000</pubDate>
+      <pubDate>Wed, 09 Apr 2025 00:03:00 +0000</pubDate>
       <itunes:season>6</itunes:season>
-      <itunes:episode>3</itunes:episode>
+      <itunes:episode>4</itunes:episode>
     </item>
     <item>
       <title>HealingLight-mezzo.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ZRfz8M8SXy1aP8pzKbpEMCVv5rBN-xYz</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZRfz8M8SXy1aP8pzKbpEMCVv5rBN-xYz" length="3665502" type="audio/mpeg"/>
-      <pubDate>Tue, 01 Apr 2025 00:01:00 +0000</pubDate>
+      <pubDate>Wed, 09 Apr 2025 00:02:00 +0000</pubDate>
       <itunes:season>6</itunes:season>
-      <itunes:episode>2</itunes:episode>
+      <itunes:episode>3</itunes:episode>
     </item>
     <item>
       <title>Human - mezzo.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1TplmVGf5HwXocIBMfewH1Wc_rftIg2D2</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1TplmVGf5HwXocIBMfewH1Wc_rftIg2D2" length="3892320" type="audio/mpeg"/>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 09 Apr 2025 00:01:00 +0000</pubDate>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>2</itunes:episode>
+    </item>
+    <item>
+      <title>VivaLaVida - SMATBB - mezzo.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1dsWo5AVHIWHDXtHH5w3HdZWBoY9s_e3X</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1dsWo5AVHIWHDXtHH5w3HdZWBoY9s_e3X" length="4930080" type="audio/mpeg"/>
+      <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
       <itunes:season>6</itunes:season>
       <itunes:episode>1</itunes:episode>
     </item>
