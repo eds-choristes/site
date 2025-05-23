@@ -5,9 +5,10 @@
     <link>https://podcast.echodespy.net</link>
     <description>PLAYLIST: TENOR Programme2025
 TRACKS:
- - jeanne-tenor.mp3
+ - Human - tenor.mp3
+ - Za Ma Ba - tenor.mp3
  - Emorio-tenor.mp3
- - Human - tenor.mp3</description>
+ - jeanne-tenor.mp3</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
@@ -15,12 +16,20 @@ TRACKS:
       <title>TENOR Programme2025</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Tue, 20 May 2025 20:56:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 May 2025 21:09:27 +0000</lastBuildDate>
     <item>
-      <title>jeanne-tenor.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1vtAE-cMMKmg7uWLzOfdZIsXImw-N6hYB</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1vtAE-cMMKmg7uWLzOfdZIsXImw-N6hYB" length="5896527" type="audio/mpeg"/>
-      <pubDate>Mon, 19 May 2025 00:02:00 +0000</pubDate>
+      <title>Human - tenor.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1_oSGQFYo5UuSFWDTPFdez4N8_uKcni2b</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_oSGQFYo5UuSFWDTPFdez4N8_uKcni2b" length="3892320" type="audio/mpeg"/>
+      <pubDate>Thu, 22 May 2025 00:03:00 +0000</pubDate>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>4</itunes:episode>
+    </item>
+    <item>
+      <title>Za Ma Ba - tenor.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1jQtFlxucpUsOThZLA10d_KyWrD11n1RP</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1jQtFlxucpUsOThZLA10d_KyWrD11n1RP" length="2217600" type="audio/mpeg"/>
+      <pubDate>Thu, 22 May 2025 00:02:00 +0000</pubDate>
       <itunes:season>7</itunes:season>
       <itunes:episode>3</itunes:episode>
     </item>
@@ -28,15 +37,15 @@ TRACKS:
       <title>Emorio-tenor.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1acrL0lSnf0SvYrrre5lZJrXILWusrm--</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1acrL0lSnf0SvYrrre5lZJrXILWusrm--" length="669581" type="audio/mpeg"/>
-      <pubDate>Mon, 19 May 2025 00:01:00 +0000</pubDate>
+      <pubDate>Thu, 22 May 2025 00:01:00 +0000</pubDate>
       <itunes:season>7</itunes:season>
       <itunes:episode>2</itunes:episode>
     </item>
     <item>
-      <title>Human - tenor.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1_oSGQFYo5UuSFWDTPFdez4N8_uKcni2b</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_oSGQFYo5UuSFWDTPFdez4N8_uKcni2b" length="3892320" type="audio/mpeg"/>
-      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
+      <title>jeanne-tenor.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1vtAE-cMMKmg7uWLzOfdZIsXImw-N6hYB</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1vtAE-cMMKmg7uWLzOfdZIsXImw-N6hYB" length="5896527" type="audio/mpeg"/>
+      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
       <itunes:season>7</itunes:season>
       <itunes:episode>1</itunes:episode>
     </item>
