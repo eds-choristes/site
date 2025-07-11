@@ -5,7 +5,9 @@
     <link>https://podcast.echodespy.net</link>
     <description>PLAYLIST: SOPRANE2 Programme2025
 TRACKS:
+ - Za Ma Ba - soprane1-soprane2.mp3
  - Emorio-soprane1-soprane2.mp3
+ - Sisi Ni Moja - soprane2.mp3
  - jeanne-soprane2.mp3</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
@@ -14,12 +16,28 @@ TRACKS:
       <title>SOPRANE2 Programme2025</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Fri, 23 May 2025 21:09:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jul 2025 21:42:58 +0000</lastBuildDate>
+    <item>
+      <title>Za Ma Ba - soprane1-soprane2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=19B6yLEImihhDuywAWW074-DLN1zKftXJ</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=19B6yLEImihhDuywAWW074-DLN1zKftXJ" length="2217600" type="audio/mpeg"/>
+      <pubDate>Thu, 10 Jul 2025 00:03:00 +0000</pubDate>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>4</itunes:episode>
+    </item>
     <item>
       <title>Emorio-soprane1-soprane2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1NJeiA4eY35zdKdqj3V9Tdist-tr69mNa</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1NJeiA4eY35zdKdqj3V9Tdist-tr69mNa" length="673891" type="audio/mpeg"/>
-      <pubDate>Thu, 22 May 2025 00:01:00 +0000</pubDate>
+      <pubDate>Thu, 10 Jul 2025 00:02:00 +0000</pubDate>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>3</itunes:episode>
+    </item>
+    <item>
+      <title>Sisi Ni Moja - soprane2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1gGpz_1h2ZtsEmhqoulCI5S5TBf5yt56O</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1gGpz_1h2ZtsEmhqoulCI5S5TBf5yt56O" length="6890205" type="audio/mpeg"/>
+      <pubDate>Thu, 10 Jul 2025 00:01:00 +0000</pubDate>
       <itunes:season>7</itunes:season>
       <itunes:episode>2</itunes:episode>
     </item>
@@ -27,7 +45,7 @@ TRACKS:
       <title>jeanne-soprane2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ZM9iQYJLuydwMS9u1xF_F5VPPbLLQ5ac</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZM9iQYJLuydwMS9u1xF_F5VPPbLLQ5ac" length="5980786" type="audio/mpeg"/>
-      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
       <itunes:season>7</itunes:season>
       <itunes:episode>1</itunes:episode>
     </item>
