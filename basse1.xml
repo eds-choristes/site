@@ -8,6 +8,7 @@ TRACKS:
  - Human - basse1-basse2.mp3
  - Za Ma Ba - basse1-basse2.mp3
  - Emorio-basse1-basse2.mp3
+ - Sisi Ni Moja - basse1 vasse2.mp3
  - jeanne-basse1-basse2.mp3</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
@@ -16,28 +17,36 @@ TRACKS:
       <title>BASSE1 Programme2025</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Fri, 23 May 2025 21:09:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jul 2025 21:43:43 +0000</lastBuildDate>
     <item>
       <title>Human - basse1-basse2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=19fGTM2HOFMoaJwG5cETRLNbm8hHA4ASf</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=19fGTM2HOFMoaJwG5cETRLNbm8hHA4ASf" length="3892320" type="audio/mpeg"/>
-      <pubDate>Thu, 22 May 2025 00:03:00 +0000</pubDate>
+      <pubDate>Thu, 10 Jul 2025 00:04:00 +0000</pubDate>
       <itunes:season>7</itunes:season>
-      <itunes:episode>4</itunes:episode>
+      <itunes:episode>5</itunes:episode>
     </item>
     <item>
       <title>Za Ma Ba - basse1-basse2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1sJ9tpgO7kvVlPRZhwWrjgeCzjHC6dFcB</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1sJ9tpgO7kvVlPRZhwWrjgeCzjHC6dFcB" length="2217600" type="audio/mpeg"/>
-      <pubDate>Thu, 22 May 2025 00:02:00 +0000</pubDate>
+      <pubDate>Thu, 10 Jul 2025 00:03:00 +0000</pubDate>
       <itunes:season>7</itunes:season>
-      <itunes:episode>3</itunes:episode>
+      <itunes:episode>4</itunes:episode>
     </item>
     <item>
       <title>Emorio-basse1-basse2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1F5bsy88QNh4VxpyLrGOlIiAL969DM1FD</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1F5bsy88QNh4VxpyLrGOlIiAL969DM1FD" length="685130" type="audio/mpeg"/>
-      <pubDate>Thu, 22 May 2025 00:01:00 +0000</pubDate>
+      <pubDate>Thu, 10 Jul 2025 00:02:00 +0000</pubDate>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>3</itunes:episode>
+    </item>
+    <item>
+      <title>Sisi Ni Moja - basse1 vasse2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=18-pVlQLDsLnYlM6NvMNE89q6J_Elr9GF</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=18-pVlQLDsLnYlM6NvMNE89q6J_Elr9GF" length="6906117" type="audio/mpeg"/>
+      <pubDate>Thu, 10 Jul 2025 00:01:00 +0000</pubDate>
       <itunes:season>7</itunes:season>
       <itunes:episode>2</itunes:episode>
     </item>
@@ -45,7 +54,7 @@ TRACKS:
       <title>jeanne-basse1-basse2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ghe2KUvRAL54wCzLduvAvp9VNIHPWCln</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ghe2KUvRAL54wCzLduvAvp9VNIHPWCln" length="6087860" type="audio/mpeg"/>
-      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
       <itunes:season>7</itunes:season>
       <itunes:episode>1</itunes:episode>
     </item>
