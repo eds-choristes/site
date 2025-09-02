@@ -8,8 +8,9 @@ TRACKS:
  - Human - tenor.mp3
  - Za Ma Ba - tenor.mp3
  - Emorio-tenor.mp3
- - Sisi Ni Moja - tenor.mp3
- - jeanne-tenor.mp3</description>
+ - Sisi ni moja - tenor.mp3
+ - MollyMaloneIF-tenor.mp3
+ - Skye Boat Song-tenor.mp3</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
@@ -17,44 +18,52 @@ TRACKS:
       <title>TENOR Programme2025</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Fri, 11 Jul 2025 21:43:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Sep 2025 20:55:07 +0000</lastBuildDate>
     <item>
       <title>Human - tenor.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1_oSGQFYo5UuSFWDTPFdez4N8_uKcni2b</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_oSGQFYo5UuSFWDTPFdez4N8_uKcni2b" length="3892320" type="audio/mpeg"/>
-      <pubDate>Thu, 10 Jul 2025 00:04:00 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 00:05:00 +0000</pubDate>
       <itunes:season>7</itunes:season>
-      <itunes:episode>5</itunes:episode>
+      <itunes:episode>6</itunes:episode>
     </item>
     <item>
       <title>Za Ma Ba - tenor.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1jQtFlxucpUsOThZLA10d_KyWrD11n1RP</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1jQtFlxucpUsOThZLA10d_KyWrD11n1RP" length="2217600" type="audio/mpeg"/>
-      <pubDate>Thu, 10 Jul 2025 00:03:00 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 00:04:00 +0000</pubDate>
       <itunes:season>7</itunes:season>
-      <itunes:episode>4</itunes:episode>
+      <itunes:episode>5</itunes:episode>
     </item>
     <item>
       <title>Emorio-tenor.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1acrL0lSnf0SvYrrre5lZJrXILWusrm--</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1acrL0lSnf0SvYrrre5lZJrXILWusrm--" length="669581" type="audio/mpeg"/>
-      <pubDate>Thu, 10 Jul 2025 00:02:00 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 00:03:00 +0000</pubDate>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>4</itunes:episode>
+    </item>
+    <item>
+      <title>Sisi ni moja - tenor.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ajgFqUVfFlOtW4Jc_mpplyc5sn-zVbFx</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ajgFqUVfFlOtW4Jc_mpplyc5sn-zVbFx" length="5268960" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Sep 2025 00:02:00 +0000</pubDate>
       <itunes:season>7</itunes:season>
       <itunes:episode>3</itunes:episode>
     </item>
     <item>
-      <title>Sisi Ni Moja - tenor.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ow2GVdiEBHyNw2QjkHmXDQasSOs1r_jS</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ow2GVdiEBHyNw2QjkHmXDQasSOs1r_jS" length="6520845" type="audio/mpeg"/>
-      <pubDate>Thu, 10 Jul 2025 00:01:00 +0000</pubDate>
+      <title>MollyMaloneIF-tenor.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1nKfnrtlY0UR_wPjO0G0GZZ0lS2sACDbx</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1nKfnrtlY0UR_wPjO0G0GZZ0lS2sACDbx" length="1958684" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Sep 2025 00:01:00 +0000</pubDate>
       <itunes:season>7</itunes:season>
       <itunes:episode>2</itunes:episode>
     </item>
     <item>
-      <title>jeanne-tenor.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1vtAE-cMMKmg7uWLzOfdZIsXImw-N6hYB</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1vtAE-cMMKmg7uWLzOfdZIsXImw-N6hYB" length="5896527" type="audio/mpeg"/>
-      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <title>Skye Boat Song-tenor.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1qkrMNw-sNUpcJkipk1Dewne9yraubXym</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1qkrMNw-sNUpcJkipk1Dewne9yraubXym" length="4210816" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       <itunes:season>7</itunes:season>
       <itunes:episode>1</itunes:episode>
     </item>
