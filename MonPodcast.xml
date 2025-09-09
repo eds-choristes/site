@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Mon Podcast</title>
+    <link>https://podcast.echodespy.net</link>
+    <description>PLAYLIST: Mon Podcast
+TRACKS:
+ - France décarbonée 2050 - Le plan radical du Shift Project.mp4
+ - L'art invisible (video).mp4
+ - La civilisation de la peur - Nicolas Bouzou.mp4
+ - Sonoriser la musique acoustique - Hérésie ou Optimisation.mp4</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://drive.google.com/uc?export=download&amp;id=10AfjmqTKFGKCb1uq0Ihh9DIsgg4Gj-Zo</url>
+      <title>Mon Podcast</title>
+      <link>https://podcast.echodespy.net</link>
+    </image>
+    <lastBuildDate>Tue, 09 Sep 2025 16:33:35 +0000</lastBuildDate>
+    <item>
+      <title>France décarbonée 2050 - Le plan radical du Shift Project.mp4</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1vBjhsst3a2nPRbTk_vrt0FpBOOldqcDu</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1vBjhsst3a2nPRbTk_vrt0FpBOOldqcDu" length="44984249" type="audio/mpeg"/>
+      <pubDate>Mon, 08 Sep 2025 00:03:00 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+    </item>
+    <item>
+      <title>L'art invisible (video).mp4</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1W3bX6cGItrRBz6PEYNZnQnjd6QBYVffS</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1W3bX6cGItrRBz6PEYNZnQnjd6QBYVffS" length="20347026" type="audio/mpeg"/>
+      <pubDate>Mon, 08 Sep 2025 00:02:00 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+    </item>
+    <item>
+      <title>La civilisation de la peur - Nicolas Bouzou.mp4</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1yIM8aLFinG8M8dWuHE9sQfZ0x1uyr00d</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1yIM8aLFinG8M8dWuHE9sQfZ0x1uyr00d" length="35215481" type="audio/mpeg"/>
+      <pubDate>Mon, 08 Sep 2025 00:01:00 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+    </item>
+    <item>
+      <title>Sonoriser la musique acoustique - Hérésie ou Optimisation.mp4</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1IerTalORfVJhs0exUSAr6Z5iZsVNpQKv</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1IerTalORfVJhs0exUSAr6Z5iZsVNpQKv" length="24339138" type="audio/mpeg"/>
+      <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+    </item>
+  </channel>
+</rss>
