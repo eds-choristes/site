@@ -9,7 +9,9 @@ TRACKS:
  - Emorio-soprane1-soprane2.mp3
  - Sisi ni moja - soprane2.mp3
  - MollyMaloneIF-soprane1-soprane2.mp3
- - Skye Boat Song-soprane2.mp3</description>
+ - Skye Boat Song-soprane2.mp3
+ - Muirsheen Durkin - soprane2.mp3
+ - Carol of the Bells - soprane1-soprane2.mp3</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
@@ -17,45 +19,61 @@ TRACKS:
       <title>SOPRANE2 Programme2025</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Tue, 02 Sep 2025 20:54:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Sep 2025 19:34:06 +0000</lastBuildDate>
     <item>
       <title>Za Ma Ba - soprane1-soprane2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=19B6yLEImihhDuywAWW074-DLN1zKftXJ</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=19B6yLEImihhDuywAWW074-DLN1zKftXJ" length="2217600" type="audio/mpeg"/>
-      <pubDate>Mon, 01 Sep 2025 00:04:00 +0000</pubDate>
-      <itunes:season>7</itunes:season>
-      <itunes:episode>5</itunes:episode>
+      <pubDate>Wed, 10 Sep 2025 00:06:00 +0000</pubDate>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>7</itunes:episode>
     </item>
     <item>
       <title>Emorio-soprane1-soprane2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1NJeiA4eY35zdKdqj3V9Tdist-tr69mNa</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1NJeiA4eY35zdKdqj3V9Tdist-tr69mNa" length="673891" type="audio/mpeg"/>
-      <pubDate>Mon, 01 Sep 2025 00:03:00 +0000</pubDate>
-      <itunes:season>7</itunes:season>
-      <itunes:episode>4</itunes:episode>
+      <pubDate>Wed, 10 Sep 2025 00:05:00 +0000</pubDate>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>6</itunes:episode>
     </item>
     <item>
       <title>Sisi ni moja - soprane2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1U4NswifY9Biqd0YEkzJx1tob72ckPW_A</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1U4NswifY9Biqd0YEkzJx1tob72ckPW_A" length="5268960" type="audio/mpeg"/>
-      <pubDate>Mon, 01 Sep 2025 00:02:00 +0000</pubDate>
-      <itunes:season>7</itunes:season>
-      <itunes:episode>3</itunes:episode>
+      <pubDate>Wed, 10 Sep 2025 00:04:00 +0000</pubDate>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>5</itunes:episode>
     </item>
     <item>
       <title>MollyMaloneIF-soprane1-soprane2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1cVRK56DfHnc4UVoaVCGNeNc_Riq20RE6</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1cVRK56DfHnc4UVoaVCGNeNc_Riq20RE6" length="1979115" type="audio/mpeg"/>
-      <pubDate>Mon, 01 Sep 2025 00:01:00 +0000</pubDate>
-      <itunes:season>7</itunes:season>
-      <itunes:episode>2</itunes:episode>
+      <pubDate>Wed, 10 Sep 2025 00:03:00 +0000</pubDate>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>4</itunes:episode>
     </item>
     <item>
       <title>Skye Boat Song-soprane2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1SvwFiQJz7LoTBNLcBNu0YTk9AvPmlDJQ</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1SvwFiQJz7LoTBNLcBNu0YTk9AvPmlDJQ" length="4222727" type="audio/mpeg"/>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
-      <itunes:season>7</itunes:season>
+      <pubDate>Wed, 10 Sep 2025 00:02:00 +0000</pubDate>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>3</itunes:episode>
+    </item>
+    <item>
+      <title>Muirsheen Durkin - soprane2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1wEuwV2fdh5sfW7NNacVhhXLE--eWmgnm</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1wEuwV2fdh5sfW7NNacVhhXLE--eWmgnm" length="4224960" type="audio/mpeg"/>
+      <pubDate>Wed, 10 Sep 2025 00:01:00 +0000</pubDate>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>2</itunes:episode>
+    </item>
+    <item>
+      <title>Carol of the Bells - soprane1-soprane2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1qBuOkkvqc8dQhytWMv0QtDcFl7hsJfjF</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1qBuOkkvqc8dQhytWMv0QtDcFl7hsJfjF" length="1492224" type="audio/mpeg"/>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <itunes:season>9</itunes:season>
       <itunes:episode>1</itunes:episode>
     </item>
   </channel>
