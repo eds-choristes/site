@@ -10,7 +10,9 @@ TRACKS:
  - Emorio-basse1-basse2.mp3
  - Sisi ni moja - basse1-basse2.mp3
  - MollyMaloneIF-basse2.mp3
- - Skye Boat Song-basse1-basse2.mp3</description>
+ - Skye Boat Song-basse1-basse2.mp3
+ - Muirsheen Durkin - basse2.mp3
+ - Carol of the Bells - basse1-basse2.mp3</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
@@ -18,53 +20,69 @@ TRACKS:
       <title>BASSE2 Programme2025</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Tue, 02 Sep 2025 20:55:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Sep 2025 19:34:52 +0000</lastBuildDate>
     <item>
       <title>Human - basse1-basse2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=19fGTM2HOFMoaJwG5cETRLNbm8hHA4ASf</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=19fGTM2HOFMoaJwG5cETRLNbm8hHA4ASf" length="3892320" type="audio/mpeg"/>
-      <pubDate>Mon, 01 Sep 2025 00:05:00 +0000</pubDate>
-      <itunes:season>7</itunes:season>
-      <itunes:episode>6</itunes:episode>
+      <pubDate>Wed, 10 Sep 2025 00:07:00 +0000</pubDate>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>8</itunes:episode>
     </item>
     <item>
       <title>Za Ma Ba - basse1-basse2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1sJ9tpgO7kvVlPRZhwWrjgeCzjHC6dFcB</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1sJ9tpgO7kvVlPRZhwWrjgeCzjHC6dFcB" length="2217600" type="audio/mpeg"/>
-      <pubDate>Mon, 01 Sep 2025 00:04:00 +0000</pubDate>
-      <itunes:season>7</itunes:season>
-      <itunes:episode>5</itunes:episode>
+      <pubDate>Wed, 10 Sep 2025 00:06:00 +0000</pubDate>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>7</itunes:episode>
     </item>
     <item>
       <title>Emorio-basse1-basse2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1F5bsy88QNh4VxpyLrGOlIiAL969DM1FD</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1F5bsy88QNh4VxpyLrGOlIiAL969DM1FD" length="685130" type="audio/mpeg"/>
-      <pubDate>Mon, 01 Sep 2025 00:03:00 +0000</pubDate>
-      <itunes:season>7</itunes:season>
-      <itunes:episode>4</itunes:episode>
+      <pubDate>Wed, 10 Sep 2025 00:05:00 +0000</pubDate>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>6</itunes:episode>
     </item>
     <item>
       <title>Sisi ni moja - basse1-basse2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1Q8hMWKjQOw9zU718x4va_HXEZnB029nB</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Q8hMWKjQOw9zU718x4va_HXEZnB029nB" length="5268960" type="audio/mpeg"/>
-      <pubDate>Mon, 01 Sep 2025 00:02:00 +0000</pubDate>
-      <itunes:season>7</itunes:season>
-      <itunes:episode>3</itunes:episode>
+      <pubDate>Wed, 10 Sep 2025 00:04:00 +0000</pubDate>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>5</itunes:episode>
     </item>
     <item>
       <title>MollyMaloneIF-basse2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=12CEaKE1ezb9kW_DFpStFdqisN_srRAJ9</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=12CEaKE1ezb9kW_DFpStFdqisN_srRAJ9" length="1975526" type="audio/mpeg"/>
-      <pubDate>Mon, 01 Sep 2025 00:01:00 +0000</pubDate>
-      <itunes:season>7</itunes:season>
-      <itunes:episode>2</itunes:episode>
+      <pubDate>Wed, 10 Sep 2025 00:03:00 +0000</pubDate>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>4</itunes:episode>
     </item>
     <item>
       <title>Skye Boat Song-basse1-basse2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1nAq3_pfGtuGcNghy5xa29Y50Y1vzvxR0</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1nAq3_pfGtuGcNghy5xa29Y50Y1vzvxR0" length="4218966" type="audio/mpeg"/>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
-      <itunes:season>7</itunes:season>
+      <pubDate>Wed, 10 Sep 2025 00:02:00 +0000</pubDate>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>3</itunes:episode>
+    </item>
+    <item>
+      <title>Muirsheen Durkin - basse2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1vCcWcCFwy8YW0j3oOs4I6EKWv2LxA0Nb</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1vCcWcCFwy8YW0j3oOs4I6EKWv2LxA0Nb" length="4224960" type="audio/mpeg"/>
+      <pubDate>Wed, 10 Sep 2025 00:01:00 +0000</pubDate>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>2</itunes:episode>
+    </item>
+    <item>
+      <title>Carol of the Bells - basse1-basse2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1OiaPlj7nI3gUEZReifZrRqeOpdzfI8xX</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1OiaPlj7nI3gUEZReifZrRqeOpdzfI8xX" length="1492224" type="audio/mpeg"/>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <itunes:season>9</itunes:season>
       <itunes:episode>1</itunes:episode>
     </item>
   </channel>
