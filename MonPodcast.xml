@@ -5,6 +5,7 @@
     <link>https://podcast.echodespy.net</link>
     <description>PLAYLIST: Mon Podcast
 TRACKS:
+ - 00 Histoire Demonty.mp4
  - 01 L'art invisible (video).mp4
  - 02 Sonoriser la musique acoustique - Hérésie ou Optimisation.mp4
  - 03 La civilisation de la peur - Nicolas Bouzou.mp4
@@ -16,12 +17,20 @@ TRACKS:
       <title>Mon Podcast</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Wed, 10 Sep 2025 11:26:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Sep 2025 21:00:34 +0000</lastBuildDate>
+    <item>
+      <title>00 Histoire Demonty.mp4</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=17W3gVjWbz34S93RNZw2DYwzm3ypWhwpe</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=17W3gVjWbz34S93RNZw2DYwzm3ypWhwpe" length="13614630" type="audio/mpeg"/>
+      <pubDate>Sat, 13 Sep 2025 00:04:00 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>5</itunes:episode>
+    </item>
     <item>
       <title>01 L'art invisible (video).mp4</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1W3bX6cGItrRBz6PEYNZnQnjd6QBYVffS</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1W3bX6cGItrRBz6PEYNZnQnjd6QBYVffS" length="20347026" type="audio/mpeg"/>
-      <pubDate>Tue, 09 Sep 2025 00:03:00 +0000</pubDate>
+      <pubDate>Sat, 13 Sep 2025 00:03:00 +0000</pubDate>
       <itunes:season>1</itunes:season>
       <itunes:episode>4</itunes:episode>
     </item>
@@ -29,7 +38,7 @@ TRACKS:
       <title>02 Sonoriser la musique acoustique - Hérésie ou Optimisation.mp4</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1IerTalORfVJhs0exUSAr6Z5iZsVNpQKv</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1IerTalORfVJhs0exUSAr6Z5iZsVNpQKv" length="24339138" type="audio/mpeg"/>
-      <pubDate>Tue, 09 Sep 2025 00:02:00 +0000</pubDate>
+      <pubDate>Sat, 13 Sep 2025 00:02:00 +0000</pubDate>
       <itunes:season>1</itunes:season>
       <itunes:episode>3</itunes:episode>
     </item>
@@ -37,7 +46,7 @@ TRACKS:
       <title>03 La civilisation de la peur - Nicolas Bouzou.mp4</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1yIM8aLFinG8M8dWuHE9sQfZ0x1uyr00d</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1yIM8aLFinG8M8dWuHE9sQfZ0x1uyr00d" length="35215481" type="audio/mpeg"/>
-      <pubDate>Tue, 09 Sep 2025 00:01:00 +0000</pubDate>
+      <pubDate>Sat, 13 Sep 2025 00:01:00 +0000</pubDate>
       <itunes:season>1</itunes:season>
       <itunes:episode>2</itunes:episode>
     </item>
@@ -45,7 +54,7 @@ TRACKS:
       <title>04 France décarbonée 2050 - Le plan radical du Shift Project.mp4</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1vBjhsst3a2nPRbTk_vrt0FpBOOldqcDu</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1vBjhsst3a2nPRbTk_vrt0FpBOOldqcDu" length="44984249" type="audio/mpeg"/>
-      <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 13 Sep 2025 00:00:00 +0000</pubDate>
       <itunes:season>1</itunes:season>
       <itunes:episode>1</itunes:episode>
     </item>
