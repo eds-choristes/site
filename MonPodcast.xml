@@ -5,11 +5,14 @@
     <link>https://podcast.echodespy.net</link>
     <description>PLAYLIST: Mon Podcast
 TRACKS:
- - 00 Histoire Demonty.mp4
- - 01 L'art invisible (video).mp4
- - 02 Sonoriser la musique acoustique - Hérésie ou Optimisation.mp4
- - 03 La civilisation de la peur - Nicolas Bouzou.mp4
- - 04 France décarbonée 2050 - Le plan radical du Shift Project.mp4</description>
+ - 01 Quand les vaches menerent Leonard Demonty devant l'Empire en 1632.m4a
+ - 02 Un_Troupeau_en_Otage_1628 (video).mp4
+ - 04 La guerre des paturages en 1628.mp3
+ - 05 Origine des Demonty d'Ovifat (vidéo).mp4
+ - 11 Sonoriser la musique acoustique - Hérésie ou Optimisation.mp4
+ - 12 L'art invisible (video).mp4
+ - 21 France décarbonée 2050 - Le plan radical du Shift Project.mp4
+ - 31 La civilisation de la peur - Nicolas Bouzou.mp4</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
@@ -17,44 +20,68 @@ TRACKS:
       <title>Mon Podcast</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Sun, 14 Sep 2025 21:00:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Sep 2025 20:29:46 +0000</lastBuildDate>
     <item>
-      <title>00 Histoire Demonty.mp4</title>
+      <title>01 Quand les vaches menerent Leonard Demonty devant l'Empire en 1632.m4a</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1LudhBgZcpOSQg9oVN2R-8LW2CbgirzYA</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1LudhBgZcpOSQg9oVN2R-8LW2CbgirzYA" length="33754557" type="audio/mpeg"/>
+      <pubDate>Tue, 16 Sep 2025 00:07:00 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>8</itunes:episode>
+    </item>
+    <item>
+      <title>02 Un_Troupeau_en_Otage_1628 (video).mp4</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1VbvWGWt7RWzhOjqyENMuRcl88ur1awqr</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1VbvWGWt7RWzhOjqyENMuRcl88ur1awqr" length="17521665" type="audio/mpeg"/>
+      <pubDate>Tue, 16 Sep 2025 00:06:00 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>7</itunes:episode>
+    </item>
+    <item>
+      <title>04 La guerre des paturages en 1628.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1QVRGiHW4SZ5nLlgyt9odWN4EW15fMa-b</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1QVRGiHW4SZ5nLlgyt9odWN4EW15fMa-b" length="7294955" type="audio/mpeg"/>
+      <pubDate>Tue, 16 Sep 2025 00:05:00 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>6</itunes:episode>
+    </item>
+    <item>
+      <title>05 Origine des Demonty d'Ovifat (vidéo).mp4</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=17W3gVjWbz34S93RNZw2DYwzm3ypWhwpe</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=17W3gVjWbz34S93RNZw2DYwzm3ypWhwpe" length="13614630" type="audio/mpeg"/>
-      <pubDate>Sat, 13 Sep 2025 00:04:00 +0000</pubDate>
+      <pubDate>Tue, 16 Sep 2025 00:04:00 +0000</pubDate>
       <itunes:season>1</itunes:season>
       <itunes:episode>5</itunes:episode>
     </item>
     <item>
-      <title>01 L'art invisible (video).mp4</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1W3bX6cGItrRBz6PEYNZnQnjd6QBYVffS</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1W3bX6cGItrRBz6PEYNZnQnjd6QBYVffS" length="20347026" type="audio/mpeg"/>
-      <pubDate>Sat, 13 Sep 2025 00:03:00 +0000</pubDate>
+      <title>11 Sonoriser la musique acoustique - Hérésie ou Optimisation.mp4</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1IerTalORfVJhs0exUSAr6Z5iZsVNpQKv</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1IerTalORfVJhs0exUSAr6Z5iZsVNpQKv" length="24339138" type="audio/mpeg"/>
+      <pubDate>Tue, 16 Sep 2025 00:03:00 +0000</pubDate>
       <itunes:season>1</itunes:season>
       <itunes:episode>4</itunes:episode>
     </item>
     <item>
-      <title>02 Sonoriser la musique acoustique - Hérésie ou Optimisation.mp4</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1IerTalORfVJhs0exUSAr6Z5iZsVNpQKv</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1IerTalORfVJhs0exUSAr6Z5iZsVNpQKv" length="24339138" type="audio/mpeg"/>
-      <pubDate>Sat, 13 Sep 2025 00:02:00 +0000</pubDate>
+      <title>12 L'art invisible (video).mp4</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1W3bX6cGItrRBz6PEYNZnQnjd6QBYVffS</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1W3bX6cGItrRBz6PEYNZnQnjd6QBYVffS" length="20347026" type="audio/mpeg"/>
+      <pubDate>Tue, 16 Sep 2025 00:02:00 +0000</pubDate>
       <itunes:season>1</itunes:season>
       <itunes:episode>3</itunes:episode>
     </item>
     <item>
-      <title>03 La civilisation de la peur - Nicolas Bouzou.mp4</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1yIM8aLFinG8M8dWuHE9sQfZ0x1uyr00d</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1yIM8aLFinG8M8dWuHE9sQfZ0x1uyr00d" length="35215481" type="audio/mpeg"/>
-      <pubDate>Sat, 13 Sep 2025 00:01:00 +0000</pubDate>
+      <title>21 France décarbonée 2050 - Le plan radical du Shift Project.mp4</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1vBjhsst3a2nPRbTk_vrt0FpBOOldqcDu</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1vBjhsst3a2nPRbTk_vrt0FpBOOldqcDu" length="44984249" type="audio/mpeg"/>
+      <pubDate>Tue, 16 Sep 2025 00:01:00 +0000</pubDate>
       <itunes:season>1</itunes:season>
       <itunes:episode>2</itunes:episode>
     </item>
     <item>
-      <title>04 France décarbonée 2050 - Le plan radical du Shift Project.mp4</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1vBjhsst3a2nPRbTk_vrt0FpBOOldqcDu</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1vBjhsst3a2nPRbTk_vrt0FpBOOldqcDu" length="44984249" type="audio/mpeg"/>
-      <pubDate>Sat, 13 Sep 2025 00:00:00 +0000</pubDate>
+      <title>31 La civilisation de la peur - Nicolas Bouzou.mp4</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1yIM8aLFinG8M8dWuHE9sQfZ0x1uyr00d</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1yIM8aLFinG8M8dWuHE9sQfZ0x1uyr00d" length="35215481" type="audio/mpeg"/>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
       <itunes:season>1</itunes:season>
       <itunes:episode>1</itunes:episode>
     </item>
