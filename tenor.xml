@@ -12,6 +12,8 @@ TRACKS:
  - MollyMaloneIF-tenor.mp3
  - Skye Boat Song-tenor.mp3
  - Muirsheen Durkin - tenor.mp3
+ - Walking In The Air - tenor.mp3
+ - Last Christmas - tenor.mp3
  - Carol of the Bells - tenor.mp3</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
@@ -20,69 +22,85 @@ TRACKS:
       <title>TENOR Programme2025</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Thu, 11 Sep 2025 19:34:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Sep 2025 16:44:09 +0000</lastBuildDate>
     <item>
       <title>Human - tenor.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1_oSGQFYo5UuSFWDTPFdez4N8_uKcni2b</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_oSGQFYo5UuSFWDTPFdez4N8_uKcni2b" length="3892320" type="audio/mpeg"/>
-      <pubDate>Wed, 10 Sep 2025 00:07:00 +0000</pubDate>
-      <itunes:season>9</itunes:season>
-      <itunes:episode>8</itunes:episode>
+      <pubDate>Mon, 22 Sep 2025 00:09:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>10</itunes:episode>
     </item>
     <item>
       <title>Za Ma Ba - tenor.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1jQtFlxucpUsOThZLA10d_KyWrD11n1RP</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1jQtFlxucpUsOThZLA10d_KyWrD11n1RP" length="2217600" type="audio/mpeg"/>
-      <pubDate>Wed, 10 Sep 2025 00:06:00 +0000</pubDate>
-      <itunes:season>9</itunes:season>
-      <itunes:episode>7</itunes:episode>
+      <pubDate>Mon, 22 Sep 2025 00:08:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>9</itunes:episode>
     </item>
     <item>
       <title>Emorio-tenor.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1acrL0lSnf0SvYrrre5lZJrXILWusrm--</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1acrL0lSnf0SvYrrre5lZJrXILWusrm--" length="669581" type="audio/mpeg"/>
-      <pubDate>Wed, 10 Sep 2025 00:05:00 +0000</pubDate>
-      <itunes:season>9</itunes:season>
-      <itunes:episode>6</itunes:episode>
+      <pubDate>Mon, 22 Sep 2025 00:07:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>8</itunes:episode>
     </item>
     <item>
       <title>Sisi ni moja - tenor.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ajgFqUVfFlOtW4Jc_mpplyc5sn-zVbFx</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ajgFqUVfFlOtW4Jc_mpplyc5sn-zVbFx" length="5268960" type="audio/mpeg"/>
-      <pubDate>Wed, 10 Sep 2025 00:04:00 +0000</pubDate>
-      <itunes:season>9</itunes:season>
-      <itunes:episode>5</itunes:episode>
+      <pubDate>Mon, 22 Sep 2025 00:06:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>7</itunes:episode>
     </item>
     <item>
       <title>MollyMaloneIF-tenor.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1nKfnrtlY0UR_wPjO0G0GZZ0lS2sACDbx</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1nKfnrtlY0UR_wPjO0G0GZZ0lS2sACDbx" length="1958684" type="audio/mpeg"/>
-      <pubDate>Wed, 10 Sep 2025 00:03:00 +0000</pubDate>
-      <itunes:season>9</itunes:season>
-      <itunes:episode>4</itunes:episode>
+      <pubDate>Mon, 22 Sep 2025 00:05:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>6</itunes:episode>
     </item>
     <item>
       <title>Skye Boat Song-tenor.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1qkrMNw-sNUpcJkipk1Dewne9yraubXym</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1qkrMNw-sNUpcJkipk1Dewne9yraubXym" length="4210816" type="audio/mpeg"/>
-      <pubDate>Wed, 10 Sep 2025 00:02:00 +0000</pubDate>
-      <itunes:season>9</itunes:season>
-      <itunes:episode>3</itunes:episode>
+      <pubDate>Mon, 22 Sep 2025 00:04:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>5</itunes:episode>
     </item>
     <item>
       <title>Muirsheen Durkin - tenor.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1vVHkBe7vXqPoLgjs6UDwWv1HJtIDAh6o</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1vVHkBe7vXqPoLgjs6UDwWv1HJtIDAh6o" length="4224960" type="audio/mpeg"/>
-      <pubDate>Wed, 10 Sep 2025 00:01:00 +0000</pubDate>
-      <itunes:season>9</itunes:season>
+      <pubDate>Mon, 22 Sep 2025 00:03:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>4</itunes:episode>
+    </item>
+    <item>
+      <title>Walking In The Air - tenor.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1MiTbVMLi2ebE9Js1BqYghcMljgENCllo</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1MiTbVMLi2ebE9Js1BqYghcMljgENCllo" length="3989760" type="audio/mpeg"/>
+      <pubDate>Mon, 22 Sep 2025 00:02:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>3</itunes:episode>
+    </item>
+    <item>
+      <title>Last Christmas - tenor.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1zRJ2FCPlflYksmzJSlzfAaPrVxKu-KvN</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1zRJ2FCPlflYksmzJSlzfAaPrVxKu-KvN" length="4478880" type="audio/mpeg"/>
+      <pubDate>Mon, 22 Sep 2025 00:01:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
       <itunes:episode>2</itunes:episode>
     </item>
     <item>
       <title>Carol of the Bells - tenor.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1z1-jkzG9m4wcD-gZfQDFfwjGBgXLSHRv</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1z1-jkzG9m4wcD-gZfQDFfwjGBgXLSHRv" length="1492224" type="audio/mpeg"/>
-      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
-      <itunes:season>9</itunes:season>
+      <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
       <itunes:episode>1</itunes:episode>
     </item>
   </channel>
