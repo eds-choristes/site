@@ -14,7 +14,8 @@ TRACKS:
  - Muirsheen Durkin - soprane1.mp3
  - Walking In The Air - soprane1-soprane2.mp3
  - Last Christmas - soprane1-soprane2.mp3
- - Carol of the Bells - soprane1-soprane2.mp3</description>
+ - Carol of the Bells - soprane1-soprane2.mp3
+ - Cliffs of Doneen - soprane1.mp3</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
@@ -22,85 +23,93 @@ TRACKS:
       <title>SOPRANE1 Programme2025</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Tue, 23 Sep 2025 16:43:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 20:43:37 +0000</lastBuildDate>
     <item>
       <title>Human - soprane1.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=10TrBEyFTAYBhbl2XF8o-7hYFnH1P8sNe</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=10TrBEyFTAYBhbl2XF8o-7hYFnH1P8sNe" length="3892320" type="audio/mpeg"/>
-      <pubDate>Mon, 22 Sep 2025 00:09:00 +0000</pubDate>
-      <itunes:season>10</itunes:season>
-      <itunes:episode>10</itunes:episode>
+      <pubDate>Thu, 16 Oct 2025 00:10:00 +0000</pubDate>
+      <itunes:season>11</itunes:season>
+      <itunes:episode>11</itunes:episode>
     </item>
     <item>
       <title>Za Ma Ba - soprane1-soprane2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=19B6yLEImihhDuywAWW074-DLN1zKftXJ</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=19B6yLEImihhDuywAWW074-DLN1zKftXJ" length="2217600" type="audio/mpeg"/>
-      <pubDate>Mon, 22 Sep 2025 00:08:00 +0000</pubDate>
-      <itunes:season>10</itunes:season>
-      <itunes:episode>9</itunes:episode>
+      <pubDate>Thu, 16 Oct 2025 00:09:00 +0000</pubDate>
+      <itunes:season>11</itunes:season>
+      <itunes:episode>10</itunes:episode>
     </item>
     <item>
       <title>Emorio-soprane1.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1NJeiA4eY35zdKdqj3V9Tdist-tr69mNa</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1NJeiA4eY35zdKdqj3V9Tdist-tr69mNa" length="673891" type="audio/mpeg"/>
-      <pubDate>Mon, 22 Sep 2025 00:07:00 +0000</pubDate>
-      <itunes:season>10</itunes:season>
-      <itunes:episode>8</itunes:episode>
+      <pubDate>Thu, 16 Oct 2025 00:08:00 +0000</pubDate>
+      <itunes:season>11</itunes:season>
+      <itunes:episode>9</itunes:episode>
     </item>
     <item>
       <title>Sisi ni moja - soprane1.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ObbjI_K5ABn2zkWRBRfU5OqqoLMhT7ZU</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ObbjI_K5ABn2zkWRBRfU5OqqoLMhT7ZU" length="5268960" type="audio/mpeg"/>
-      <pubDate>Mon, 22 Sep 2025 00:06:00 +0000</pubDate>
-      <itunes:season>10</itunes:season>
-      <itunes:episode>7</itunes:episode>
+      <pubDate>Thu, 16 Oct 2025 00:07:00 +0000</pubDate>
+      <itunes:season>11</itunes:season>
+      <itunes:episode>8</itunes:episode>
     </item>
     <item>
       <title>MollyMaloneIF-soprane1-soprane2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1cVRK56DfHnc4UVoaVCGNeNc_Riq20RE6</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1cVRK56DfHnc4UVoaVCGNeNc_Riq20RE6" length="1979115" type="audio/mpeg"/>
-      <pubDate>Mon, 22 Sep 2025 00:05:00 +0000</pubDate>
-      <itunes:season>10</itunes:season>
-      <itunes:episode>6</itunes:episode>
+      <pubDate>Thu, 16 Oct 2025 00:06:00 +0000</pubDate>
+      <itunes:season>11</itunes:season>
+      <itunes:episode>7</itunes:episode>
     </item>
     <item>
       <title>Skye Boat Song-soprane1.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1v7KKdRZg9z_Lod0czarBro2GDTZG0gc9</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1v7KKdRZg9z_Lod0czarBro2GDTZG0gc9" length="4222727" type="audio/mpeg"/>
-      <pubDate>Mon, 22 Sep 2025 00:04:00 +0000</pubDate>
-      <itunes:season>10</itunes:season>
-      <itunes:episode>5</itunes:episode>
+      <pubDate>Thu, 16 Oct 2025 00:05:00 +0000</pubDate>
+      <itunes:season>11</itunes:season>
+      <itunes:episode>6</itunes:episode>
     </item>
     <item>
       <title>Muirsheen Durkin - soprane1.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1P-mtGJsw_YWSyxgYR0vh933KZxzGHIef</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1P-mtGJsw_YWSyxgYR0vh933KZxzGHIef" length="4224960" type="audio/mpeg"/>
-      <pubDate>Mon, 22 Sep 2025 00:03:00 +0000</pubDate>
-      <itunes:season>10</itunes:season>
-      <itunes:episode>4</itunes:episode>
+      <pubDate>Thu, 16 Oct 2025 00:04:00 +0000</pubDate>
+      <itunes:season>11</itunes:season>
+      <itunes:episode>5</itunes:episode>
     </item>
     <item>
       <title>Walking In The Air - soprane1-soprane2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1YSvR5nzn_h_pHDMJOhueHfbH3m27I1qH</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1YSvR5nzn_h_pHDMJOhueHfbH3m27I1qH" length="3989760" type="audio/mpeg"/>
-      <pubDate>Mon, 22 Sep 2025 00:02:00 +0000</pubDate>
-      <itunes:season>10</itunes:season>
-      <itunes:episode>3</itunes:episode>
+      <pubDate>Thu, 16 Oct 2025 00:03:00 +0000</pubDate>
+      <itunes:season>11</itunes:season>
+      <itunes:episode>4</itunes:episode>
     </item>
     <item>
       <title>Last Christmas - soprane1-soprane2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1j6iTWNEJD4_wXJbsi2ZZWjixU_6LMubN</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1j6iTWNEJD4_wXJbsi2ZZWjixU_6LMubN" length="4478880" type="audio/mpeg"/>
-      <pubDate>Mon, 22 Sep 2025 00:01:00 +0000</pubDate>
-      <itunes:season>10</itunes:season>
-      <itunes:episode>2</itunes:episode>
+      <pubDate>Thu, 16 Oct 2025 00:02:00 +0000</pubDate>
+      <itunes:season>11</itunes:season>
+      <itunes:episode>3</itunes:episode>
     </item>
     <item>
       <title>Carol of the Bells - soprane1-soprane2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1qBuOkkvqc8dQhytWMv0QtDcFl7hsJfjF</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1qBuOkkvqc8dQhytWMv0QtDcFl7hsJfjF" length="1492224" type="audio/mpeg"/>
-      <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
-      <itunes:season>10</itunes:season>
+      <pubDate>Thu, 16 Oct 2025 00:01:00 +0000</pubDate>
+      <itunes:season>11</itunes:season>
+      <itunes:episode>2</itunes:episode>
+    </item>
+    <item>
+      <title>Cliffs of Doneen - soprane1.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=13jAHv2fxiqefZYcW5LOnlGduew_06xaV</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=13jAHv2fxiqefZYcW5LOnlGduew_06xaV" length="2685120" type="audio/mpeg"/>
+      <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
+      <itunes:season>11</itunes:season>
       <itunes:episode>1</itunes:episode>
     </item>
   </channel>
