@@ -5,16 +5,14 @@
     <link>https://podcast.echodespy.net</link>
     <description>PLAYLIST: BASSE1 Programme2025
 TRACKS:
- - IrishBlessing-basse1-basse2.mp3
- - JulJul - basse1-basse2.mp3
- - deckthehall-fr-basse1-basse2.mp3
- - noellanaro-basse1-basse2.mp3
- - Les anges dans nos campagnes - basse1-basse2.mp3
- - Douce nuit (allemand) - basse1-basse2.mp3
- - Walking In The Air - basse1-basse2.mp3
- - Carol of the Bells - basse1-basse2.mp3
- - Last Christmas - basse1-basse2.mp3
- - Sisi ni moja - basse1-basse2.mp3</description>
+ - Human - basse1-basse2.mp3
+ - Emorio-basse1-basse2.mp3
+ - Za Ma Ba - basse1-basse2.mp3
+ - Skye Boat Song-basse1-basse2.mp3
+ - A PLACE IN HEAVEN - basse1-basse2.mp3
+ - Muirsheen Durkin - basse1.mp3
+ - MollyMaloneIF-basse1.mp3
+ - Cliffs of Doneen - basse1.mp3</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
@@ -22,85 +20,69 @@ TRACKS:
       <title>BASSE1 Programme2025</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Tue, 18 Nov 2025 21:56:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 21:23:51 +0000</lastBuildDate>
     <item>
-      <title>IrishBlessing-basse1-basse2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1-EvqdcPhPlNO1Irp3ge2BMAInSmX3WNz</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1-EvqdcPhPlNO1Irp3ge2BMAInSmX3WNz" length="1063482" type="audio/mpeg"/>
-      <pubDate>Mon, 17 Nov 2025 00:09:00 +0000</pubDate>
-      <itunes:season>12</itunes:season>
-      <itunes:episode>10</itunes:episode>
-    </item>
-    <item>
-      <title>JulJul - basse1-basse2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=163knBNv_uvlqNpuH6E1IITUIliUXfyBJ</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=163knBNv_uvlqNpuH6E1IITUIliUXfyBJ" length="2175840" type="audio/mpeg"/>
-      <pubDate>Mon, 17 Nov 2025 00:08:00 +0000</pubDate>
-      <itunes:season>12</itunes:season>
-      <itunes:episode>9</itunes:episode>
-    </item>
-    <item>
-      <title>deckthehall-fr-basse1-basse2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1wwq6nnD3OgIhnTDIMxwSbtbDCu9MWX0F</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1wwq6nnD3OgIhnTDIMxwSbtbDCu9MWX0F" length="814446" type="audio/mpeg"/>
-      <pubDate>Mon, 17 Nov 2025 00:07:00 +0000</pubDate>
-      <itunes:season>12</itunes:season>
+      <title>Human - basse1-basse2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=19fGTM2HOFMoaJwG5cETRLNbm8hHA4ASf</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=19fGTM2HOFMoaJwG5cETRLNbm8hHA4ASf" length="3892320" type="audio/mpeg"/>
+      <pubDate>Wed, 10 Dec 2025 00:07:00 +0000</pubDate>
+      <itunes:season>13</itunes:season>
       <itunes:episode>8</itunes:episode>
     </item>
     <item>
-      <title>noellanaro-basse1-basse2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1CINeXhyyAEHT1PtZtyQIJSiQFz5l9lWj</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1CINeXhyyAEHT1PtZtyQIJSiQFz5l9lWj" length="1053682" type="audio/mpeg"/>
-      <pubDate>Mon, 17 Nov 2025 00:06:00 +0000</pubDate>
-      <itunes:season>12</itunes:season>
+      <title>Emorio-basse1-basse2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1F5bsy88QNh4VxpyLrGOlIiAL969DM1FD</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1F5bsy88QNh4VxpyLrGOlIiAL969DM1FD" length="685130" type="audio/mpeg"/>
+      <pubDate>Wed, 10 Dec 2025 00:06:00 +0000</pubDate>
+      <itunes:season>13</itunes:season>
       <itunes:episode>7</itunes:episode>
     </item>
     <item>
-      <title>Les anges dans nos campagnes - basse1-basse2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1umznGVsS5IQYbLg1UJ5z-GrhanfWSy2_</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1umznGVsS5IQYbLg1UJ5z-GrhanfWSy2_" length="2585280" type="audio/mpeg"/>
-      <pubDate>Mon, 17 Nov 2025 00:05:00 +0000</pubDate>
-      <itunes:season>12</itunes:season>
+      <title>Za Ma Ba - basse1-basse2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1sJ9tpgO7kvVlPRZhwWrjgeCzjHC6dFcB</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1sJ9tpgO7kvVlPRZhwWrjgeCzjHC6dFcB" length="2217600" type="audio/mpeg"/>
+      <pubDate>Wed, 10 Dec 2025 00:05:00 +0000</pubDate>
+      <itunes:season>13</itunes:season>
       <itunes:episode>6</itunes:episode>
     </item>
     <item>
-      <title>Douce nuit (allemand) - basse1-basse2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1XNLhvzv48BEEEyrmLeN1ZIAfWCGQgCcw</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1XNLhvzv48BEEEyrmLeN1ZIAfWCGQgCcw" length="888000" type="audio/mpeg"/>
-      <pubDate>Mon, 17 Nov 2025 00:04:00 +0000</pubDate>
-      <itunes:season>12</itunes:season>
+      <title>Skye Boat Song-basse1-basse2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1nAq3_pfGtuGcNghy5xa29Y50Y1vzvxR0</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1nAq3_pfGtuGcNghy5xa29Y50Y1vzvxR0" length="4218966" type="audio/mpeg"/>
+      <pubDate>Wed, 10 Dec 2025 00:04:00 +0000</pubDate>
+      <itunes:season>13</itunes:season>
       <itunes:episode>5</itunes:episode>
     </item>
     <item>
-      <title>Walking In The Air - basse1-basse2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1fuaQZY9vZT4Rq4_jocyLtD-6fdu35N8q</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1fuaQZY9vZT4Rq4_jocyLtD-6fdu35N8q" length="3989760" type="audio/mpeg"/>
-      <pubDate>Mon, 17 Nov 2025 00:03:00 +0000</pubDate>
-      <itunes:season>12</itunes:season>
+      <title>A PLACE IN HEAVEN - basse1-basse2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ny23gYyaZ1EsAH96vqywkg6fVCFZlz5z</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ny23gYyaZ1EsAH96vqywkg6fVCFZlz5z" length="2515278" type="audio/mpeg"/>
+      <pubDate>Wed, 10 Dec 2025 00:03:00 +0000</pubDate>
+      <itunes:season>13</itunes:season>
       <itunes:episode>4</itunes:episode>
     </item>
     <item>
-      <title>Carol of the Bells - basse1-basse2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1OiaPlj7nI3gUEZReifZrRqeOpdzfI8xX</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1OiaPlj7nI3gUEZReifZrRqeOpdzfI8xX" length="1492224" type="audio/mpeg"/>
-      <pubDate>Mon, 17 Nov 2025 00:02:00 +0000</pubDate>
-      <itunes:season>12</itunes:season>
+      <title>Muirsheen Durkin - basse1.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1IWxJdSDL-ZibSY6qILfleE4tAI62hCci</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1IWxJdSDL-ZibSY6qILfleE4tAI62hCci" length="4224960" type="audio/mpeg"/>
+      <pubDate>Wed, 10 Dec 2025 00:02:00 +0000</pubDate>
+      <itunes:season>13</itunes:season>
       <itunes:episode>3</itunes:episode>
     </item>
     <item>
-      <title>Last Christmas - basse1-basse2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1e6eg_veKIkP07UWXpyjBsxl-f6wU_K4K</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1e6eg_veKIkP07UWXpyjBsxl-f6wU_K4K" length="4478880" type="audio/mpeg"/>
-      <pubDate>Mon, 17 Nov 2025 00:01:00 +0000</pubDate>
-      <itunes:season>12</itunes:season>
+      <title>MollyMaloneIF-basse1.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1aEevZrdp-URk-DbexK5LWdl_DyPtR08H</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1aEevZrdp-URk-DbexK5LWdl_DyPtR08H" length="1972477" type="audio/mpeg"/>
+      <pubDate>Wed, 10 Dec 2025 00:01:00 +0000</pubDate>
+      <itunes:season>13</itunes:season>
       <itunes:episode>2</itunes:episode>
     </item>
     <item>
-      <title>Sisi ni moja - basse1-basse2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1Q8hMWKjQOw9zU718x4va_HXEZnB029nB</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Q8hMWKjQOw9zU718x4va_HXEZnB029nB" length="5268960" type="audio/mpeg"/>
-      <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
-      <itunes:season>12</itunes:season>
+      <title>Cliffs of Doneen - basse1.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1pIXhHyVSdA8dVjhkNR9DkT2uRVULlLfB</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1pIXhHyVSdA8dVjhkNR9DkT2uRVULlLfB" length="2685120" type="audio/mpeg"/>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+      <itunes:season>13</itunes:season>
       <itunes:episode>1</itunes:episode>
     </item>
   </channel>
