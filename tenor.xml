@@ -5,16 +5,14 @@
     <link>https://podcast.echodespy.net</link>
     <description>PLAYLIST: TENOR Programme2025
 TRACKS:
- - IrishBlessing-tenor.mp3
- - JulJul - tenor.mp3
- - deckthehall-tenor.mp3
- - noellanaro-tenor.mp3
- - Les anges dans nos campagnes - tenor.mp3
- - Douce nuit (allemand) - tenor.mp3
- - Walking In The Air - tenor.mp3
- - Carol of the Bells - tenor.mp3
- - Last Christmas - tenor.mp3
- - Sisi ni moja - tenor.mp3</description>
+ - Human - tenor.mp3
+ - Emorio-tenor.mp3
+ - Za Ma Ba - tenor.mp3
+ - Skye Boat Song-tenor.mp3
+ - A PLACE IN HEAVEN - tenor.mp3
+ - Muirsheen Durkin - tenor.mp3
+ - MollyMaloneIF-tenor.mp3
+ - Cliffs of Doneen - tenor.mp3</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
@@ -22,85 +20,69 @@ TRACKS:
       <title>TENOR Programme2025</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Tue, 18 Nov 2025 21:56:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 21:23:37 +0000</lastBuildDate>
     <item>
-      <title>IrishBlessing-tenor.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1-WS7d3KG9WFiHw29TYKb2suh_EBJw1Wq</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1-WS7d3KG9WFiHw29TYKb2suh_EBJw1Wq" length="1001637" type="audio/mpeg"/>
-      <pubDate>Mon, 17 Nov 2025 00:09:00 +0000</pubDate>
-      <itunes:season>12</itunes:season>
-      <itunes:episode>10</itunes:episode>
-    </item>
-    <item>
-      <title>JulJul - tenor.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1EJvFjmguEzi9xdOZBXNGKadj_I6N-hCe</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1EJvFjmguEzi9xdOZBXNGKadj_I6N-hCe" length="2175840" type="audio/mpeg"/>
-      <pubDate>Mon, 17 Nov 2025 00:08:00 +0000</pubDate>
-      <itunes:season>12</itunes:season>
-      <itunes:episode>9</itunes:episode>
-    </item>
-    <item>
-      <title>deckthehall-tenor.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1t3dXf37BHVR4PqVnIW8le-JOwioUSsLZ</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1t3dXf37BHVR4PqVnIW8le-JOwioUSsLZ" length="927267" type="audio/mpeg"/>
-      <pubDate>Mon, 17 Nov 2025 00:07:00 +0000</pubDate>
-      <itunes:season>12</itunes:season>
+      <title>Human - tenor.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1_oSGQFYo5UuSFWDTPFdez4N8_uKcni2b</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_oSGQFYo5UuSFWDTPFdez4N8_uKcni2b" length="3892320" type="audio/mpeg"/>
+      <pubDate>Wed, 10 Dec 2025 00:07:00 +0000</pubDate>
+      <itunes:season>13</itunes:season>
       <itunes:episode>8</itunes:episode>
     </item>
     <item>
-      <title>noellanaro-tenor.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=16fUcpsMQwUaHbHnvMda7HN7k82bcQ-kn</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=16fUcpsMQwUaHbHnvMda7HN7k82bcQ-kn" length="883489" type="audio/mpeg"/>
-      <pubDate>Mon, 17 Nov 2025 00:06:00 +0000</pubDate>
-      <itunes:season>12</itunes:season>
+      <title>Emorio-tenor.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1acrL0lSnf0SvYrrre5lZJrXILWusrm--</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1acrL0lSnf0SvYrrre5lZJrXILWusrm--" length="669581" type="audio/mpeg"/>
+      <pubDate>Wed, 10 Dec 2025 00:06:00 +0000</pubDate>
+      <itunes:season>13</itunes:season>
       <itunes:episode>7</itunes:episode>
     </item>
     <item>
-      <title>Les anges dans nos campagnes - tenor.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1_IiPVPWHlKXUgC_6_rVRFC6HzHncriQI</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_IiPVPWHlKXUgC_6_rVRFC6HzHncriQI" length="2585280" type="audio/mpeg"/>
-      <pubDate>Mon, 17 Nov 2025 00:05:00 +0000</pubDate>
-      <itunes:season>12</itunes:season>
+      <title>Za Ma Ba - tenor.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1jQtFlxucpUsOThZLA10d_KyWrD11n1RP</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1jQtFlxucpUsOThZLA10d_KyWrD11n1RP" length="2217600" type="audio/mpeg"/>
+      <pubDate>Wed, 10 Dec 2025 00:05:00 +0000</pubDate>
+      <itunes:season>13</itunes:season>
       <itunes:episode>6</itunes:episode>
     </item>
     <item>
-      <title>Douce nuit (allemand) - tenor.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1guZvVJCia8rLQP4IJwHGU5hoa08WTp6S</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1guZvVJCia8rLQP4IJwHGU5hoa08WTp6S" length="888000" type="audio/mpeg"/>
-      <pubDate>Mon, 17 Nov 2025 00:04:00 +0000</pubDate>
-      <itunes:season>12</itunes:season>
+      <title>Skye Boat Song-tenor.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1qkrMNw-sNUpcJkipk1Dewne9yraubXym</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1qkrMNw-sNUpcJkipk1Dewne9yraubXym" length="4210816" type="audio/mpeg"/>
+      <pubDate>Wed, 10 Dec 2025 00:04:00 +0000</pubDate>
+      <itunes:season>13</itunes:season>
       <itunes:episode>5</itunes:episode>
     </item>
     <item>
-      <title>Walking In The Air - tenor.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1MiTbVMLi2ebE9Js1BqYghcMljgENCllo</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1MiTbVMLi2ebE9Js1BqYghcMljgENCllo" length="3989760" type="audio/mpeg"/>
-      <pubDate>Mon, 17 Nov 2025 00:03:00 +0000</pubDate>
-      <itunes:season>12</itunes:season>
+      <title>A PLACE IN HEAVEN - tenor.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1473XIVR_YZVbw725bB_V5kml58oUpC03</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1473XIVR_YZVbw725bB_V5kml58oUpC03" length="2515278" type="audio/mpeg"/>
+      <pubDate>Wed, 10 Dec 2025 00:03:00 +0000</pubDate>
+      <itunes:season>13</itunes:season>
       <itunes:episode>4</itunes:episode>
     </item>
     <item>
-      <title>Carol of the Bells - tenor.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1z1-jkzG9m4wcD-gZfQDFfwjGBgXLSHRv</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1z1-jkzG9m4wcD-gZfQDFfwjGBgXLSHRv" length="1492224" type="audio/mpeg"/>
-      <pubDate>Mon, 17 Nov 2025 00:02:00 +0000</pubDate>
-      <itunes:season>12</itunes:season>
+      <title>Muirsheen Durkin - tenor.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1vVHkBe7vXqPoLgjs6UDwWv1HJtIDAh6o</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1vVHkBe7vXqPoLgjs6UDwWv1HJtIDAh6o" length="4224960" type="audio/mpeg"/>
+      <pubDate>Wed, 10 Dec 2025 00:02:00 +0000</pubDate>
+      <itunes:season>13</itunes:season>
       <itunes:episode>3</itunes:episode>
     </item>
     <item>
-      <title>Last Christmas - tenor.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1zRJ2FCPlflYksmzJSlzfAaPrVxKu-KvN</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1zRJ2FCPlflYksmzJSlzfAaPrVxKu-KvN" length="4478880" type="audio/mpeg"/>
-      <pubDate>Mon, 17 Nov 2025 00:01:00 +0000</pubDate>
-      <itunes:season>12</itunes:season>
+      <title>MollyMaloneIF-tenor.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1nKfnrtlY0UR_wPjO0G0GZZ0lS2sACDbx</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1nKfnrtlY0UR_wPjO0G0GZZ0lS2sACDbx" length="1958684" type="audio/mpeg"/>
+      <pubDate>Wed, 10 Dec 2025 00:01:00 +0000</pubDate>
+      <itunes:season>13</itunes:season>
       <itunes:episode>2</itunes:episode>
     </item>
     <item>
-      <title>Sisi ni moja - tenor.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ajgFqUVfFlOtW4Jc_mpplyc5sn-zVbFx</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ajgFqUVfFlOtW4Jc_mpplyc5sn-zVbFx" length="5268960" type="audio/mpeg"/>
-      <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
-      <itunes:season>12</itunes:season>
+      <title>Cliffs of Doneen - tenor.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1e6gua2u8AaAvbPRj8VxaAWhZMBIwCJ69</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1e6gua2u8AaAvbPRj8VxaAWhZMBIwCJ69" length="2685120" type="audio/mpeg"/>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+      <itunes:season>13</itunes:season>
       <itunes:episode>1</itunes:episode>
     </item>
   </channel>
