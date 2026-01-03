@@ -12,7 +12,10 @@ TRACKS:
  - A PLACE IN HEAVEN - basse1-basse2.mp3
  - Muirsheen Durkin - basse1.mp3
  - MollyMaloneIF-basse1.mp3
- - Cliffs of Doneen - basse1.mp3</description>
+ - Cliffs of Doneen - basse1.mp3
+ - Paddy Works - basse1.mp3
+ - illtellmyma-basse1.mp3
+ - the parting glass-basse1.mp3</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
@@ -20,68 +23,92 @@ TRACKS:
       <title>BASSE1 Programme2025</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Thu, 11 Dec 2025 21:23:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jan 2026 22:21:58 +0000</lastBuildDate>
     <item>
       <title>Human - basse1-basse2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=19fGTM2HOFMoaJwG5cETRLNbm8hHA4ASf</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=19fGTM2HOFMoaJwG5cETRLNbm8hHA4ASf" length="3892320" type="audio/mpeg"/>
-      <pubDate>Wed, 10 Dec 2025 00:07:00 +0000</pubDate>
+      <pubDate>Fri, 02 Jan 2026 00:10:00 +0000</pubDate>
       <itunes:season>13</itunes:season>
-      <itunes:episode>8</itunes:episode>
+      <itunes:episode>11</itunes:episode>
     </item>
     <item>
       <title>Emorio-basse1-basse2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1F5bsy88QNh4VxpyLrGOlIiAL969DM1FD</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1F5bsy88QNh4VxpyLrGOlIiAL969DM1FD" length="685130" type="audio/mpeg"/>
-      <pubDate>Wed, 10 Dec 2025 00:06:00 +0000</pubDate>
+      <pubDate>Fri, 02 Jan 2026 00:09:00 +0000</pubDate>
       <itunes:season>13</itunes:season>
-      <itunes:episode>7</itunes:episode>
+      <itunes:episode>10</itunes:episode>
     </item>
     <item>
       <title>Za Ma Ba - basse1-basse2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1sJ9tpgO7kvVlPRZhwWrjgeCzjHC6dFcB</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1sJ9tpgO7kvVlPRZhwWrjgeCzjHC6dFcB" length="2217600" type="audio/mpeg"/>
-      <pubDate>Wed, 10 Dec 2025 00:05:00 +0000</pubDate>
+      <pubDate>Fri, 02 Jan 2026 00:08:00 +0000</pubDate>
       <itunes:season>13</itunes:season>
-      <itunes:episode>6</itunes:episode>
+      <itunes:episode>9</itunes:episode>
     </item>
     <item>
       <title>Skye Boat Song-basse1-basse2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1nAq3_pfGtuGcNghy5xa29Y50Y1vzvxR0</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1nAq3_pfGtuGcNghy5xa29Y50Y1vzvxR0" length="4218966" type="audio/mpeg"/>
-      <pubDate>Wed, 10 Dec 2025 00:04:00 +0000</pubDate>
+      <pubDate>Fri, 02 Jan 2026 00:07:00 +0000</pubDate>
       <itunes:season>13</itunes:season>
-      <itunes:episode>5</itunes:episode>
+      <itunes:episode>8</itunes:episode>
     </item>
     <item>
       <title>A PLACE IN HEAVEN - basse1-basse2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ny23gYyaZ1EsAH96vqywkg6fVCFZlz5z</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ny23gYyaZ1EsAH96vqywkg6fVCFZlz5z" length="2515278" type="audio/mpeg"/>
-      <pubDate>Wed, 10 Dec 2025 00:03:00 +0000</pubDate>
+      <pubDate>Fri, 02 Jan 2026 00:06:00 +0000</pubDate>
       <itunes:season>13</itunes:season>
-      <itunes:episode>4</itunes:episode>
+      <itunes:episode>7</itunes:episode>
     </item>
     <item>
       <title>Muirsheen Durkin - basse1.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1IWxJdSDL-ZibSY6qILfleE4tAI62hCci</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1IWxJdSDL-ZibSY6qILfleE4tAI62hCci" length="4224960" type="audio/mpeg"/>
-      <pubDate>Wed, 10 Dec 2025 00:02:00 +0000</pubDate>
+      <pubDate>Fri, 02 Jan 2026 00:05:00 +0000</pubDate>
       <itunes:season>13</itunes:season>
-      <itunes:episode>3</itunes:episode>
+      <itunes:episode>6</itunes:episode>
     </item>
     <item>
       <title>MollyMaloneIF-basse1.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1aEevZrdp-URk-DbexK5LWdl_DyPtR08H</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1aEevZrdp-URk-DbexK5LWdl_DyPtR08H" length="1972477" type="audio/mpeg"/>
-      <pubDate>Wed, 10 Dec 2025 00:01:00 +0000</pubDate>
+      <pubDate>Fri, 02 Jan 2026 00:04:00 +0000</pubDate>
       <itunes:season>13</itunes:season>
-      <itunes:episode>2</itunes:episode>
+      <itunes:episode>5</itunes:episode>
     </item>
     <item>
       <title>Cliffs of Doneen - basse1.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1pIXhHyVSdA8dVjhkNR9DkT2uRVULlLfB</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1pIXhHyVSdA8dVjhkNR9DkT2uRVULlLfB" length="2685120" type="audio/mpeg"/>
-      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 02 Jan 2026 00:03:00 +0000</pubDate>
+      <itunes:season>13</itunes:season>
+      <itunes:episode>4</itunes:episode>
+    </item>
+    <item>
+      <title>Paddy Works - basse1.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1FiX5qfFeU4wHDLuZDcMg1nz78s79rg-b</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1FiX5qfFeU4wHDLuZDcMg1nz78s79rg-b" length="4067520" type="audio/mpeg"/>
+      <pubDate>Fri, 02 Jan 2026 00:02:00 +0000</pubDate>
+      <itunes:season>13</itunes:season>
+      <itunes:episode>3</itunes:episode>
+    </item>
+    <item>
+      <title>illtellmyma-basse1.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1E7CrkrMHSxtJ9OICJWbDj45CwEID_qzC</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1E7CrkrMHSxtJ9OICJWbDj45CwEID_qzC" length="2643330" type="audio/mpeg"/>
+      <pubDate>Fri, 02 Jan 2026 00:01:00 +0000</pubDate>
+      <itunes:season>13</itunes:season>
+      <itunes:episode>2</itunes:episode>
+    </item>
+    <item>
+      <title>the parting glass-basse1.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1-i5XKRjDaeArIGa6Ka1dnivsEwqpFj2t</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1-i5XKRjDaeArIGa6Ka1dnivsEwqpFj2t" length="2001543" type="audio/mpeg"/>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
       <itunes:season>13</itunes:season>
       <itunes:episode>1</itunes:episode>
     </item>
