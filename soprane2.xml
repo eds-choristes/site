@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>SOPRANE2 Programme2025</title>
+    <title>SOPRANE2 Programme2026</title>
     <link>https://podcast.echodespy.net</link>
-    <description>PLAYLIST: SOPRANE2 Programme2025
+    <description>PLAYLIST: SOPRANE2 Programme2026
 TRACKS:
  - Za Ma Ba - soprane1-soprane2.mp3
  - Skye Boat Song-soprane2.mp3
@@ -17,15 +17,15 @@ TRACKS:
     <generator>python-feedgen</generator>
     <image>
       <url>https://drive.google.com/uc?export=download&amp;id=1UcLZcDyKsVWL-YDB6VufC4k2odKw7QXG</url>
-      <title>SOPRANE2 Programme2025</title>
+      <title>SOPRANE2 Programme2026</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Sun, 11 Jan 2026 16:46:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 20:06:05 +0000</lastBuildDate>
     <item>
       <title>Za Ma Ba - soprane1-soprane2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=19B6yLEImihhDuywAWW074-DLN1zKftXJ</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=19B6yLEImihhDuywAWW074-DLN1zKftXJ" length="2217600" type="audio/mpeg"/>
-      <pubDate>Sat, 10 Jan 2026 00:07:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:07:00 +0000</pubDate>
       <itunes:season>13</itunes:season>
       <itunes:episode>8</itunes:episode>
     </item>
@@ -33,7 +33,7 @@ TRACKS:
       <title>Skye Boat Song-soprane2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1SvwFiQJz7LoTBNLcBNu0YTk9AvPmlDJQ</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1SvwFiQJz7LoTBNLcBNu0YTk9AvPmlDJQ" length="4222727" type="audio/mpeg"/>
-      <pubDate>Sat, 10 Jan 2026 00:06:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:06:00 +0000</pubDate>
       <itunes:season>13</itunes:season>
       <itunes:episode>7</itunes:episode>
     </item>
@@ -41,7 +41,7 @@ TRACKS:
       <title>A PLACE IN HEAVEN - soprane1-soprane2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1tnG0dMZL2CVqh21HUPD4PWnq4wiEIrJX</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1tnG0dMZL2CVqh21HUPD4PWnq4wiEIrJX" length="2515278" type="audio/mpeg"/>
-      <pubDate>Sat, 10 Jan 2026 00:05:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:05:00 +0000</pubDate>
       <itunes:season>13</itunes:season>
       <itunes:episode>6</itunes:episode>
     </item>
@@ -49,7 +49,7 @@ TRACKS:
       <title>Muirsheen Durkin - soprane2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1wEuwV2fdh5sfW7NNacVhhXLE--eWmgnm</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1wEuwV2fdh5sfW7NNacVhhXLE--eWmgnm" length="4224960" type="audio/mpeg"/>
-      <pubDate>Sat, 10 Jan 2026 00:04:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:04:00 +0000</pubDate>
       <itunes:season>13</itunes:season>
       <itunes:episode>5</itunes:episode>
     </item>
@@ -57,7 +57,7 @@ TRACKS:
       <title>MollyMaloneIF-soprane1-soprane2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1cVRK56DfHnc4UVoaVCGNeNc_Riq20RE6</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1cVRK56DfHnc4UVoaVCGNeNc_Riq20RE6" length="1979115" type="audio/mpeg"/>
-      <pubDate>Sat, 10 Jan 2026 00:03:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:03:00 +0000</pubDate>
       <itunes:season>13</itunes:season>
       <itunes:episode>4</itunes:episode>
     </item>
@@ -65,7 +65,7 @@ TRACKS:
       <title>Paddy Works - soprane2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1Vgl6xg8wTwJNiEQnGCLdvUkTgn_GDLs6</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Vgl6xg8wTwJNiEQnGCLdvUkTgn_GDLs6" length="4067520" type="audio/mpeg"/>
-      <pubDate>Sat, 10 Jan 2026 00:02:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:02:00 +0000</pubDate>
       <itunes:season>13</itunes:season>
       <itunes:episode>3</itunes:episode>
     </item>
@@ -73,7 +73,7 @@ TRACKS:
       <title>illtellmyma-soprane2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ytrUw4gGZ9bDcaEAlqq_b1YOmTFGD6Eb</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ytrUw4gGZ9bDcaEAlqq_b1YOmTFGD6Eb" length="2632695" type="audio/mpeg"/>
-      <pubDate>Sat, 10 Jan 2026 00:01:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:01:00 +0000</pubDate>
       <itunes:season>13</itunes:season>
       <itunes:episode>2</itunes:episode>
     </item>
@@ -81,7 +81,7 @@ TRACKS:
       <title>the parting glass-soprane1-soprane2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1o6Iks4D--3OBqW_zBrlpMBIl4dhrz3e3</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1o6Iks4D--3OBqW_zBrlpMBIl4dhrz3e3" length="1999786" type="audio/mpeg"/>
-      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <itunes:season>13</itunes:season>
       <itunes:episode>1</itunes:episode>
     </item>
