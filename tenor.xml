@@ -1,115 +1,110 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>TENOR Programme2025</title>
+    <title>TENOR Programme2026</title>
     <link>https://podcast.echodespy.net</link>
-    <description>PLAYLIST: TENOR Programme2025
+    <description>PLAYLIST: TENOR Programme2026
 TRACKS:
- - Human - tenor.mp3
- - Emorio-tenor.mp3
- - Za Ma Ba - tenor.mp3
- - Skye Boat Song-tenor.mp3
- - A PLACE IN HEAVEN - tenor.mp3
- - Muirsheen Durkin - tenor.mp3
- - MollyMaloneIF-tenor.mp3
+ - IrishBlessing-tenor.mp3
  - Cliffs of Doneen - tenor.mp3
- - Paddy Works - tenor.mp3
- - illtellmyma-tenor.mp3
- - the parting glass-tenor.mp3</description>
+ - MollyMaloneIF-tenor.mp3
+ - Muirsheen Durkin - tenor.mp3
+ - Shulearoon-tenor.mp3
+ - Skye Boat Song-tenor.mp3
+ - Greensleeves-tenor.mp3
+ - ScarboroughFair-tenor.mp3
+ - SallyGardens-tenor.mp3
+ - Sisi ni moja - tenor.mp3</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
       <url>https://drive.google.com/uc?export=download&amp;id=1FXeVXORiuzLY11sJIy5urg6Ns3FF7_a7</url>
-      <title>TENOR Programme2025</title>
+      <title>TENOR Programme2026</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Sun, 11 Jan 2026 16:48:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 17:29:09 +0000</lastBuildDate>
+    <itunes:author>EDS</itunes:author>
+    <itunes:category text="Education">
+      <itunes:category text="Courses"/>
+    </itunes:category>
     <item>
-      <title>Human - tenor.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1_oSGQFYo5UuSFWDTPFdez4N8_uKcni2b</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_oSGQFYo5UuSFWDTPFdez4N8_uKcni2b" length="3892320" type="audio/mpeg"/>
-      <pubDate>Sat, 10 Jan 2026 00:10:00 +0000</pubDate>
-      <itunes:season>13</itunes:season>
-      <itunes:episode>11</itunes:episode>
-    </item>
-    <item>
-      <title>Emorio-tenor.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1acrL0lSnf0SvYrrre5lZJrXILWusrm--</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1acrL0lSnf0SvYrrre5lZJrXILWusrm--" length="669581" type="audio/mpeg"/>
-      <pubDate>Sat, 10 Jan 2026 00:09:00 +0000</pubDate>
-      <itunes:season>13</itunes:season>
+      <title>IrishBlessing-tenor.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1-WS7d3KG9WFiHw29TYKb2suh_EBJw1Wq</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1-WS7d3KG9WFiHw29TYKb2suh_EBJw1Wq" length="1001637" type="audio/mpeg"/>
+      <pubDate>Wed, 18 Feb 2026 00:09:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
       <itunes:episode>10</itunes:episode>
-    </item>
-    <item>
-      <title>Za Ma Ba - tenor.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1jQtFlxucpUsOThZLA10d_KyWrD11n1RP</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1jQtFlxucpUsOThZLA10d_KyWrD11n1RP" length="2217600" type="audio/mpeg"/>
-      <pubDate>Sat, 10 Jan 2026 00:08:00 +0000</pubDate>
-      <itunes:season>13</itunes:season>
-      <itunes:episode>9</itunes:episode>
-    </item>
-    <item>
-      <title>Skye Boat Song-tenor.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1qkrMNw-sNUpcJkipk1Dewne9yraubXym</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1qkrMNw-sNUpcJkipk1Dewne9yraubXym" length="4210816" type="audio/mpeg"/>
-      <pubDate>Sat, 10 Jan 2026 00:07:00 +0000</pubDate>
-      <itunes:season>13</itunes:season>
-      <itunes:episode>8</itunes:episode>
-    </item>
-    <item>
-      <title>A PLACE IN HEAVEN - tenor.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1473XIVR_YZVbw725bB_V5kml58oUpC03</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1473XIVR_YZVbw725bB_V5kml58oUpC03" length="2515278" type="audio/mpeg"/>
-      <pubDate>Sat, 10 Jan 2026 00:06:00 +0000</pubDate>
-      <itunes:season>13</itunes:season>
-      <itunes:episode>7</itunes:episode>
-    </item>
-    <item>
-      <title>Muirsheen Durkin - tenor.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1vVHkBe7vXqPoLgjs6UDwWv1HJtIDAh6o</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1vVHkBe7vXqPoLgjs6UDwWv1HJtIDAh6o" length="4224960" type="audio/mpeg"/>
-      <pubDate>Sat, 10 Jan 2026 00:05:00 +0000</pubDate>
-      <itunes:season>13</itunes:season>
-      <itunes:episode>6</itunes:episode>
-    </item>
-    <item>
-      <title>MollyMaloneIF-tenor.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1nKfnrtlY0UR_wPjO0G0GZZ0lS2sACDbx</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1nKfnrtlY0UR_wPjO0G0GZZ0lS2sACDbx" length="1958684" type="audio/mpeg"/>
-      <pubDate>Sat, 10 Jan 2026 00:04:00 +0000</pubDate>
-      <itunes:season>13</itunes:season>
-      <itunes:episode>5</itunes:episode>
     </item>
     <item>
       <title>Cliffs of Doneen - tenor.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1e6gua2u8AaAvbPRj8VxaAWhZMBIwCJ69</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1e6gua2u8AaAvbPRj8VxaAWhZMBIwCJ69" length="2685120" type="audio/mpeg"/>
-      <pubDate>Sat, 10 Jan 2026 00:03:00 +0000</pubDate>
-      <itunes:season>13</itunes:season>
+      <pubDate>Wed, 18 Feb 2026 00:08:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>9</itunes:episode>
+    </item>
+    <item>
+      <title>MollyMaloneIF-tenor.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1nKfnrtlY0UR_wPjO0G0GZZ0lS2sACDbx</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1nKfnrtlY0UR_wPjO0G0GZZ0lS2sACDbx" length="1958684" type="audio/mpeg"/>
+      <pubDate>Wed, 18 Feb 2026 00:07:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>8</itunes:episode>
+    </item>
+    <item>
+      <title>Muirsheen Durkin - tenor.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1vVHkBe7vXqPoLgjs6UDwWv1HJtIDAh6o</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1vVHkBe7vXqPoLgjs6UDwWv1HJtIDAh6o" length="4224960" type="audio/mpeg"/>
+      <pubDate>Wed, 18 Feb 2026 00:06:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>7</itunes:episode>
+    </item>
+    <item>
+      <title>Shulearoon-tenor.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1buaokKFJGTmoXLESGRZrgHFl9l8ZjIRy</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1buaokKFJGTmoXLESGRZrgHFl9l8ZjIRy" length="2002278" type="audio/mpeg"/>
+      <pubDate>Wed, 18 Feb 2026 00:05:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>6</itunes:episode>
+    </item>
+    <item>
+      <title>Skye Boat Song-tenor.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1qkrMNw-sNUpcJkipk1Dewne9yraubXym</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1qkrMNw-sNUpcJkipk1Dewne9yraubXym" length="4210816" type="audio/mpeg"/>
+      <pubDate>Wed, 18 Feb 2026 00:04:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>5</itunes:episode>
+    </item>
+    <item>
+      <title>Greensleeves-tenor.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1LRHFtlWrpjIH8BN_RKbjRkT7mIpDOrsO</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1LRHFtlWrpjIH8BN_RKbjRkT7mIpDOrsO" length="5988689" type="audio/mpeg"/>
+      <pubDate>Wed, 18 Feb 2026 00:03:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
       <itunes:episode>4</itunes:episode>
     </item>
     <item>
-      <title>Paddy Works - tenor.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1EOVlv9Y9rTpMtt-kA2Xkyd2baaCnY6iX</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1EOVlv9Y9rTpMtt-kA2Xkyd2baaCnY6iX" length="4067520" type="audio/mpeg"/>
-      <pubDate>Sat, 10 Jan 2026 00:02:00 +0000</pubDate>
-      <itunes:season>13</itunes:season>
+      <title>ScarboroughFair-tenor.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=11JKeTv26MB5R0RWUsCGw6l6EFubyOKj7</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=11JKeTv26MB5R0RWUsCGw6l6EFubyOKj7" length="4559140" type="audio/mpeg"/>
+      <pubDate>Wed, 18 Feb 2026 00:02:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
       <itunes:episode>3</itunes:episode>
     </item>
     <item>
-      <title>illtellmyma-tenor.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1awYZ1tQqeBMRLn5cqbu5fG6rlCfgxaMR</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1awYZ1tQqeBMRLn5cqbu5fG6rlCfgxaMR" length="2637553" type="audio/mpeg"/>
-      <pubDate>Sat, 10 Jan 2026 00:01:00 +0000</pubDate>
-      <itunes:season>13</itunes:season>
+      <title>SallyGardens-tenor.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1v87zGMPiRJYB5EburluAO-hCOAeoIr1G</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1v87zGMPiRJYB5EburluAO-hCOAeoIr1G" length="4253445" type="audio/mpeg"/>
+      <pubDate>Wed, 18 Feb 2026 00:01:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
       <itunes:episode>2</itunes:episode>
     </item>
     <item>
-      <title>the parting glass-tenor.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1fEMo2GLBdYuq5_XWrbTIfT-DnLdCD-nR</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1fEMo2GLBdYuq5_XWrbTIfT-DnLdCD-nR" length="1981356" type="audio/mpeg"/>
-      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
-      <itunes:season>13</itunes:season>
+      <title>Sisi ni moja - tenor.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ajgFqUVfFlOtW4Jc_mpplyc5sn-zVbFx</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ajgFqUVfFlOtW4Jc_mpplyc5sn-zVbFx" length="5268960" type="audio/mpeg"/>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
       <itunes:episode>1</itunes:episode>
     </item>
   </channel>
