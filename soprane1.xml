@@ -5,17 +5,16 @@
     <link>https://podcast.echodespy.net</link>
     <description>PLAYLIST: SOPRANE1 Programme2026
 TRACKS:
- - Human - soprane1.mp3
- - Emorio-soprane1.mp3
- - Za Ma Ba - soprane1-soprane2.mp3
- - Skye Boat Song-soprane1.mp3
- - A PLACE IN HEAVEN - soprane1-soprane2.mp3
- - Muirsheen Durkin - soprane1.mp3
- - MollyMaloneIF-soprane1-soprane2.mp3
+ - Irish Blessing-soprane1-soprane2.mp3
  - Cliffs of Doneen - soprane1.mp3
- - Paddy Works - soprane1.mp3
- - illtellmyma-soprane1.mp3
- - the parting glass-soprane1-soprane2.mp3</description>
+ - MollyMaloneIF-soprane1-soprane2.mp3
+ - Muirsheen Durkin - soprane1.mp3
+ - shulearoon-soprane1-soprane2.mp3
+ - Skye Boat Song-soprane1.mp3
+ - Greensleeves-soprane1-soprane2.mp3
+ - ScarboroughFair-soprane1.mp3
+ - SallyGardens-soprane1-soprane2.mp3
+ - Sisi ni moja - soprane1.mp3</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
@@ -23,97 +22,89 @@ TRACKS:
       <title>SOPRANE1 Programme2026</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Fri, 06 Feb 2026 20:50:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 17:28:23 +0000</lastBuildDate>
     <itunes:author>EDS</itunes:author>
     <itunes:category text="Education">
       <itunes:category text="Courses"/>
     </itunes:category>
     <item>
-      <title>Human - soprane1.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=10TrBEyFTAYBhbl2XF8o-7hYFnH1P8sNe</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=10TrBEyFTAYBhbl2XF8o-7hYFnH1P8sNe" length="3892320" type="audio/mpeg"/>
-      <pubDate>Thu, 05 Feb 2026 00:10:00 +0000</pubDate>
-      <itunes:season>14</itunes:season>
-      <itunes:episode>11</itunes:episode>
-    </item>
-    <item>
-      <title>Emorio-soprane1.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1NJeiA4eY35zdKdqj3V9Tdist-tr69mNa</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1NJeiA4eY35zdKdqj3V9Tdist-tr69mNa" length="673891" type="audio/mpeg"/>
-      <pubDate>Thu, 05 Feb 2026 00:09:00 +0000</pubDate>
-      <itunes:season>14</itunes:season>
+      <title>Irish Blessing-soprane1-soprane2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1_0__WotBnoEtdldDN1DVS9XsMrSfZz8u</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_0__WotBnoEtdldDN1DVS9XsMrSfZz8u" length="1025506" type="audio/mpeg"/>
+      <pubDate>Wed, 18 Feb 2026 00:09:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
       <itunes:episode>10</itunes:episode>
-    </item>
-    <item>
-      <title>Za Ma Ba - soprane1-soprane2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=19B6yLEImihhDuywAWW074-DLN1zKftXJ</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=19B6yLEImihhDuywAWW074-DLN1zKftXJ" length="2217600" type="audio/mpeg"/>
-      <pubDate>Thu, 05 Feb 2026 00:08:00 +0000</pubDate>
-      <itunes:season>14</itunes:season>
-      <itunes:episode>9</itunes:episode>
-    </item>
-    <item>
-      <title>Skye Boat Song-soprane1.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1v7KKdRZg9z_Lod0czarBro2GDTZG0gc9</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1v7KKdRZg9z_Lod0czarBro2GDTZG0gc9" length="4222727" type="audio/mpeg"/>
-      <pubDate>Thu, 05 Feb 2026 00:07:00 +0000</pubDate>
-      <itunes:season>14</itunes:season>
-      <itunes:episode>8</itunes:episode>
-    </item>
-    <item>
-      <title>A PLACE IN HEAVEN - soprane1-soprane2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1tnG0dMZL2CVqh21HUPD4PWnq4wiEIrJX</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1tnG0dMZL2CVqh21HUPD4PWnq4wiEIrJX" length="2515278" type="audio/mpeg"/>
-      <pubDate>Thu, 05 Feb 2026 00:06:00 +0000</pubDate>
-      <itunes:season>14</itunes:season>
-      <itunes:episode>7</itunes:episode>
-    </item>
-    <item>
-      <title>Muirsheen Durkin - soprane1.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1P-mtGJsw_YWSyxgYR0vh933KZxzGHIef</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1P-mtGJsw_YWSyxgYR0vh933KZxzGHIef" length="4224960" type="audio/mpeg"/>
-      <pubDate>Thu, 05 Feb 2026 00:05:00 +0000</pubDate>
-      <itunes:season>14</itunes:season>
-      <itunes:episode>6</itunes:episode>
-    </item>
-    <item>
-      <title>MollyMaloneIF-soprane1-soprane2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1cVRK56DfHnc4UVoaVCGNeNc_Riq20RE6</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1cVRK56DfHnc4UVoaVCGNeNc_Riq20RE6" length="1979115" type="audio/mpeg"/>
-      <pubDate>Thu, 05 Feb 2026 00:04:00 +0000</pubDate>
-      <itunes:season>14</itunes:season>
-      <itunes:episode>5</itunes:episode>
     </item>
     <item>
       <title>Cliffs of Doneen - soprane1.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=13jAHv2fxiqefZYcW5LOnlGduew_06xaV</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=13jAHv2fxiqefZYcW5LOnlGduew_06xaV" length="2685120" type="audio/mpeg"/>
-      <pubDate>Thu, 05 Feb 2026 00:03:00 +0000</pubDate>
-      <itunes:season>14</itunes:season>
+      <pubDate>Wed, 18 Feb 2026 00:08:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>9</itunes:episode>
+    </item>
+    <item>
+      <title>MollyMaloneIF-soprane1-soprane2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1cVRK56DfHnc4UVoaVCGNeNc_Riq20RE6</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1cVRK56DfHnc4UVoaVCGNeNc_Riq20RE6" length="1979115" type="audio/mpeg"/>
+      <pubDate>Wed, 18 Feb 2026 00:07:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>8</itunes:episode>
+    </item>
+    <item>
+      <title>Muirsheen Durkin - soprane1.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1P-mtGJsw_YWSyxgYR0vh933KZxzGHIef</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1P-mtGJsw_YWSyxgYR0vh933KZxzGHIef" length="4224960" type="audio/mpeg"/>
+      <pubDate>Wed, 18 Feb 2026 00:06:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>7</itunes:episode>
+    </item>
+    <item>
+      <title>shulearoon-soprane1-soprane2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1k_kD0D3QWDSkgLNPmMWglwncW_WwVA_g</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1k_kD0D3QWDSkgLNPmMWglwncW_WwVA_g" length="1842777" type="audio/mpeg"/>
+      <pubDate>Wed, 18 Feb 2026 00:05:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>6</itunes:episode>
+    </item>
+    <item>
+      <title>Skye Boat Song-soprane1.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1v7KKdRZg9z_Lod0czarBro2GDTZG0gc9</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1v7KKdRZg9z_Lod0czarBro2GDTZG0gc9" length="4222727" type="audio/mpeg"/>
+      <pubDate>Wed, 18 Feb 2026 00:04:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>5</itunes:episode>
+    </item>
+    <item>
+      <title>Greensleeves-soprane1-soprane2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1_JR1Fp3-k6G8OtfJAIF5SQT2vyY3nzKh</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_JR1Fp3-k6G8OtfJAIF5SQT2vyY3nzKh" length="6241027" type="audio/mpeg"/>
+      <pubDate>Wed, 18 Feb 2026 00:03:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
       <itunes:episode>4</itunes:episode>
     </item>
     <item>
-      <title>Paddy Works - soprane1.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=17nNZLR4X0CvyoV9mLezS4nVtVVCEY1Nb</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=17nNZLR4X0CvyoV9mLezS4nVtVVCEY1Nb" length="4067520" type="audio/mpeg"/>
-      <pubDate>Thu, 05 Feb 2026 00:02:00 +0000</pubDate>
-      <itunes:season>14</itunes:season>
+      <title>ScarboroughFair-soprane1.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=145WNpKennGh-rU1bSXjBBT-yRySuArGY</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=145WNpKennGh-rU1bSXjBBT-yRySuArGY" length="4598345" type="audio/mpeg"/>
+      <pubDate>Wed, 18 Feb 2026 00:02:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
       <itunes:episode>3</itunes:episode>
     </item>
     <item>
-      <title>illtellmyma-soprane1.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1sDkyIhgnSIt0vAMRuRd-o2YNIg8lqo4X</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1sDkyIhgnSIt0vAMRuRd-o2YNIg8lqo4X" length="2639832" type="audio/mpeg"/>
-      <pubDate>Thu, 05 Feb 2026 00:01:00 +0000</pubDate>
-      <itunes:season>14</itunes:season>
+      <title>SallyGardens-soprane1-soprane2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1UelF40ZKtPn9zulVZPCBBKAsY-iUWoIE</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1UelF40ZKtPn9zulVZPCBBKAsY-iUWoIE" length="4460986" type="audio/mpeg"/>
+      <pubDate>Wed, 18 Feb 2026 00:01:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
       <itunes:episode>2</itunes:episode>
     </item>
     <item>
-      <title>the parting glass-soprane1-soprane2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1o6Iks4D--3OBqW_zBrlpMBIl4dhrz3e3</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1o6Iks4D--3OBqW_zBrlpMBIl4dhrz3e3" length="1999786" type="audio/mpeg"/>
-      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-      <itunes:season>14</itunes:season>
+      <title>Sisi ni moja - soprane1.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ObbjI_K5ABn2zkWRBRfU5OqqoLMhT7ZU</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ObbjI_K5ABn2zkWRBRfU5OqqoLMhT7ZU" length="5268960" type="audio/mpeg"/>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
       <itunes:episode>1</itunes:episode>
     </item>
   </channel>
