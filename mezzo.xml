@@ -5,7 +5,8 @@
     <link>https://podcast.echodespy.net</link>
     <description>PLAYLIST: MEZZO Programme2026
 TRACKS:
- - Cliffs of Doneen - mezzo.mp3</description>
+ - Cliffs of Doneen - mezzo.mp3
+ - the parting glass-mezzo.mp3</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
@@ -13,7 +14,7 @@ TRACKS:
       <title>MEZZO Programme2026</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Thu, 19 Feb 2026 17:28:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 20:18:05 +0000</lastBuildDate>
     <itunes:author>EDS</itunes:author>
     <itunes:category text="Education">
       <itunes:category text="Courses"/>
@@ -22,8 +23,16 @@ TRACKS:
       <title>Cliffs of Doneen - mezzo.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1_oNBst63RnSVpTPxcSZmrfpIZ4AoFzwk</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_oNBst63RnSVpTPxcSZmrfpIZ4AoFzwk" length="2685120" type="audio/mpeg"/>
-      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
-      <itunes:season>15</itunes:season>
+      <pubDate>Wed, 25 Mar 2026 00:01:00 +0000</pubDate>
+      <itunes:season>16</itunes:season>
+      <itunes:episode>2</itunes:episode>
+    </item>
+    <item>
+      <title>the parting glass-mezzo.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1LSU5GE1Ae5KFB4WIz5or9NfFheHwLgk8</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1LSU5GE1Ae5KFB4WIz5or9NfFheHwLgk8" length="2001755" type="audio/mpeg"/>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <itunes:season>16</itunes:season>
       <itunes:episode>1</itunes:episode>
     </item>
   </channel>
