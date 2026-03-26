@@ -7,13 +7,13 @@
 TRACKS:
  - Irish Blessing-soprane1-soprane2.mp3
  - MollyMaloneIF-soprane1-soprane2.mp3
- - Muirsheen Durkin - soprane2.mp3
- - shulearoon-soprane1-soprane2.mp3
+ - Muirsheen Durkin T95 - soprane2.mp3
+ - Paddy Works - soprane2.mp3
  - Skye Boat Song-soprane2.mp3
- - Greensleeves-soprane1-soprane2.mp3
- - ScarboroughFair-soprane2.mp3
- - SallyGardens-soprane1-soprane2.mp3
- - Sisi ni moja - soprane2.mp3</description>
+ - the parting glass-soprane1-soprane2.mp3
+ - Sisi ni moja - soprane2.mp3
+ - Rocky Road to Dublin T80 - soprane1-soprane2.mp3
+ - TheWildRover - soprane2.mp3</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
@@ -21,7 +21,7 @@ TRACKS:
       <title>SOPRANE2 Programme2026</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Thu, 19 Feb 2026 17:28:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 20:17:51 +0000</lastBuildDate>
     <itunes:author>EDS</itunes:author>
     <itunes:category text="Education">
       <itunes:category text="Courses"/>
@@ -30,72 +30,72 @@ TRACKS:
       <title>Irish Blessing-soprane1-soprane2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1_0__WotBnoEtdldDN1DVS9XsMrSfZz8u</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_0__WotBnoEtdldDN1DVS9XsMrSfZz8u" length="1025506" type="audio/mpeg"/>
-      <pubDate>Wed, 18 Feb 2026 00:08:00 +0000</pubDate>
-      <itunes:season>15</itunes:season>
+      <pubDate>Wed, 25 Mar 2026 00:08:00 +0000</pubDate>
+      <itunes:season>16</itunes:season>
       <itunes:episode>9</itunes:episode>
     </item>
     <item>
       <title>MollyMaloneIF-soprane1-soprane2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1cVRK56DfHnc4UVoaVCGNeNc_Riq20RE6</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1cVRK56DfHnc4UVoaVCGNeNc_Riq20RE6" length="1979115" type="audio/mpeg"/>
-      <pubDate>Wed, 18 Feb 2026 00:07:00 +0000</pubDate>
-      <itunes:season>15</itunes:season>
+      <pubDate>Wed, 25 Mar 2026 00:07:00 +0000</pubDate>
+      <itunes:season>16</itunes:season>
       <itunes:episode>8</itunes:episode>
     </item>
     <item>
-      <title>Muirsheen Durkin - soprane2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1wEuwV2fdh5sfW7NNacVhhXLE--eWmgnm</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1wEuwV2fdh5sfW7NNacVhhXLE--eWmgnm" length="4224960" type="audio/mpeg"/>
-      <pubDate>Wed, 18 Feb 2026 00:06:00 +0000</pubDate>
-      <itunes:season>15</itunes:season>
+      <title>Muirsheen Durkin T95 - soprane2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=117D0FFsNsnqR4ltaRIm0oAEFNr05A-SQ</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=117D0FFsNsnqR4ltaRIm0oAEFNr05A-SQ" length="2782080" type="audio/mpeg"/>
+      <pubDate>Wed, 25 Mar 2026 00:06:00 +0000</pubDate>
+      <itunes:season>16</itunes:season>
       <itunes:episode>7</itunes:episode>
     </item>
     <item>
-      <title>shulearoon-soprane1-soprane2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1k_kD0D3QWDSkgLNPmMWglwncW_WwVA_g</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1k_kD0D3QWDSkgLNPmMWglwncW_WwVA_g" length="1842777" type="audio/mpeg"/>
-      <pubDate>Wed, 18 Feb 2026 00:05:00 +0000</pubDate>
-      <itunes:season>15</itunes:season>
+      <title>Paddy Works - soprane2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1Vgl6xg8wTwJNiEQnGCLdvUkTgn_GDLs6</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Vgl6xg8wTwJNiEQnGCLdvUkTgn_GDLs6" length="4067520" type="audio/mpeg"/>
+      <pubDate>Wed, 25 Mar 2026 00:05:00 +0000</pubDate>
+      <itunes:season>16</itunes:season>
       <itunes:episode>6</itunes:episode>
     </item>
     <item>
       <title>Skye Boat Song-soprane2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1SvwFiQJz7LoTBNLcBNu0YTk9AvPmlDJQ</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1SvwFiQJz7LoTBNLcBNu0YTk9AvPmlDJQ" length="4222727" type="audio/mpeg"/>
-      <pubDate>Wed, 18 Feb 2026 00:04:00 +0000</pubDate>
-      <itunes:season>15</itunes:season>
+      <pubDate>Wed, 25 Mar 2026 00:04:00 +0000</pubDate>
+      <itunes:season>16</itunes:season>
       <itunes:episode>5</itunes:episode>
     </item>
     <item>
-      <title>Greensleeves-soprane1-soprane2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1_JR1Fp3-k6G8OtfJAIF5SQT2vyY3nzKh</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_JR1Fp3-k6G8OtfJAIF5SQT2vyY3nzKh" length="6241027" type="audio/mpeg"/>
-      <pubDate>Wed, 18 Feb 2026 00:03:00 +0000</pubDate>
-      <itunes:season>15</itunes:season>
+      <title>the parting glass-soprane1-soprane2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1o6Iks4D--3OBqW_zBrlpMBIl4dhrz3e3</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1o6Iks4D--3OBqW_zBrlpMBIl4dhrz3e3" length="1999786" type="audio/mpeg"/>
+      <pubDate>Wed, 25 Mar 2026 00:03:00 +0000</pubDate>
+      <itunes:season>16</itunes:season>
       <itunes:episode>4</itunes:episode>
-    </item>
-    <item>
-      <title>ScarboroughFair-soprane2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1SlQHhCNwTqlhpLexWaJJrHEZSyr3bdWi</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1SlQHhCNwTqlhpLexWaJJrHEZSyr3bdWi" length="4599099" type="audio/mpeg"/>
-      <pubDate>Wed, 18 Feb 2026 00:02:00 +0000</pubDate>
-      <itunes:season>15</itunes:season>
-      <itunes:episode>3</itunes:episode>
-    </item>
-    <item>
-      <title>SallyGardens-soprane1-soprane2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1UelF40ZKtPn9zulVZPCBBKAsY-iUWoIE</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1UelF40ZKtPn9zulVZPCBBKAsY-iUWoIE" length="4460986" type="audio/mpeg"/>
-      <pubDate>Wed, 18 Feb 2026 00:01:00 +0000</pubDate>
-      <itunes:season>15</itunes:season>
-      <itunes:episode>2</itunes:episode>
     </item>
     <item>
       <title>Sisi ni moja - soprane2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1U4NswifY9Biqd0YEkzJx1tob72ckPW_A</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1U4NswifY9Biqd0YEkzJx1tob72ckPW_A" length="5268960" type="audio/mpeg"/>
-      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
-      <itunes:season>15</itunes:season>
+      <pubDate>Wed, 25 Mar 2026 00:02:00 +0000</pubDate>
+      <itunes:season>16</itunes:season>
+      <itunes:episode>3</itunes:episode>
+    </item>
+    <item>
+      <title>Rocky Road to Dublin T80 - soprane1-soprane2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=10uK0B2c4WM4mEmmza11egGb9wgNP1pdz</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=10uK0B2c4WM4mEmmza11egGb9wgNP1pdz" length="6333120" type="audio/mpeg"/>
+      <pubDate>Wed, 25 Mar 2026 00:01:00 +0000</pubDate>
+      <itunes:season>16</itunes:season>
+      <itunes:episode>2</itunes:episode>
+    </item>
+    <item>
+      <title>TheWildRover - soprane2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1bd9IISd_CRlMzfegtdqiTKyZRhAStIfe</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1bd9IISd_CRlMzfegtdqiTKyZRhAStIfe" length="3670080" type="audio/mpeg"/>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <itunes:season>16</itunes:season>
       <itunes:episode>1</itunes:episode>
     </item>
   </channel>
