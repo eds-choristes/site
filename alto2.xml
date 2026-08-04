@@ -5,19 +5,18 @@
     <link>https://podcast.echodespy.net</link>
     <description>PLAYLIST: ALTO2 Programme2026
 TRACKS:
- - Irishblessing-alto1-alto2.mp3
+ - Pulse - alto2.mp3
+ - Walking In The Air - alto1-alto2.mp3
+ - illtellmyma-alto1-alto2.mp3
  - Skye Boat Song-alto1-alto2.mp3
- - Cliffs of Doneen - alto1-alto2.mp3
- - MollyMaloneIF-alto1-alto2.mp3
+ - Shulearoon-alto1-alto2.mp3
+ - jeanne-alto2.mp3
+ - Human - alto1-alto2.mp3
  - Muirsheen Durkin T95 - alto1-alto2.mp3
  - Paddy Works T104 - alto1-alto2.mp3
  - the parting glass-alto1-alto2.mp3
  - Sisi ni moja - alto1-alto2.mp3
- - Pulse - alto2.mp3
- - illtellmyma-alto1-alto2.mp3
- - Rocky Road to Dublin T80 - alto1-alto2.mp3
- - TheWildRover - alto2.mp3
- - Human - alto1-alto2.mp3</description>
+ - soir_doctobre_alto1-alto2.mp3</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
@@ -25,113 +24,105 @@ TRACKS:
       <title>ALTO2 Programme2026</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Tue, 16 Jun 2026 18:52:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 12:18:14 +0000</lastBuildDate>
     <itunes:author>EDS</itunes:author>
     <itunes:category text="Education">
       <itunes:category text="Courses"/>
     </itunes:category>
     <item>
-      <title>Irishblessing-alto1-alto2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1wVTCG_u7WB5IWDhNODmDpjWyQvFooSoy</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1wVTCG_u7WB5IWDhNODmDpjWyQvFooSoy" length="1018875" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Jun 2026 00:12:00 +0000</pubDate>
-      <itunes:season>19</itunes:season>
-      <itunes:episode>13</itunes:episode>
-    </item>
-    <item>
-      <title>Skye Boat Song-alto1-alto2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1d09PV66HdNTCmenRZYTGIvYiBPBCqaRj</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1d09PV66HdNTCmenRZYTGIvYiBPBCqaRj" length="4217085" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Jun 2026 00:11:00 +0000</pubDate>
-      <itunes:season>19</itunes:season>
-      <itunes:episode>12</itunes:episode>
-    </item>
-    <item>
-      <title>Cliffs of Doneen - alto1-alto2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1u3j9ADL6KAPHQ7mVzuMkCEY5LEqSIl-P</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1u3j9ADL6KAPHQ7mVzuMkCEY5LEqSIl-P" length="2685120" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Jun 2026 00:10:00 +0000</pubDate>
-      <itunes:season>19</itunes:season>
-      <itunes:episode>11</itunes:episode>
-    </item>
-    <item>
-      <title>MollyMaloneIF-alto1-alto2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=16tgF6CGQKySpKulELjW2HmFGbfiKUctA</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=16tgF6CGQKySpKulELjW2HmFGbfiKUctA" length="1977156" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Jun 2026 00:09:00 +0000</pubDate>
-      <itunes:season>19</itunes:season>
-      <itunes:episode>10</itunes:episode>
-    </item>
-    <item>
-      <title>Muirsheen Durkin T95 - alto1-alto2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=14iXItLAHgj4KRiM5uLOwg2f_klzILmPr</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=14iXItLAHgj4KRiM5uLOwg2f_klzILmPr" length="2782080" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Jun 2026 00:08:00 +0000</pubDate>
-      <itunes:season>19</itunes:season>
-      <itunes:episode>9</itunes:episode>
-    </item>
-    <item>
-      <title>Paddy Works T104 - alto1-alto2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1r9bvfrLW0ud4XuuiBcMwQ7syfNg3zxBF</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1r9bvfrLW0ud4XuuiBcMwQ7syfNg3zxBF" length="3122880" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Jun 2026 00:07:00 +0000</pubDate>
-      <itunes:season>19</itunes:season>
-      <itunes:episode>8</itunes:episode>
-    </item>
-    <item>
-      <title>the parting glass-alto1-alto2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1t4CB_LacG3mQqRXRioF_ADewEdwHvZCZ</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1t4CB_LacG3mQqRXRioF_ADewEdwHvZCZ" length="1980947" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Jun 2026 00:06:00 +0000</pubDate>
-      <itunes:season>19</itunes:season>
-      <itunes:episode>7</itunes:episode>
-    </item>
-    <item>
-      <title>Sisi ni moja - alto1-alto2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1WHNplfF6QsSRQDiMf2wTXbMRQFAdWeRZ</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1WHNplfF6QsSRQDiMf2wTXbMRQFAdWeRZ" length="5268960" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Jun 2026 00:05:00 +0000</pubDate>
-      <itunes:season>19</itunes:season>
-      <itunes:episode>6</itunes:episode>
-    </item>
-    <item>
       <title>Pulse - alto2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1J_jJAywqBSfrDSQ7vHAJcWmUzJ_nTbLO</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1J_jJAywqBSfrDSQ7vHAJcWmUzJ_nTbLO" length="4821120" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Jun 2026 00:04:00 +0000</pubDate>
-      <itunes:season>19</itunes:season>
-      <itunes:episode>5</itunes:episode>
+      <pubDate>Mon, 03 Aug 2026 00:11:00 +0000</pubDate>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>12</itunes:episode>
+    </item>
+    <item>
+      <title>Walking In The Air - alto1-alto2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1fdv_ou-hs1zv_MdpTbnIebBEy52h3_Ii</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1fdv_ou-hs1zv_MdpTbnIebBEy52h3_Ii" length="3989760" type="audio/mpeg"/>
+      <pubDate>Mon, 03 Aug 2026 00:10:00 +0000</pubDate>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>11</itunes:episode>
     </item>
     <item>
       <title>illtellmyma-alto1-alto2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1tkLsP9DjgNF4Q3dv2ztdIkzOUHnRmAjD</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1tkLsP9DjgNF4Q3dv2ztdIkzOUHnRmAjD" length="2644148" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Jun 2026 00:03:00 +0000</pubDate>
-      <itunes:season>19</itunes:season>
-      <itunes:episode>4</itunes:episode>
+      <pubDate>Mon, 03 Aug 2026 00:09:00 +0000</pubDate>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>10</itunes:episode>
     </item>
     <item>
-      <title>Rocky Road to Dublin T80 - alto1-alto2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1KwZ0ZQn4R9DxF1zEg6hMO9d60QOXndOE</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1KwZ0ZQn4R9DxF1zEg6hMO9d60QOXndOE" length="6333120" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Jun 2026 00:02:00 +0000</pubDate>
-      <itunes:season>19</itunes:season>
-      <itunes:episode>3</itunes:episode>
+      <title>Skye Boat Song-alto1-alto2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1d09PV66HdNTCmenRZYTGIvYiBPBCqaRj</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1d09PV66HdNTCmenRZYTGIvYiBPBCqaRj" length="4217085" type="audio/mpeg"/>
+      <pubDate>Mon, 03 Aug 2026 00:08:00 +0000</pubDate>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>9</itunes:episode>
     </item>
     <item>
-      <title>TheWildRover - alto2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1vVQPypDHEydHmfdEogY38oD5W6iivEII</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1vVQPypDHEydHmfdEogY38oD5W6iivEII" length="3670080" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Jun 2026 00:01:00 +0000</pubDate>
-      <itunes:season>19</itunes:season>
-      <itunes:episode>2</itunes:episode>
+      <title>Shulearoon-alto1-alto2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1hmHG2h3qB_wJk245c1UejWz3ihfKK3Mh</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1hmHG2h3qB_wJk245c1UejWz3ihfKK3Mh" length="1921156" type="audio/mpeg"/>
+      <pubDate>Mon, 03 Aug 2026 00:07:00 +0000</pubDate>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>8</itunes:episode>
+    </item>
+    <item>
+      <title>jeanne-alto2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=17k3SoCgt55THNSg65pbKR2gc1czMdMI-</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=17k3SoCgt55THNSg65pbKR2gc1czMdMI-" length="6026484" type="audio/mpeg"/>
+      <pubDate>Mon, 03 Aug 2026 00:06:00 +0000</pubDate>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>7</itunes:episode>
     </item>
     <item>
       <title>Human - alto1-alto2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=10O-del2DjY_D3uzY3ixO4mY43Tt_ZBjX</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=10O-del2DjY_D3uzY3ixO4mY43Tt_ZBjX" length="3892320" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-      <itunes:season>19</itunes:season>
+      <pubDate>Mon, 03 Aug 2026 00:05:00 +0000</pubDate>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>6</itunes:episode>
+    </item>
+    <item>
+      <title>Muirsheen Durkin T95 - alto1-alto2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=14iXItLAHgj4KRiM5uLOwg2f_klzILmPr</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=14iXItLAHgj4KRiM5uLOwg2f_klzILmPr" length="2782080" type="audio/mpeg"/>
+      <pubDate>Mon, 03 Aug 2026 00:04:00 +0000</pubDate>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>5</itunes:episode>
+    </item>
+    <item>
+      <title>Paddy Works T104 - alto1-alto2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1r9bvfrLW0ud4XuuiBcMwQ7syfNg3zxBF</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1r9bvfrLW0ud4XuuiBcMwQ7syfNg3zxBF" length="3122880" type="audio/mpeg"/>
+      <pubDate>Mon, 03 Aug 2026 00:03:00 +0000</pubDate>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>4</itunes:episode>
+    </item>
+    <item>
+      <title>the parting glass-alto1-alto2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1t4CB_LacG3mQqRXRioF_ADewEdwHvZCZ</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1t4CB_LacG3mQqRXRioF_ADewEdwHvZCZ" length="1980947" type="audio/mpeg"/>
+      <pubDate>Mon, 03 Aug 2026 00:02:00 +0000</pubDate>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>3</itunes:episode>
+    </item>
+    <item>
+      <title>Sisi ni moja - alto1-alto2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1WHNplfF6QsSRQDiMf2wTXbMRQFAdWeRZ</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1WHNplfF6QsSRQDiMf2wTXbMRQFAdWeRZ" length="5268960" type="audio/mpeg"/>
+      <pubDate>Mon, 03 Aug 2026 00:01:00 +0000</pubDate>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>2</itunes:episode>
+    </item>
+    <item>
+      <title>soir_doctobre_alto1-alto2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1Gs2IpV1HNJo4ESZAv-V95nQa2CbBVPWA</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Gs2IpV1HNJo4ESZAv-V95nQa2CbBVPWA" length="2326558" type="audio/mpeg"/>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <itunes:season>20</itunes:season>
       <itunes:episode>1</itunes:episode>
     </item>
   </channel>
