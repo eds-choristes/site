@@ -8,11 +8,11 @@ TRACKS:
  - Pulse - tenor1.mp3
  - Pulse - tenor2.mp3
  - Walking In The Air - tenor.mp3
- - illtellmyma-tenor.mp3
+ - Human - tenor.mp3
+ - jeanne-tenor.mp3
  - Skye Boat Song-tenor.mp3
  - Shulearoon-tenor.mp3
- - jeanne-tenor.mp3
- - Human - tenor.mp3
+ - Cliffs of Doneen - tenor.mp3
  - Muirsheen Durkin T95 - tenor.mp3
  - Paddy Works T104 - tenor.mp3
  - the parting glass-tenor.mp3
@@ -25,7 +25,7 @@ TRACKS:
       <title>TENOR Programme2026</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Tue, 04 Aug 2026 13:08:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 20:33:53 +0000</lastBuildDate>
     <itunes:author>EDS</itunes:author>
     <itunes:category text="Education">
       <itunes:category text="Courses"/>
@@ -33,16 +33,16 @@ TRACKS:
     <item>
       <title>Pulse - tenor1.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1-oijBh8UcDF_sHDETq00zrHdMv92jo_6</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1-oijBh8UcDF_sHDETq00zrHdMv92jo_6" length="4821120" type="audio/mpeg"/>
-      <pubDate>Mon, 03 Aug 2026 00:12:00 +0000</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1-oijBh8UcDF_sHDETq00zrHdMv92jo_6" length="4208640" type="audio/mpeg"/>
+      <pubDate>Sun, 18 Oct 2026 00:12:00 +0000</pubDate>
       <itunes:season>20</itunes:season>
       <itunes:episode>13</itunes:episode>
     </item>
     <item>
       <title>Pulse - tenor2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1I9i_yzLwFMhKUYJY-0rDtMbQa-GKD9o_</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1I9i_yzLwFMhKUYJY-0rDtMbQa-GKD9o_" length="4821120" type="audio/mpeg"/>
-      <pubDate>Mon, 03 Aug 2026 00:11:00 +0000</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1I9i_yzLwFMhKUYJY-0rDtMbQa-GKD9o_" length="4208640" type="audio/mpeg"/>
+      <pubDate>Sun, 18 Oct 2026 00:11:00 +0000</pubDate>
       <itunes:season>20</itunes:season>
       <itunes:episode>12</itunes:episode>
     </item>
@@ -50,47 +50,47 @@ TRACKS:
       <title>Walking In The Air - tenor.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1MiTbVMLi2ebE9Js1BqYghcMljgENCllo</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1MiTbVMLi2ebE9Js1BqYghcMljgENCllo" length="3989760" type="audio/mpeg"/>
-      <pubDate>Mon, 03 Aug 2026 00:10:00 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 00:10:00 +0000</pubDate>
       <itunes:season>20</itunes:season>
       <itunes:episode>11</itunes:episode>
-    </item>
-    <item>
-      <title>illtellmyma-tenor.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1awYZ1tQqeBMRLn5cqbu5fG6rlCfgxaMR</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1awYZ1tQqeBMRLn5cqbu5fG6rlCfgxaMR" length="2637553" type="audio/mpeg"/>
-      <pubDate>Mon, 03 Aug 2026 00:09:00 +0000</pubDate>
-      <itunes:season>20</itunes:season>
-      <itunes:episode>10</itunes:episode>
-    </item>
-    <item>
-      <title>Skye Boat Song-tenor.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1qkrMNw-sNUpcJkipk1Dewne9yraubXym</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1qkrMNw-sNUpcJkipk1Dewne9yraubXym" length="4210816" type="audio/mpeg"/>
-      <pubDate>Mon, 03 Aug 2026 00:08:00 +0000</pubDate>
-      <itunes:season>20</itunes:season>
-      <itunes:episode>9</itunes:episode>
-    </item>
-    <item>
-      <title>Shulearoon-tenor.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1buaokKFJGTmoXLESGRZrgHFl9l8ZjIRy</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1buaokKFJGTmoXLESGRZrgHFl9l8ZjIRy" length="2002278" type="audio/mpeg"/>
-      <pubDate>Mon, 03 Aug 2026 00:07:00 +0000</pubDate>
-      <itunes:season>20</itunes:season>
-      <itunes:episode>8</itunes:episode>
-    </item>
-    <item>
-      <title>jeanne-tenor.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1vtAE-cMMKmg7uWLzOfdZIsXImw-N6hYB</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1vtAE-cMMKmg7uWLzOfdZIsXImw-N6hYB" length="5896527" type="audio/mpeg"/>
-      <pubDate>Mon, 03 Aug 2026 00:06:00 +0000</pubDate>
-      <itunes:season>20</itunes:season>
-      <itunes:episode>7</itunes:episode>
     </item>
     <item>
       <title>Human - tenor.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1_oSGQFYo5UuSFWDTPFdez4N8_uKcni2b</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_oSGQFYo5UuSFWDTPFdez4N8_uKcni2b" length="3892320" type="audio/mpeg"/>
-      <pubDate>Mon, 03 Aug 2026 00:05:00 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 00:09:00 +0000</pubDate>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>10</itunes:episode>
+    </item>
+    <item>
+      <title>jeanne-tenor.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1vtAE-cMMKmg7uWLzOfdZIsXImw-N6hYB</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1vtAE-cMMKmg7uWLzOfdZIsXImw-N6hYB" length="5896527" type="audio/mpeg"/>
+      <pubDate>Sun, 18 Oct 2026 00:08:00 +0000</pubDate>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>9</itunes:episode>
+    </item>
+    <item>
+      <title>Skye Boat Song-tenor.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1qkrMNw-sNUpcJkipk1Dewne9yraubXym</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1qkrMNw-sNUpcJkipk1Dewne9yraubXym" length="4210816" type="audio/mpeg"/>
+      <pubDate>Sun, 18 Oct 2026 00:07:00 +0000</pubDate>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>8</itunes:episode>
+    </item>
+    <item>
+      <title>Shulearoon-tenor.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1buaokKFJGTmoXLESGRZrgHFl9l8ZjIRy</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1buaokKFJGTmoXLESGRZrgHFl9l8ZjIRy" length="2002278" type="audio/mpeg"/>
+      <pubDate>Sun, 18 Oct 2026 00:06:00 +0000</pubDate>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>7</itunes:episode>
+    </item>
+    <item>
+      <title>Cliffs of Doneen - tenor.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1e6gua2u8AaAvbPRj8VxaAWhZMBIwCJ69</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1e6gua2u8AaAvbPRj8VxaAWhZMBIwCJ69" length="2685120" type="audio/mpeg"/>
+      <pubDate>Sun, 18 Oct 2026 00:05:00 +0000</pubDate>
       <itunes:season>20</itunes:season>
       <itunes:episode>6</itunes:episode>
     </item>
@@ -98,7 +98,7 @@ TRACKS:
       <title>Muirsheen Durkin T95 - tenor.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1Q9_fD8fwsehwN-ouk2IhwTi89jVaEZJE</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Q9_fD8fwsehwN-ouk2IhwTi89jVaEZJE" length="2782080" type="audio/mpeg"/>
-      <pubDate>Mon, 03 Aug 2026 00:04:00 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 00:04:00 +0000</pubDate>
       <itunes:season>20</itunes:season>
       <itunes:episode>5</itunes:episode>
     </item>
@@ -106,7 +106,7 @@ TRACKS:
       <title>Paddy Works T104 - tenor.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1IQru-mnMwxstIxulvmvNn9_XuebSDxk_</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1IQru-mnMwxstIxulvmvNn9_XuebSDxk_" length="3122880" type="audio/mpeg"/>
-      <pubDate>Mon, 03 Aug 2026 00:03:00 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 00:03:00 +0000</pubDate>
       <itunes:season>20</itunes:season>
       <itunes:episode>4</itunes:episode>
     </item>
@@ -114,7 +114,7 @@ TRACKS:
       <title>the parting glass-tenor.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1fEMo2GLBdYuq5_XWrbTIfT-DnLdCD-nR</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1fEMo2GLBdYuq5_XWrbTIfT-DnLdCD-nR" length="1981356" type="audio/mpeg"/>
-      <pubDate>Mon, 03 Aug 2026 00:02:00 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 00:02:00 +0000</pubDate>
       <itunes:season>20</itunes:season>
       <itunes:episode>3</itunes:episode>
     </item>
@@ -122,7 +122,7 @@ TRACKS:
       <title>Sisi ni moja - tenor.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ajgFqUVfFlOtW4Jc_mpplyc5sn-zVbFx</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ajgFqUVfFlOtW4Jc_mpplyc5sn-zVbFx" length="5268960" type="audio/mpeg"/>
-      <pubDate>Mon, 03 Aug 2026 00:01:00 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 00:01:00 +0000</pubDate>
       <itunes:season>20</itunes:season>
       <itunes:episode>2</itunes:episode>
     </item>
@@ -130,7 +130,7 @@ TRACKS:
       <title>soir_doctobre_tenor1-tenor2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1nnGLYAbqFBylRNc-QhlQH6yh8Z95iOcH</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1nnGLYAbqFBylRNc-QhlQH6yh8Z95iOcH" length="2325542" type="audio/mpeg"/>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
       <itunes:season>20</itunes:season>
       <itunes:episode>1</itunes:episode>
     </item>
