@@ -7,10 +7,9 @@
 TRACKS:
  - Pulse - soprane2.mp3
  - Walking In The Air - soprane1-soprane2.mp3
- - illtellmyma-soprane2.mp3
+ - jeanne-soprane2.mp3
  - Skye Boat Song-soprane2.mp3
  - shulearoon-soprane1-soprane2.mp3
- - jeanne-soprane2.mp3
  - Muirsheen Durkin T95 - soprane2.mp3
  - Paddy Works T104 - soprane2.mp3
  - the parting glass-soprane1-soprane2.mp3
@@ -23,7 +22,7 @@ TRACKS:
       <title>SOPRANE2 Programme2026</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Tue, 04 Aug 2026 12:19:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 20:33:21 +0000</lastBuildDate>
     <itunes:author>EDS</itunes:author>
     <itunes:category text="Education">
       <itunes:category text="Courses"/>
@@ -31,48 +30,40 @@ TRACKS:
     <item>
       <title>Pulse - soprane2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1VvgxUKHp2Xx5k0nlLpML_xkM6Ln6rUaM</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1VvgxUKHp2Xx5k0nlLpML_xkM6Ln6rUaM" length="4821120" type="audio/mpeg"/>
-      <pubDate>Mon, 03 Aug 2026 00:10:00 +0000</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1VvgxUKHp2Xx5k0nlLpML_xkM6Ln6rUaM" length="4208640" type="audio/mpeg"/>
+      <pubDate>Sun, 18 Oct 2026 00:09:00 +0000</pubDate>
       <itunes:season>20</itunes:season>
-      <itunes:episode>11</itunes:episode>
+      <itunes:episode>10</itunes:episode>
     </item>
     <item>
       <title>Walking In The Air - soprane1-soprane2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1YSvR5nzn_h_pHDMJOhueHfbH3m27I1qH</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1YSvR5nzn_h_pHDMJOhueHfbH3m27I1qH" length="3989760" type="audio/mpeg"/>
-      <pubDate>Mon, 03 Aug 2026 00:09:00 +0000</pubDate>
-      <itunes:season>20</itunes:season>
-      <itunes:episode>10</itunes:episode>
-    </item>
-    <item>
-      <title>illtellmyma-soprane2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ytrUw4gGZ9bDcaEAlqq_b1YOmTFGD6Eb</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ytrUw4gGZ9bDcaEAlqq_b1YOmTFGD6Eb" length="2632695" type="audio/mpeg"/>
-      <pubDate>Mon, 03 Aug 2026 00:08:00 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 00:08:00 +0000</pubDate>
       <itunes:season>20</itunes:season>
       <itunes:episode>9</itunes:episode>
-    </item>
-    <item>
-      <title>Skye Boat Song-soprane2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1SvwFiQJz7LoTBNLcBNu0YTk9AvPmlDJQ</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1SvwFiQJz7LoTBNLcBNu0YTk9AvPmlDJQ" length="4222727" type="audio/mpeg"/>
-      <pubDate>Mon, 03 Aug 2026 00:07:00 +0000</pubDate>
-      <itunes:season>20</itunes:season>
-      <itunes:episode>8</itunes:episode>
-    </item>
-    <item>
-      <title>shulearoon-soprane1-soprane2.mp3</title>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1k_kD0D3QWDSkgLNPmMWglwncW_WwVA_g</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1k_kD0D3QWDSkgLNPmMWglwncW_WwVA_g" length="1842777" type="audio/mpeg"/>
-      <pubDate>Mon, 03 Aug 2026 00:06:00 +0000</pubDate>
-      <itunes:season>20</itunes:season>
-      <itunes:episode>7</itunes:episode>
     </item>
     <item>
       <title>jeanne-soprane2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ZM9iQYJLuydwMS9u1xF_F5VPPbLLQ5ac</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZM9iQYJLuydwMS9u1xF_F5VPPbLLQ5ac" length="5980786" type="audio/mpeg"/>
-      <pubDate>Mon, 03 Aug 2026 00:05:00 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 00:07:00 +0000</pubDate>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>8</itunes:episode>
+    </item>
+    <item>
+      <title>Skye Boat Song-soprane2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1SvwFiQJz7LoTBNLcBNu0YTk9AvPmlDJQ</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1SvwFiQJz7LoTBNLcBNu0YTk9AvPmlDJQ" length="4222727" type="audio/mpeg"/>
+      <pubDate>Sun, 18 Oct 2026 00:06:00 +0000</pubDate>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>7</itunes:episode>
+    </item>
+    <item>
+      <title>shulearoon-soprane1-soprane2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1k_kD0D3QWDSkgLNPmMWglwncW_WwVA_g</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1k_kD0D3QWDSkgLNPmMWglwncW_WwVA_g" length="1842777" type="audio/mpeg"/>
+      <pubDate>Sun, 18 Oct 2026 00:05:00 +0000</pubDate>
       <itunes:season>20</itunes:season>
       <itunes:episode>6</itunes:episode>
     </item>
@@ -80,7 +71,7 @@ TRACKS:
       <title>Muirsheen Durkin T95 - soprane2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=117D0FFsNsnqR4ltaRIm0oAEFNr05A-SQ</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=117D0FFsNsnqR4ltaRIm0oAEFNr05A-SQ" length="2782080" type="audio/mpeg"/>
-      <pubDate>Mon, 03 Aug 2026 00:04:00 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 00:04:00 +0000</pubDate>
       <itunes:season>20</itunes:season>
       <itunes:episode>5</itunes:episode>
     </item>
@@ -88,7 +79,7 @@ TRACKS:
       <title>Paddy Works T104 - soprane2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1oa7gNCr-sieltPf0ik051600rs8WjlsU</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1oa7gNCr-sieltPf0ik051600rs8WjlsU" length="3122880" type="audio/mpeg"/>
-      <pubDate>Mon, 03 Aug 2026 00:03:00 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 00:03:00 +0000</pubDate>
       <itunes:season>20</itunes:season>
       <itunes:episode>4</itunes:episode>
     </item>
@@ -96,7 +87,7 @@ TRACKS:
       <title>the parting glass-soprane1-soprane2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1o6Iks4D--3OBqW_zBrlpMBIl4dhrz3e3</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1o6Iks4D--3OBqW_zBrlpMBIl4dhrz3e3" length="1999786" type="audio/mpeg"/>
-      <pubDate>Mon, 03 Aug 2026 00:02:00 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 00:02:00 +0000</pubDate>
       <itunes:season>20</itunes:season>
       <itunes:episode>3</itunes:episode>
     </item>
@@ -104,7 +95,7 @@ TRACKS:
       <title>Sisi ni moja - soprane2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1U4NswifY9Biqd0YEkzJx1tob72ckPW_A</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1U4NswifY9Biqd0YEkzJx1tob72ckPW_A" length="5268960" type="audio/mpeg"/>
-      <pubDate>Mon, 03 Aug 2026 00:01:00 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 00:01:00 +0000</pubDate>
       <itunes:season>20</itunes:season>
       <itunes:episode>2</itunes:episode>
     </item>
@@ -112,7 +103,7 @@ TRACKS:
       <title>soir_doctobre_soprane1-soprane2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1HRmxDmUs6SzF-6V8pVjjWdFJD9UfCJ1V</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1HRmxDmUs6SzF-6V8pVjjWdFJD9UfCJ1V" length="2325542" type="audio/mpeg"/>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
       <itunes:season>20</itunes:season>
       <itunes:episode>1</itunes:episode>
     </item>
