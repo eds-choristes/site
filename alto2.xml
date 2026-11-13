@@ -8,6 +8,7 @@ TRACKS:
  - Rocky Road to Dublin T80 - alto1-alto2.mp3
  - TheWildRover - alto2.mp3
  - Pulse - alto2.mp3
+ - Gaelic Song - alto1-alto2.mp3
  - Walking In The Air - alto1-alto2.mp3
  - DingaDingaDing - alto1-alto2.mp3
  - noellanaro-alto1-alto2.mp3
@@ -22,7 +23,7 @@ TRACKS:
       <title>ALTO2 Programme2026</title>
       <link>https://podcast.echodespy.net</link>
     </image>
-    <lastBuildDate>Thu, 12 Nov 2026 11:23:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 09:26:43 +0000</lastBuildDate>
     <itunes:author>EDS</itunes:author>
     <itunes:category text="Education">
       <itunes:category text="Courses"/>
@@ -31,23 +32,31 @@ TRACKS:
       <title>Rocky Road to Dublin T80 - alto1-alto2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1KwZ0ZQn4R9DxF1zEg6hMO9d60QOXndOE</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1KwZ0ZQn4R9DxF1zEg6hMO9d60QOXndOE" length="6333120" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Nov 2026 00:09:00 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 00:10:00 +0000</pubDate>
       <itunes:season>21</itunes:season>
-      <itunes:episode>10</itunes:episode>
+      <itunes:episode>11</itunes:episode>
     </item>
     <item>
       <title>TheWildRover - alto2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1vVQPypDHEydHmfdEogY38oD5W6iivEII</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1vVQPypDHEydHmfdEogY38oD5W6iivEII" length="3670080" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Nov 2026 00:08:00 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 00:09:00 +0000</pubDate>
       <itunes:season>21</itunes:season>
-      <itunes:episode>9</itunes:episode>
+      <itunes:episode>10</itunes:episode>
     </item>
     <item>
       <title>Pulse - alto2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1J_jJAywqBSfrDSQ7vHAJcWmUzJ_nTbLO</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1J_jJAywqBSfrDSQ7vHAJcWmUzJ_nTbLO" length="4208640" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Nov 2026 00:07:00 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 00:08:00 +0000</pubDate>
+      <itunes:season>21</itunes:season>
+      <itunes:episode>9</itunes:episode>
+    </item>
+    <item>
+      <title>Gaelic Song - alto1-alto2.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1tK0TnyXIOwQO_e1qaDEACZXXZoxB9jCp</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1tK0TnyXIOwQO_e1qaDEACZXXZoxB9jCp" length="4968960" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Nov 2026 00:07:00 +0000</pubDate>
       <itunes:season>21</itunes:season>
       <itunes:episode>8</itunes:episode>
     </item>
@@ -55,7 +64,7 @@ TRACKS:
       <title>Walking In The Air - alto1-alto2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1fdv_ou-hs1zv_MdpTbnIebBEy52h3_Ii</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1fdv_ou-hs1zv_MdpTbnIebBEy52h3_Ii" length="3989760" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Nov 2026 00:06:00 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 00:06:00 +0000</pubDate>
       <itunes:season>21</itunes:season>
       <itunes:episode>7</itunes:episode>
     </item>
@@ -63,7 +72,7 @@ TRACKS:
       <title>DingaDingaDing - alto1-alto2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1yOkz3PpKzlwxh5dhaZIJG56FExxS2N6T</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1yOkz3PpKzlwxh5dhaZIJG56FExxS2N6T" length="2856480" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Nov 2026 00:05:00 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 00:05:00 +0000</pubDate>
       <itunes:season>21</itunes:season>
       <itunes:episode>6</itunes:episode>
     </item>
@@ -71,7 +80,7 @@ TRACKS:
       <title>noellanaro-alto1-alto2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=146VJWUG8t5lg6yiMUre23_--G02pAN56</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=146VJWUG8t5lg6yiMUre23_--G02pAN56" length="947144" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Nov 2026 00:04:00 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 00:04:00 +0000</pubDate>
       <itunes:season>21</itunes:season>
       <itunes:episode>5</itunes:episode>
     </item>
@@ -79,7 +88,7 @@ TRACKS:
       <title>Carol of the Bells - alto1-alto2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1TYCyNDnpVZSRaUad_YIjukPJ5znRq9yG</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1TYCyNDnpVZSRaUad_YIjukPJ5znRq9yG" length="1492224" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Nov 2026 00:03:00 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 00:03:00 +0000</pubDate>
       <itunes:season>21</itunes:season>
       <itunes:episode>4</itunes:episode>
     </item>
@@ -87,7 +96,7 @@ TRACKS:
       <title>Last Christmas - alto1-alto2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1lXMaKQn7SWXZSsHv_By_gkYo_KXystEW</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1lXMaKQn7SWXZSsHv_By_gkYo_KXystEW" length="4478880" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Nov 2026 00:02:00 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 00:02:00 +0000</pubDate>
       <itunes:season>21</itunes:season>
       <itunes:episode>3</itunes:episode>
     </item>
@@ -95,7 +104,7 @@ TRACKS:
       <title>JulJul - alto1-alto2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1Cfv0-furzjM16rUlTz85_ZVXfnWLK55V</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Cfv0-furzjM16rUlTz85_ZVXfnWLK55V" length="2198400" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Nov 2026 00:01:00 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 00:01:00 +0000</pubDate>
       <itunes:season>21</itunes:season>
       <itunes:episode>2</itunes:episode>
     </item>
@@ -103,7 +112,7 @@ TRACKS:
       <title>deckthehall-fr-alto1-alto2.mp3</title>
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1UaOSugRlTHQ1VX0eeIUzOS9_Z0mOdI3h</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1UaOSugRlTHQ1VX0eeIUzOS9_Z0mOdI3h" length="729681" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
       <itunes:season>21</itunes:season>
       <itunes:episode>1</itunes:episode>
     </item>
